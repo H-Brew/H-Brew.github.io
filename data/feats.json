@@ -120,51 +120,6 @@
 			]
 		},
 		{
-			"name": "Acrobat",
-			"source": "UAFeatsForSkills",
-			"page": 1,
-			"ability": [
-				{
-					"dex": 1
-				}
-			],
-			"skillProficiencies": [
-				{
-					"acrobatics": true
-				}
-			],
-			"entries": [
-				"You become more nimble, gaining the following benefits:",
-				{
-					"type": "list",
-					"items": [
-						"You gain proficiency in the {@skill Acrobatics} skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.",
-						"As a bonus action, you can make a DC 15 Dexterity ({@skill Acrobatics}) check. If you succeed, difficult terrain doesn't cost you extra movement until the end of the current turn."
-					]
-				}
-			]
-		},
-		{
-			"name": "Actor",
-			"source": "PHB",
-			"page": 165,
-			"ability": [
-				{
-					"cha": 1
-				}
-			],
-			"entries": [
-				"Skilled at mimicry and dramatics, you gain the following benefits:",
-				{
-					"type": "list",
-					"items": [
-						"You have advantage on Charisma ({@skill Deception}) and Charisma ({@skill Performance}) checks when trying to pass yourself off as a different person.",
-						"You can mimic the speech of another person or the sounds made by other creatures. You must have heard the person speaking, or heard the creature make the sound, for at least 1 minute. A successful Wisdom ({@skill Insight}) check contested by your Charisma ({@skill Deception}) check allows a listener to determine that the effect is faked."
-					]
-				}
-			]
-		},
-		{
 			"name": "Adept of the Black Robes",
 			"source": "UA2022HeroesOfKrynn",
 			"page": 5,
