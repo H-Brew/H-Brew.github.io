@@ -1070,13 +1070,13 @@
     {
       "name": "Mage of Lorehold (UA)",
       "shortName": "Lorehold (UA)",
-      "source": "HMB - UA",
+      "source": "UA2021MagesOfStrixhaven",
       "className": "Bard",
       "classSource": "PHB",
       "_copy": {
         "name": "Mage of Lorehold (UA)",
         "shortName": "Lorehold (UA)",
-        "source": "HMB - UA",
+        "source": "UA2021MagesOfStrixhaven",
         "className": "Generic",
         "classSource": "Generic",
         "_preserve": {
@@ -1087,13 +1087,13 @@
     {
       "name": "Mage of Silverquill (UA)",
       "shortName": "Silverquill (UA)",
-      "source": "HMB - UA",
+      "source": "UA2021MagesOfStrixhaven",
       "className": "Bard",
       "classSource": "PHB",
       "_copy": {
         "name": "Mage of Silverquill (UA)",
         "shortName": "Silverquill (UA)",
-        "source": "HMB - UA",
+        "source": "UA2021MagesOfStrixhaven",
         "className": "Generic",
         "classSource": "Generic",
         "_preserve": {
