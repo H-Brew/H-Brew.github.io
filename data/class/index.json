@@ -11,10 +11,9 @@
 	"paladin": "class-paladin.json",
 	"ranger": "class-ranger.json",
 	"rogue": "class-rogue.json",
-	"rune-scribe": "class-rune-scribe.json",
 	"sidekick": "class-sidekick.json",
 	"sorcerer": "class-sorcerer.json",
 	"warlock": "class-warlock.json",
 	"wizard": "class-wizard.json",
-	"warl": "class-ktw.json"
+	"warlord": "class-ktw.json"
 }
