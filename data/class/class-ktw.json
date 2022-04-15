@@ -1,4 +1,40 @@
 {
+	"_meta": {
+		"sources": [
+			{
+				"json": "ktw",
+				"abbreviation": "KT:W",
+				"full": "KibblesTasty: Warlord",
+				"authors": [
+					"KibblesTasty"
+				],
+				"convertedBy": [
+					"kerbs"
+				],
+				"version": "1.4.1",
+				"color": "7F153B",
+				"url": "https://www.gmbinder.com/share/-LW4agTNJcbwe6kSv4H2",
+				"targetSchema": "1.0.0"
+			},
+			{
+				"json": "ktwe",
+				"abbreviation": "KT:WE",
+				"full": "KibblesTasty: Warlord Expanded Tactics",
+				"authors": [
+					"KibblesTasty"
+				],
+				"convertedBy": [
+					"SasquatchBrah"
+				],
+				"version": "1",
+				"color": "7F153B",
+				"url": "https://www.gmbinder.com/share/-M5jFV5mDxXYWp46Mt5s",
+				"targetSchema": "1.0.0"
+			}
+		],
+		"dateAdded": 1588714562,
+		"dateLastModified": 1615315389
+	},
 	"class": [
 		{
 			"name": "Warlord",
