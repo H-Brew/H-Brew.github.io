@@ -361,6 +361,7 @@
 			"name": "Artificer (Revisited)",
 			"source": "UAArtificerRevisited",
 			"page": 1,
+			"isTestedReprinted": true,
 			"isReprinted": true,
 			"hd": {
 				"number": 1,
