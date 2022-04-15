@@ -1,5 +1,5 @@
 {
-	"artificerzz": "class-artificer.json",
+	"artificer": "class-artificer.json",
 	"barbarian": "class-barbarian.json",
 	"bard": "class-bard.json",
 	"cleric": "class-cleric.json",
@@ -15,6 +15,5 @@
 	"sidekick": "class-sidekick.json",
 	"sorcerer": "class-sorcerer.json",
 	"warlock": "class-warlock.json",
-	"wizard": "class-wizard.json",
-	"artificerddd": "class-artificerddd.json"
+	"wizard": "class-wizard.json"
 }
