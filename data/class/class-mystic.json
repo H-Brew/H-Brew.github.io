@@ -2,7 +2,7 @@
 	"class": [
 		{
 			"name": "Mystic",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 1,
 			"hd": {
 				"number": 1,
@@ -219,46 +219,46 @@
 				}
 			],
 			"classFeatures": [
-				"Psionics|Mystic|UATheMysticClass|1",
-				"Psionic Disciplines and Talents|Mystic|UATheMysticClass|1",
-				"Using a Discipline|Mystic|UATheMysticClass|1",
+				"Psionics|Mystic|UATheMysticClassyyy|1",
+				"Psionic Disciplines and Talents|Mystic|UATheMysticClassyyy|1",
+				"Using a Discipline|Mystic|UATheMysticClassyyy|1",
 				{
-					"classFeature": "Mystic Order|Mystic|UATheMysticClass|1",
+					"classFeature": "Mystic Order|Mystic|UATheMysticClassyyy|1",
 					"gainSubclassFeature": true
 				},
-				"Mystical Recovery|Mystic|UATheMysticClass|2",
-				"Telepathy|Mystic|UATheMysticClass|2",
+				"Mystical Recovery|Mystic|UATheMysticClassyyy|2",
+				"Telepathy|Mystic|UATheMysticClassyyy|2",
 				{
-					"classFeature": "Mystic Order feature|Mystic|UATheMysticClass|3",
+					"classFeature": "Mystic Order feature|Mystic|UATheMysticClassyyy|3",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Mystic|UATheMysticClass|4",
-				"Proficiency Versatility|Mystic|UATheMysticClass|4|UAClassFeatureVariants",
-				"Strength of Mind|Mystic|UATheMysticClass|4",
+				"Ability Score Improvement|Mystic|UATheMysticClassyyy|4",
+				"Proficiency Versatility|Mystic|UATheMysticClassyyy|4|UAClassFeatureVariants",
+				"Strength of Mind|Mystic|UATheMysticClassyyy|4",
 				{
-					"classFeature": "Mystic Order feature|Mystic|UATheMysticClass|6",
+					"classFeature": "Mystic Order feature|Mystic|UATheMysticClassyyy|6",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Mystic|UATheMysticClass|8",
-				"Proficiency Versatility|Mystic|UATheMysticClass|8|UAClassFeatureVariants",
-				"Potent Psionics (1d8)|Mystic|UATheMysticClass|8",
-				"Consumptive Power|Mystic|UATheMysticClass|10",
-				"Psionic Mastery (1/Day)|Mystic|UATheMysticClass|11",
-				"Ability Score Improvement|Mystic|UATheMysticClass|12",
-				"Proficiency Versatility|Mystic|UATheMysticClass|12|UAClassFeatureVariants",
-				"Psionic Mastery (2/Day)|Mystic|UATheMysticClass|13",
+				"Ability Score Improvement|Mystic|UATheMysticClassyyy|8",
+				"Proficiency Versatility|Mystic|UATheMysticClassyyy|8|UAClassFeatureVariants",
+				"Potent Psionics (1d8)|Mystic|UATheMysticClassyyy|8",
+				"Consumptive Power|Mystic|UATheMysticClassyyy|10",
+				"Psionic Mastery (1/Day)|Mystic|UATheMysticClassyyy|11",
+				"Ability Score Improvement|Mystic|UATheMysticClassyyy|12",
+				"Proficiency Versatility|Mystic|UATheMysticClassyyy|12|UAClassFeatureVariants",
+				"Psionic Mastery (2/Day)|Mystic|UATheMysticClassyyy|13",
 				{
-					"classFeature": "Mystic Order feature|Mystic|UATheMysticClass|14",
+					"classFeature": "Mystic Order feature|Mystic|UATheMysticClassyyy|14",
 					"gainSubclassFeature": true
 				},
-				"Potent Psionics (2d8)|Mystic|UATheMysticClass|14",
-				"Psionic Mastery (3/Day)|Mystic|UATheMysticClass|15",
-				"Ability Score Improvement|Mystic|UATheMysticClass|16",
-				"Proficiency Versatility|Mystic|UATheMysticClass|16|UAClassFeatureVariants",
-				"Psionic Mastery (4/Day)|Mystic|UATheMysticClass|17",
-				"Ability Score Improvement|Mystic|UATheMysticClass|19",
-				"Proficiency Versatility|Mystic|UATheMysticClass|19|UAClassFeatureVariants",
-				"Psionic Body|Mystic|UATheMysticClass|20"
+				"Potent Psionics (2d8)|Mystic|UATheMysticClassyyy|14",
+				"Psionic Mastery (3/Day)|Mystic|UATheMysticClassyyy|15",
+				"Ability Score Improvement|Mystic|UATheMysticClassyyy|16",
+				"Proficiency Versatility|Mystic|UATheMysticClassyyy|16|UAClassFeatureVariants",
+				"Psionic Mastery (4/Day)|Mystic|UATheMysticClassyyy|17",
+				"Ability Score Improvement|Mystic|UATheMysticClassyyy|19",
+				"Proficiency Versatility|Mystic|UATheMysticClassyyy|19|UAClassFeatureVariants",
+				"Psionic Body|Mystic|UATheMysticClassyyy|20"
 			],
 			"subclassTitle": "Mystic Order",
 			"fluff": [
@@ -405,7 +405,7 @@
 							]
 						}
 					],
-					"source": "UATheMysticClass",
+					"source": "UATheMysticClassyyy",
 					"page": 1
 				}
 			]
@@ -415,95 +415,95 @@
 		{
 			"name": "Order of the Avatar",
 			"shortName": "Avatar",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"page": 5,
 			"subclassFeatures": [
-				"Order of the Avatar|Mystic|UATheMysticClass|Avatar|UATheMysticClass|1",
-				"Avatar of Battle|Mystic|UATheMysticClass|Avatar|UATheMysticClass|3",
-				"Avatar of Healing|Mystic|UATheMysticClass|Avatar|UATheMysticClass|6",
-				"Avatar of Speed|Mystic|UATheMysticClass|Avatar|UATheMysticClass|14"
+				"Order of the Avatar|Mystic|UATheMysticClassyyy|Avatar|UATheMysticClassyyy|1",
+				"Avatar of Battle|Mystic|UATheMysticClassyyy|Avatar|UATheMysticClassyyy|3",
+				"Avatar of Healing|Mystic|UATheMysticClassyyy|Avatar|UATheMysticClassyyy|6",
+				"Avatar of Speed|Mystic|UATheMysticClassyyy|Avatar|UATheMysticClassyyy|14"
 			]
 		},
 		{
 			"name": "Order of the Awakened",
 			"shortName": "Awakened",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"page": 6,
 			"subclassFeatures": [
-				"Order of the Awakened|Mystic|UATheMysticClass|Awakened|UATheMysticClass|1",
-				"Psionic Investigation|Mystic|UATheMysticClass|Awakened|UATheMysticClass|3",
-				"Psionic Surge|Mystic|UATheMysticClass|Awakened|UATheMysticClass|6",
-				"Spectral Form|Mystic|UATheMysticClass|Awakened|UATheMysticClass|14"
+				"Order of the Awakened|Mystic|UATheMysticClassyyy|Awakened|UATheMysticClassyyy|1",
+				"Psionic Investigation|Mystic|UATheMysticClassyyy|Awakened|UATheMysticClassyyy|3",
+				"Psionic Surge|Mystic|UATheMysticClassyyy|Awakened|UATheMysticClassyyy|6",
+				"Spectral Form|Mystic|UATheMysticClassyyy|Awakened|UATheMysticClassyyy|14"
 			]
 		},
 		{
 			"name": "Order of the Immortal",
 			"shortName": "Immortal",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"page": 6,
 			"subclassFeatures": [
-				"Order of the Immortal|Mystic|UATheMysticClass|Immortal|UATheMysticClass|1",
-				"Psionic Resilience|Mystic|UATheMysticClass|Immortal|UATheMysticClass|3",
-				"Surge of Health|Mystic|UATheMysticClass|Immortal|UATheMysticClass|6",
-				"Immortal Will|Mystic|UATheMysticClass|Immortal|UATheMysticClass|14"
+				"Order of the Immortal|Mystic|UATheMysticClassyyy|Immortal|UATheMysticClassyyy|1",
+				"Psionic Resilience|Mystic|UATheMysticClassyyy|Immortal|UATheMysticClassyyy|3",
+				"Surge of Health|Mystic|UATheMysticClassyyy|Immortal|UATheMysticClassyyy|6",
+				"Immortal Will|Mystic|UATheMysticClassyyy|Immortal|UATheMysticClassyyy|14"
 			]
 		},
 		{
 			"name": "Order of the Nomad",
 			"shortName": "Nomad",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"page": 7,
 			"subclassFeatures": [
-				"Order of the Nomad|Mystic|UATheMysticClass|Nomad|UATheMysticClass|1",
-				"Memory of One Thousand Steps|Mystic|UATheMysticClass|Nomad|UATheMysticClass|3",
-				"Superior Teleportation|Mystic|UATheMysticClass|Nomad|UATheMysticClass|6",
-				"Effortless Journey|Mystic|UATheMysticClass|Nomad|UATheMysticClass|14"
+				"Order of the Nomad|Mystic|UATheMysticClassyyy|Nomad|UATheMysticClassyyy|1",
+				"Memory of One Thousand Steps|Mystic|UATheMysticClassyyy|Nomad|UATheMysticClassyyy|3",
+				"Superior Teleportation|Mystic|UATheMysticClassyyy|Nomad|UATheMysticClassyyy|6",
+				"Effortless Journey|Mystic|UATheMysticClassyyy|Nomad|UATheMysticClassyyy|14"
 			]
 		},
 		{
 			"name": "Order of the Soul Knife",
 			"shortName": "Soul Knife",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"page": 7,
 			"subclassFeatures": [
-				"Order of the Soul Knife|Mystic|UATheMysticClass|Soul Knife|UATheMysticClass|1",
-				"Hone the Blade|Mystic|UATheMysticClass|Soul Knife|UATheMysticClass|3",
-				"Consumptive Knife|Mystic|UATheMysticClass|Soul Knife|UATheMysticClass|6",
-				"Phantom Knife|Mystic|UATheMysticClass|Soul Knife|UATheMysticClass|14"
+				"Order of the Soul Knife|Mystic|UATheMysticClassyyy|Soul Knife|UATheMysticClassyyy|1",
+				"Hone the Blade|Mystic|UATheMysticClassyyy|Soul Knife|UATheMysticClassyyy|3",
+				"Consumptive Knife|Mystic|UATheMysticClassyyy|Soul Knife|UATheMysticClassyyy|6",
+				"Phantom Knife|Mystic|UATheMysticClassyyy|Soul Knife|UATheMysticClassyyy|14"
 			]
 		},
 		{
 			"name": "Order of the Wu Jen",
 			"shortName": "Wu Jen",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"page": 8,
 			"subclassFeatures": [
-				"Order of the Wu Jen|Mystic|UATheMysticClass|Wu Jen|UATheMysticClass|1",
-				"Elemental Attunement|Mystic|UATheMysticClass|Wu Jen|UATheMysticClass|3",
-				"Arcane Dabbler|Mystic|UATheMysticClass|Wu Jen|UATheMysticClass|6",
-				"Elemental Mastery|Mystic|UATheMysticClass|Wu Jen|UATheMysticClass|14"
+				"Order of the Wu Jen|Mystic|UATheMysticClassyyy|Wu Jen|UATheMysticClassyyy|1",
+				"Elemental Attunement|Mystic|UATheMysticClassyyy|Wu Jen|UATheMysticClassyyy|3",
+				"Arcane Dabbler|Mystic|UATheMysticClassyyy|Wu Jen|UATheMysticClassyyy|6",
+				"Elemental Mastery|Mystic|UATheMysticClassyyy|Wu Jen|UATheMysticClassyyy|14"
 			]
 		}
 	],
 	"classFeature": [
 		{
 			"name": "Mystic Order",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 1,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"level": 1,
 			"entries": [
 				"At 1st level, you choose a Mystic Order from the list of available orders. Each order specializes in a specific approach to psionics.",
@@ -512,10 +512,10 @@
 		},
 		{
 			"name": "Psionic Disciplines and Talents",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 1,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"level": 1,
 			"entries": [
 				"Psionic talents and disciplines are the heart of a mystic's craft. They are the mental exercises and psionic formulae used to forge will into tangible, magical effects.",
@@ -524,10 +524,10 @@
 		},
 		{
 			"name": "Psionics",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 1,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"level": 1,
 			"entries": [
 				"As a student of psionics, you can master and use psionic talents and disciplines, the rules for which appear at the end of this document. Psionics is a special form of magic use, distinct from spellcasting.",
@@ -595,10 +595,10 @@
 		},
 		{
 			"name": "Using a Discipline",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 1,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"level": 1,
 			"entries": [
 				"Each psionic discipline has several ways you can use it, all contained in its description. The discipline specifies the type of action and number of psi points it requires. It also details whether you must concentrate on its effects, how many targets it affects, what saving throws it requires, and so on.",
@@ -675,10 +675,10 @@
 		},
 		{
 			"name": "Mystical Recovery",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 1,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"level": 2,
 			"entries": [
 				"Starting at 2nd level, you can draw vigor from the psi energy you use to power your psionic disciplines.",
@@ -687,10 +687,10 @@
 		},
 		{
 			"name": "Telepathy",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 1,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"level": 2,
 			"entries": [
 				"At 2nd level, your mind awakens to the ability to communicate via telepathy. You can telepathically speak to any creature you can see within 120 feet of you in this manner. You don't need to share a language with the creature for it to understand your telepathic messages, but the creature must be able to understand at least one language or be telepathic itself."
@@ -698,10 +698,10 @@
 		},
 		{
 			"name": "Mystic Order feature",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 1,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"level": 3,
 			"entries": [
 				"At 3rd level, you gain another feature from your Mystic Order."
@@ -709,10 +709,10 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 1,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"level": 4,
 			"entries": [
 				"When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature."
@@ -723,7 +723,7 @@
 			"source": "UAClassFeatureVariants",
 			"page": 1,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"level": 4,
 			"isClassFeatureVariant": true,
 			"entries": [
@@ -734,10 +734,10 @@
 		},
 		{
 			"name": "Strength of Mind",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 1,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"level": 4,
 			"entries": [
 				"Even the simplest psionic technique requires a deep understanding of how psionic energy can augment mind and body. This understanding allows you to alter your defenses to better deal with threats.",
@@ -746,10 +746,10 @@
 		},
 		{
 			"name": "Mystic Order feature",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 1,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"level": 6,
 			"entries": [
 				"At 6th level, you gain another feature from your Mystic Order."
@@ -757,10 +757,10 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 1,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"level": 8,
 			"entries": [
 				"When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature."
@@ -768,10 +768,10 @@
 		},
 		{
 			"name": "Potent Psionics (1d8)",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 1,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"level": 8,
 			"entries": [
 				"At 8th level, you gain the ability to infuse your weapon attacks with psychic energy. Once on each of your turns when you hit a creature with a weapon, you can deal an extra {@damage 1d8} psychic damage to that target. When you reach 14th level, this extra damage increases to {@dice 2d8}.",
@@ -783,7 +783,7 @@
 			"source": "UAClassFeatureVariants",
 			"page": 1,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"level": 8,
 			"isClassFeatureVariant": true,
 			"entries": [
@@ -794,10 +794,10 @@
 		},
 		{
 			"name": "Consumptive Power",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 1,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"level": 10,
 			"entries": [
 				"At 10th level, you gain the ability to sacrifice your physical durability in exchange for psionic power. When activating a psionic discipline, you can pay its psi point cost with your hit points, instead of using any psi points. Your current hit points and hit point maximum are both reduced by the number of hit points you spend. This reduction can't be lessened in any way, and the reduction to your hit point maximum lasts until you finish a long rest.",
@@ -806,10 +806,10 @@
 		},
 		{
 			"name": "Psionic Mastery (1/Day)",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 1,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"level": 11,
 			"entries": [
 				"Beginning at 11th level, your mastery of psionic energy allows you to push your mind beyond its normal limits. As an action, you gain 9 special psi points that you can spend only on disciplines that require an action or a bonus action to use. You can use all 9 points on one discipline, or you can spread them across multiple disciplines. You can't also spend your normal psi points on these disciplines; you can spend only the special points gained from this feature. When you finish a long rest, you lose any of these special points that you haven't spent.",
@@ -820,10 +820,10 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 1,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"level": 12,
 			"entries": [
 				"When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature."
@@ -834,7 +834,7 @@
 			"source": "UAClassFeatureVariants",
 			"page": 1,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"level": 12,
 			"isClassFeatureVariant": true,
 			"entries": [
@@ -845,10 +845,10 @@
 		},
 		{
 			"name": "Psionic Mastery (2/Day)",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 1,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"level": 13,
 			"entries": [
 				"At 13th level, you can use your Psionic Mastery twice per day."
@@ -856,10 +856,10 @@
 		},
 		{
 			"name": "Mystic Order feature",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 1,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"level": 14,
 			"entries": [
 				"At 14th level, you gain another feature from your Mystic Order."
@@ -867,10 +867,10 @@
 		},
 		{
 			"name": "Potent Psionics (2d8)",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 1,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"level": 14,
 			"entries": [
 				"At 14th level, your potent psionics damage increased to {@dice 2d8}."
@@ -878,10 +878,10 @@
 		},
 		{
 			"name": "Psionic Mastery (3/Day)",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 1,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"level": 15,
 			"entries": [
 				"At 15th level, you can use your Psionic Mastery three times per day."
@@ -889,10 +889,10 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 1,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"level": 16,
 			"entries": [
 				"When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature."
@@ -903,7 +903,7 @@
 			"source": "UAClassFeatureVariants",
 			"page": 1,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"level": 16,
 			"isClassFeatureVariant": true,
 			"entries": [
@@ -914,10 +914,10 @@
 		},
 		{
 			"name": "Psionic Mastery (4/Day)",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 1,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"level": 17,
 			"entries": [
 				"At 17th level, you can use your Psionic Mastery four times per day."
@@ -925,10 +925,10 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 1,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"level": 19,
 			"entries": [
 				"When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature."
@@ -939,7 +939,7 @@
 			"source": "UAClassFeatureVariants",
 			"page": 1,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"level": 19,
 			"isClassFeatureVariant": true,
 			"entries": [
@@ -950,10 +950,10 @@
 		},
 		{
 			"name": "Psionic Body",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 1,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"level": 20,
 			"entries": [
 				"At 20th level, your mastery of psionic power causes your mind to transcend the body. Your physical form is infused with psionic energy. You gain the following benefits:",
@@ -972,34 +972,34 @@
 	"subclassFeature": [
 		{
 			"name": "Order of the Avatar",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 5,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Avatar",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 1,
 			"entries": [
 				"Mystics of the Order of the Avatar delve into the world of emotion, mastering their inner life to such an extent that they can manipulate and amplify the emotions of others with the same ease that an artist shapes clay. Known as Avatars, these mystics vary from tyrants to inspiring leaders who are loved by their followers.",
 				"Avatars can bring out extreme emotions in the people around them. For their allies, they can lend hope, ferocity, and courage, transforming a fighting band into a deadly, unified force. For their enemies, they bring fear, disgust, and trepidation that can make even the most hardened veteran act like a shaky rookie.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bonus Disciplines|Mystic|UATheMysticClass|Avatar|UATheMysticClass|1"
+					"subclassFeature": "Bonus Disciplines|Mystic|UATheMysticClassyyy|Avatar|UATheMysticClassyyy|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Armor Training|Mystic|UATheMysticClass|Avatar|UATheMysticClass|1"
+					"subclassFeature": "Armor Training|Mystic|UATheMysticClassyyy|Avatar|UATheMysticClassyyy|1"
 				}
 			]
 		},
 		{
 			"name": "Armor Training",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 5,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Avatar",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 1,
 			"header": 1,
 			"entries": [
@@ -1008,12 +1008,12 @@
 		},
 		{
 			"name": "Bonus Disciplines",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 5,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Avatar",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 1,
 			"header": 1,
 			"entries": [
@@ -1022,12 +1022,12 @@
 		},
 		{
 			"name": "Avatar of Battle",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 5,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Avatar",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 3,
 			"header": 2,
 			"entries": [
@@ -1036,12 +1036,12 @@
 		},
 		{
 			"name": "Avatar of Healing",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 5,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Avatar",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -1050,12 +1050,12 @@
 		},
 		{
 			"name": "Avatar of Speed",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 5,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Avatar",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -1064,34 +1064,34 @@
 		},
 		{
 			"name": "Order of the Awakened",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 6,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Awakened",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 1,
 			"entries": [
 				"Mystics dedicated to the Order of the Awakened seek to unlock the full potential of the mind. By transcending the physical, the Awakened hope to attain a state of being focused on pure intellect and mental energy.",
 				"The Awakened are skilled at bending minds and unleashing devastating psionic attacks, and they can read the secrets of the world through psionic energy. Awakened mystics who take to adventuring excel at unraveling mysteries, solving puzzles, and defeating monsters by turning them into unwilling pawns.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bonus Disciplines|Mystic|UATheMysticClass|Awakened|UATheMysticClass|1"
+					"subclassFeature": "Bonus Disciplines|Mystic|UATheMysticClassyyy|Awakened|UATheMysticClassyyy|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Awakened Talent|Mystic|UATheMysticClass|Awakened|UATheMysticClass|1"
+					"subclassFeature": "Awakened Talent|Mystic|UATheMysticClassyyy|Awakened|UATheMysticClassyyy|1"
 				}
 			]
 		},
 		{
 			"name": "Awakened Talent",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 6,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Awakened",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 1,
 			"header": 1,
 			"entries": [
@@ -1100,12 +1100,12 @@
 		},
 		{
 			"name": "Bonus Disciplines",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 6,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Awakened",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 1,
 			"header": 1,
 			"entries": [
@@ -1114,12 +1114,12 @@
 		},
 		{
 			"name": "Psionic Investigation",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 6,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Awakened",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 3,
 			"header": 2,
 			"entries": [
@@ -1131,12 +1131,12 @@
 		},
 		{
 			"name": "Psionic Surge",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 6,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Awakened",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -1146,12 +1146,12 @@
 		},
 		{
 			"name": "Spectral Form",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 6,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Awakened",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -1161,34 +1161,34 @@
 		},
 		{
 			"name": "Order of the Immortal",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 6,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Immortal",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 1,
 			"entries": [
 				"The Order of the Immortal uses psionic energy to augment and modify the physical form. Followers of this order are known as Immortals. They use psionic energy to modify their bodies, strengthening them against attack and turning themselves into living weapons.",
 				"Their mastery of the physical form grants them their name, for Immortals are notoriously difficult to kill.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bonus Disciplines|Mystic|UATheMysticClass|Immortal|UATheMysticClass|1"
+					"subclassFeature": "Bonus Disciplines|Mystic|UATheMysticClassyyy|Immortal|UATheMysticClassyyy|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Immortal Durability|Mystic|UATheMysticClass|Immortal|UATheMysticClass|1"
+					"subclassFeature": "Immortal Durability|Mystic|UATheMysticClassyyy|Immortal|UATheMysticClassyyy|1"
 				}
 			]
 		},
 		{
 			"name": "Bonus Disciplines",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 6,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Immortal",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 1,
 			"header": 1,
 			"entries": [
@@ -1197,12 +1197,12 @@
 		},
 		{
 			"name": "Immortal Durability",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 6,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Immortal",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 1,
 			"header": 1,
 			"entries": [
@@ -1212,12 +1212,12 @@
 		},
 		{
 			"name": "Psionic Resilience",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 6,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Immortal",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 3,
 			"header": 2,
 			"entries": [
@@ -1226,12 +1226,12 @@
 		},
 		{
 			"name": "Surge of Health",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 6,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Immortal",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -1241,12 +1241,12 @@
 		},
 		{
 			"name": "Immortal Will",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 6,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Immortal",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -1255,34 +1255,34 @@
 		},
 		{
 			"name": "Order of the Nomad",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 7,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Nomad",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 1,
 			"entries": [
 				"Mystics of the Order of the Nomad keep their minds in a strange, rarified state. They seek to accumulate as much knowledge as possible, as they quest to unravel the mysteries of the multiverse and seek the underlying structure of all things. At the same time, they perceive a bizarre, living web of knowledge they call the noosphere.",
 				"Nomads, as their name indicates, delight in travel, exploration, and discovery. They desire to accumulate as much knowledge as possible, and the pursuit of secrets and hidden lore can become an obsession for them.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bonus Disciplines|Mystic|UATheMysticClass|Nomad|UATheMysticClass|1"
+					"subclassFeature": "Bonus Disciplines|Mystic|UATheMysticClassyyy|Nomad|UATheMysticClassyyy|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Breadth of Knowledge|Mystic|UATheMysticClass|Nomad|UATheMysticClass|1"
+					"subclassFeature": "Breadth of Knowledge|Mystic|UATheMysticClassyyy|Nomad|UATheMysticClassyyy|1"
 				}
 			]
 		},
 		{
 			"name": "Bonus Disciplines",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 7,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Nomad",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 1,
 			"header": 1,
 			"entries": [
@@ -1291,12 +1291,12 @@
 		},
 		{
 			"name": "Breadth of Knowledge",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 7,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Nomad",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 1,
 			"header": 1,
 			"entries": [
@@ -1305,12 +1305,12 @@
 		},
 		{
 			"name": "Memory of One Thousand Steps",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 7,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Nomad",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 3,
 			"header": 2,
 			"entries": [
@@ -1319,12 +1319,12 @@
 		},
 		{
 			"name": "Superior Teleportation",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 7,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Nomad",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -1333,12 +1333,12 @@
 		},
 		{
 			"name": "Effortless Journey",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 7,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Nomad",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -1347,34 +1347,34 @@
 		},
 		{
 			"name": "Order of the Soul Knife",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 7,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Soul Knife",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 1,
 			"entries": [
 				"The Order of the Soul Knife sacrifices the breadth of knowledge other mystics gain to focus on a specific psionic technique. These mystics learn to manifest a deadly weapon of pure psychic energy that they can use to cleave through foes.",
 				"Soul knives vary widely in their approach to this path. Some follow it out of a desire to achieve martial perfection. Others are ruthless assassins who seek to become the perfect killer.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Martial Training|Mystic|UATheMysticClass|Soul Knife|UATheMysticClass|1"
+					"subclassFeature": "Martial Training|Mystic|UATheMysticClassyyy|Soul Knife|UATheMysticClassyyy|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Soul Knife|Mystic|UATheMysticClass|Soul Knife|UATheMysticClass|1"
+					"subclassFeature": "Soul Knife|Mystic|UATheMysticClassyyy|Soul Knife|UATheMysticClassyyy|1"
 				}
 			]
 		},
 		{
 			"name": "Martial Training",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 7,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Soul Knife",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 1,
 			"header": 1,
 			"entries": [
@@ -1383,12 +1383,12 @@
 		},
 		{
 			"name": "Soul Knife",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 7,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Soul Knife",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 1,
 			"header": 1,
 			"entries": [
@@ -1399,12 +1399,12 @@
 		},
 		{
 			"name": "Hone the Blade",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 7,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Soul Knife",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 3,
 			"header": 2,
 			"entries": [
@@ -1438,12 +1438,12 @@
 		},
 		{
 			"name": "Consumptive Knife",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 7,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Soul Knife",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -1452,12 +1452,12 @@
 		},
 		{
 			"name": "Phantom Knife",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 7,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Soul Knife",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -1466,34 +1466,34 @@
 		},
 		{
 			"name": "Order of the Wu Jen",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 8,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Wu Jen",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 1,
 			"entries": [
 				"The Order of the Wu Jen features some of the most devoted mystics. These mystics seek to lock themselves away from the world, denying the limits of the physical world and replacing it with a reality that they create for themselves. Known as wu jens, these mystics cast their minds into the world, seize control of its fundamental principles, and rebuild it.",
 				"In practical terms, wu jens excel at controlling the forces of the natural world. They can hurl objects with their minds, control the four elements, and alter reality to fit their desires.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bonus Disciplines|Mystic|UATheMysticClass|Wu Jen|UATheMysticClass|1"
+					"subclassFeature": "Bonus Disciplines|Mystic|UATheMysticClassyyy|Wu Jen|UATheMysticClassyyy|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Hermit's Study|Mystic|UATheMysticClass|Wu Jen|UATheMysticClass|1"
+					"subclassFeature": "Hermit's Study|Mystic|UATheMysticClassyyy|Wu Jen|UATheMysticClassyyy|1"
 				}
 			]
 		},
 		{
 			"name": "Bonus Disciplines",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 8,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Wu Jen",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 1,
 			"header": 1,
 			"entries": [
@@ -1502,12 +1502,12 @@
 		},
 		{
 			"name": "Hermit's Study",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 8,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Wu Jen",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 1,
 			"header": 1,
 			"entries": [
@@ -1516,12 +1516,12 @@
 		},
 		{
 			"name": "Elemental Attunement",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 8,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Wu Jen",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 3,
 			"header": 2,
 			"entries": [
@@ -1530,12 +1530,12 @@
 		},
 		{
 			"name": "Arcane Dabbler",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 8,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Wu Jen",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -1580,12 +1580,12 @@
 		},
 		{
 			"name": "Elemental Mastery",
-			"source": "UATheMysticClass",
+			"source": "UATheMysticClassyyy",
 			"page": 8,
 			"className": "Mystic",
-			"classSource": "UATheMysticClass",
+			"classSource": "UATheMysticClassyyy",
 			"subclassShortName": "Wu Jen",
-			"subclassSource": "UATheMysticClass",
+			"subclassSource": "UATheMysticClassyyy",
 			"level": 14,
 			"header": 2,
 			"entries": [
