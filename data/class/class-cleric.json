@@ -1419,13 +1419,13 @@
 				}
 			],
 			"subclassFeatures": [
-				"Ambition Domain (PSA)|Cleric||Ambition (PSA)|PSA|1",
-				"Channel Divinity: Invoke Duplicity|Cleric||Ambition (PSA)|PSA|2",
-				"Channel Divinity: Cloak of Shadows|Cleric||Ambition (PSA)|PSA|6",
-				"Potent Spellcasting|Cleric||Ambition (PSA)|PSA|8",
-				"Blessed Strikes|Cleric||Ambition (PSA)|PSA|8|UAClassFeatureVariants",
-				"Blessed Strikes|Cleric||Ambition (PSA)|PSA|8|TCE",
-				"Improved Duplicity|Cleric||Ambition (PSA)|PSA|17"
+				"Ambition Domain (PSA)|Cleric||Ambition (PSA)|UA - Cleric|1",
+				"Channel Divinity: Invoke Duplicity|Cleric||Ambition (PSA)|UA - Cleric|2",
+				"Channel Divinity: Cloak of Shadows|Cleric||Ambition (PSA)|UA - Cleric|6",
+				"Potent Spellcasting|Cleric||Ambition (PSA)|UA - Cleric|8",
+				"Blessed Strikes|Cleric||Ambition (PSA)|UA - Cleric|8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric||Ambition (PSA)|UA - Cleric|8|TCE",
+				"Improved Duplicity|Cleric||Ambition (PSA)|UA - Cleric|17"
 			]
 		},
 		{
@@ -1437,11 +1437,11 @@
 			"page": 25,
 			"isReprinted": true,
 			"subclassFeatures": [
-				"Knowledge Domain (PSA)|Cleric||Knowledge (PSA)|PSA|1",
-				"Subclass Feature|Cleric||Knowledge (PSA)|PSA|2",
-				"Subclass Feature|Cleric||Knowledge (PSA)|PSA|6",
-				"Subclass Feature|Cleric||Knowledge (PSA)|PSA|8",
-				"Subclass Feature|Cleric||Knowledge (PSA)|PSA|17"
+				"Knowledge Domain (PSA)|Cleric||Knowledge (PSA)|UA - Cleric|1",
+				"Subclass Feature|Cleric||Knowledge (PSA)|UA - Cleric|2",
+				"Subclass Feature|Cleric||Knowledge (PSA)|UA - Cleric|6",
+				"Subclass Feature|Cleric||Knowledge (PSA)|UA - Cleric|8",
+				"Subclass Feature|Cleric||Knowledge (PSA)|UA - Cleric|17"
 			]
 		},
 		{
@@ -1478,13 +1478,13 @@
 				}
 			],
 			"subclassFeatures": [
-				"Solidarity Domain (PSA)|Cleric||Solidarity (PSA)|PSA|1",
-				"Channel Divinity: Preserve Life|Cleric||Solidarity (PSA)|PSA|2",
-				"Oketra's Blessing|Cleric||Solidarity (PSA)|PSA|6",
-				"Divine Strike|Cleric||Solidarity (PSA)|PSA|8",
-				"Blessed Strikes|Cleric||Solidarity (PSA)|PSA|8|UAClassFeatureVariants",
-				"Blessed Strikes|Cleric||Solidarity (PSA)|PSA|8|TCE",
-				"Supreme Healing|Cleric||Solidarity (PSA)|PSA|17"
+				"Solidarity Domain (PSA)|Cleric||Solidarity (PSA)|UA - Cleric|1",
+				"Channel Divinity: Preserve Life|Cleric||Solidarity (PSA)|UA - Cleric|2",
+				"Oketra's Blessing|Cleric||Solidarity (PSA)|UA - Cleric|6",
+				"Divine Strike|Cleric||Solidarity (PSA)|UA - Cleric|8",
+				"Blessed Strikes|Cleric||Solidarity (PSA)|UA - Cleric|8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric||Solidarity (PSA)|UA - Cleric|8|TCE",
+				"Supreme Healing|Cleric||Solidarity (PSA)|UA - Cleric|17"
 			]
 		},
 		{
@@ -1530,13 +1530,13 @@
 				}
 			],
 			"subclassFeatures": [
-				"Strength Domain (PSA)|Cleric||Strength (PSA)|PSA|1",
-				"Channel Divinity: Feat of Strength|Cleric||Strength (PSA)|PSA|2",
-				"Rhonas's Blessing|Cleric||Strength (PSA)|PSA|6",
-				"Divine Strike|Cleric||Strength (PSA)|PSA|8",
-				"Blessed Strikes|Cleric||Strength (PSA)|PSA|8|UAClassFeatureVariants",
-				"Blessed Strikes|Cleric||Strength (PSA)|PSA|8|TCE",
-				"Avatar of Battle|Cleric||Strength (PSA)|PSA|17"
+				"Strength Domain (PSA)|Cleric||Strength (PSA)|UA - Cleric|1",
+				"Channel Divinity: Feat of Strength|Cleric||Strength (PSA)|UA - Cleric|2",
+				"Rhonas's Blessing|Cleric||Strength (PSA)|UA - Cleric|6",
+				"Divine Strike|Cleric||Strength (PSA)|UA - Cleric|8",
+				"Blessed Strikes|Cleric||Strength (PSA)|UA - Cleric|8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric||Strength (PSA)|UA - Cleric|8|TCE",
+				"Avatar of Battle|Cleric||Strength (PSA)|UA - Cleric|17"
 			]
 		},
 		{
@@ -1573,13 +1573,13 @@
 				}
 			],
 			"subclassFeatures": [
-				"Zeal Domain (PSA)|Cleric||Zeal (PSA)|PSA|1",
-				"Channel Divinity: Consuming Fervor|Cleric||Zeal (PSA)|PSA|2",
-				"Resounding Strike|Cleric||Zeal (PSA)|PSA|6",
-				"Divine Strike|Cleric||Zeal (PSA)|PSA|8",
-				"Blessed Strikes|Cleric||Zeal (PSA)|PSA|8|UAClassFeatureVariants",
-				"Blessed Strikes|Cleric||Zeal (PSA)|PSA|8|TCE",
-				"Blaze of Glory|Cleric||Zeal (PSA)|PSA|17"
+				"Zeal Domain (PSA)|Cleric||Zeal (PSA)|UA - Cleric|1",
+				"Channel Divinity: Consuming Fervor|Cleric||Zeal (PSA)|UA - Cleric|2",
+				"Resounding Strike|Cleric||Zeal (PSA)|UA - Cleric|6",
+				"Divine Strike|Cleric||Zeal (PSA)|UA - Cleric|8",
+				"Blessed Strikes|Cleric||Zeal (PSA)|UA - Cleric|8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric||Zeal (PSA)|UA - Cleric|8|TCE",
+				"Blaze of Glory|Cleric||Zeal (PSA)|UA - Cleric|17"
 			]
 		},
 		{
@@ -3954,7 +3954,7 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Warding Flare|Cleric||Ambition (PSA)|PSA|1"
+					"subclassFeature": "Warding Flare|Cleric||Ambition (PSA)|UA - Cleric|1"
 				}
 			]
 		},
@@ -4189,11 +4189,11 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bonus Proficiency|Cleric||Solidarity (PSA)|PSA|1"
+					"subclassFeature": "Bonus Proficiency|Cleric||Solidarity (PSA)|UA - Cleric|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Solidarity's Action|Cleric||Solidarity (PSA)|PSA|1"
+					"subclassFeature": "Solidarity's Action|Cleric||Solidarity (PSA)|UA - Cleric|1"
 				}
 			]
 		},
@@ -4366,11 +4366,11 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Acolyte of Strength|Cleric||Strength (PSA)|PSA|1"
+					"subclassFeature": "Acolyte of Strength|Cleric||Strength (PSA)|UA - Cleric|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bonus Proficiency|Cleric||Strength (PSA)|PSA|1"
+					"subclassFeature": "Bonus Proficiency|Cleric||Strength (PSA)|UA - Cleric|1"
 				}
 			]
 		},
@@ -4542,11 +4542,11 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bonus Proficiencies|Cleric||Zeal (PSA)|PSA|1"
+					"subclassFeature": "Bonus Proficiencies|Cleric||Zeal (PSA)|UA - Cleric|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Priest of Zeal|Cleric||Zeal (PSA)|PSA|1"
+					"subclassFeature": "Priest of Zeal|Cleric||Zeal (PSA)|UA - Cleric|1"
 				}
 			]
 		},
