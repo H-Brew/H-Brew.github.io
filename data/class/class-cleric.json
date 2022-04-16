@@ -629,15 +629,15 @@
 								},
 								{
 									"type": "entries",
-									"name": "Keepsake",
+									"name": "KeeUA - Clericke",
 									"entries": [
 										"Many clerics have items among their personal gear that symbolize their faith, remind them of their vows, or otherwise help to keep them on their chosen paths. Even though such an item is not imbued with divine power, it is vitally important to its owner because of what it represents.",
 										{
 											"type": "table",
-											"caption": "Keepsake",
+											"caption": "KeeUA - Clericke",
 											"colLabels": [
 												"{@dice d6}",
-												"Keepsake"
+												"KeeUA - Clericke"
 											],
 											"colStyles": [
 												"col-1 text-center",
@@ -1386,9 +1386,9 @@
 			]
 		},
 		{
-			"name": "Ambition Domain (PSA)",
-			"shortName": "Ambition (PSA)",
-			"source": "PSA",
+			"name": "Ambition Domain (UA - Cleric)",
+			"shortName": "Ambition (UA - Cleric)",
+			"source": "UA - Cleric",
 			"className": "Cleric",
 			"classSource": "PHB",
 			"page": 27,
@@ -1419,35 +1419,35 @@
 				}
 			],
 			"subclassFeatures": [
-				"Ambition Domain (PSA)|Cleric||Ambition (PSA)|UA - Cleric|1",
-				"Channel Divinity: Invoke Duplicity|Cleric||Ambition (PSA)|UA - Cleric|2",
-				"Channel Divinity: Cloak of Shadows|Cleric||Ambition (PSA)|UA - Cleric|6",
-				"Potent Spellcasting|Cleric||Ambition (PSA)|UA - Cleric|8",
-				"Blessed Strikes|Cleric||Ambition (PSA)|UA - Cleric|8|UAClassFeatureVariants",
-				"Blessed Strikes|Cleric||Ambition (PSA)|UA - Cleric|8|TCE",
-				"Improved Duplicity|Cleric||Ambition (PSA)|UA - Cleric|17"
+				"Ambition Domain (UA - Cleric)|Cleric||Ambition (UA - Cleric)|UA - Cleric|1",
+				"Channel Divinity: Invoke Duplicity|Cleric||Ambition (UA - Cleric)|UA - Cleric|2",
+				"Channel Divinity: Cloak of Shadows|Cleric||Ambition (UA - Cleric)|UA - Cleric|6",
+				"Potent Spellcasting|Cleric||Ambition (UA - Cleric)|UA - Cleric|8",
+				"Blessed Strikes|Cleric||Ambition (UA - Cleric)|UA - Cleric|8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric||Ambition (UA - Cleric)|UA - Cleric|8|TCE",
+				"Improved Duplicity|Cleric||Ambition (UA - Cleric)|UA - Cleric|17"
 			]
 		},
 		{
-			"name": "Knowledge Domain (PSA)",
-			"shortName": "Knowledge (PSA)",
-			"source": "PSA",
+			"name": "Knowledge Domain (UA - Cleric)",
+			"shortName": "Knowledge (UA - Cleric)",
+			"source": "UA - Cleric",
 			"className": "Cleric",
 			"classSource": "PHB",
 			"page": 25,
 			"isReprinted": true,
 			"subclassFeatures": [
-				"Knowledge Domain (PSA)|Cleric||Knowledge (PSA)|UA - Cleric|1",
-				"Subclass Feature|Cleric||Knowledge (PSA)|UA - Cleric|2",
-				"Subclass Feature|Cleric||Knowledge (PSA)|UA - Cleric|6",
-				"Subclass Feature|Cleric||Knowledge (PSA)|UA - Cleric|8",
-				"Subclass Feature|Cleric||Knowledge (PSA)|UA - Cleric|17"
+				"Knowledge Domain (UA - Cleric)|Cleric||Knowledge (UA - Cleric)|UA - Cleric|1",
+				"Subclass Feature|Cleric||Knowledge (UA - Cleric)|UA - Cleric|2",
+				"Subclass Feature|Cleric||Knowledge (UA - Cleric)|UA - Cleric|6",
+				"Subclass Feature|Cleric||Knowledge (UA - Cleric)|UA - Cleric|8",
+				"Subclass Feature|Cleric||Knowledge (UA - Cleric)|UA - Cleric|17"
 			]
 		},
 		{
-			"name": "Solidarity Domain (PSA)",
-			"shortName": "Solidarity (PSA)",
-			"source": "PSA",
+			"name": "Solidarity Domain (UA - Cleric)",
+			"shortName": "Solidarity (UA - Cleric)",
+			"source": "UA - Cleric",
 			"className": "Cleric",
 			"classSource": "PHB",
 			"page": 24,
@@ -1478,19 +1478,19 @@
 				}
 			],
 			"subclassFeatures": [
-				"Solidarity Domain (PSA)|Cleric||Solidarity (PSA)|UA - Cleric|1",
-				"Channel Divinity: Preserve Life|Cleric||Solidarity (PSA)|UA - Cleric|2",
-				"Oketra's Blessing|Cleric||Solidarity (PSA)|UA - Cleric|6",
-				"Divine Strike|Cleric||Solidarity (PSA)|UA - Cleric|8",
-				"Blessed Strikes|Cleric||Solidarity (PSA)|UA - Cleric|8|UAClassFeatureVariants",
-				"Blessed Strikes|Cleric||Solidarity (PSA)|UA - Cleric|8|TCE",
-				"Supreme Healing|Cleric||Solidarity (PSA)|UA - Cleric|17"
+				"Solidarity Domain (UA - Cleric)|Cleric||Solidarity (UA - Cleric)|UA - Cleric|1",
+				"Channel Divinity: Preserve Life|Cleric||Solidarity (UA - Cleric)|UA - Cleric|2",
+				"Oketra's Blessing|Cleric||Solidarity (UA - Cleric)|UA - Cleric|6",
+				"Divine Strike|Cleric||Solidarity (UA - Cleric)|UA - Cleric|8",
+				"Blessed Strikes|Cleric||Solidarity (UA - Cleric)|UA - Cleric|8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric||Solidarity (UA - Cleric)|UA - Cleric|8|TCE",
+				"Supreme Healing|Cleric||Solidarity (UA - Cleric)|UA - Cleric|17"
 			]
 		},
 		{
-			"name": "Strength Domain (PSA)",
-			"shortName": "Strength (PSA)",
-			"source": "PSA",
+			"name": "Strength Domain (UA - Cleric)",
+			"shortName": "Strength (UA - Cleric)",
+			"source": "UA - Cleric",
 			"className": "Cleric",
 			"classSource": "PHB",
 			"page": 26,
@@ -1530,19 +1530,19 @@
 				}
 			],
 			"subclassFeatures": [
-				"Strength Domain (PSA)|Cleric||Strength (PSA)|UA - Cleric|1",
-				"Channel Divinity: Feat of Strength|Cleric||Strength (PSA)|UA - Cleric|2",
-				"Rhonas's Blessing|Cleric||Strength (PSA)|UA - Cleric|6",
-				"Divine Strike|Cleric||Strength (PSA)|UA - Cleric|8",
-				"Blessed Strikes|Cleric||Strength (PSA)|UA - Cleric|8|UAClassFeatureVariants",
-				"Blessed Strikes|Cleric||Strength (PSA)|UA - Cleric|8|TCE",
-				"Avatar of Battle|Cleric||Strength (PSA)|UA - Cleric|17"
+				"Strength Domain (UA - Cleric)|Cleric||Strength (UA - Cleric)|UA - Cleric|1",
+				"Channel Divinity: Feat of Strength|Cleric||Strength (UA - Cleric)|UA - Cleric|2",
+				"Rhonas's Blessing|Cleric||Strength (UA - Cleric)|UA - Cleric|6",
+				"Divine Strike|Cleric||Strength (UA - Cleric)|UA - Cleric|8",
+				"Blessed Strikes|Cleric||Strength (UA - Cleric)|UA - Cleric|8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric||Strength (UA - Cleric)|UA - Cleric|8|TCE",
+				"Avatar of Battle|Cleric||Strength (UA - Cleric)|UA - Cleric|17"
 			]
 		},
 		{
-			"name": "Zeal Domain (PSA)",
-			"shortName": "Zeal (PSA)",
-			"source": "PSA",
+			"name": "Zeal Domain (UA - Cleric)",
+			"shortName": "Zeal (UA - Cleric)",
+			"source": "UA - Cleric",
 			"className": "Cleric",
 			"classSource": "PHB",
 			"page": 28,
@@ -1573,13 +1573,13 @@
 				}
 			],
 			"subclassFeatures": [
-				"Zeal Domain (PSA)|Cleric||Zeal (PSA)|UA - Cleric|1",
-				"Channel Divinity: Consuming Fervor|Cleric||Zeal (PSA)|UA - Cleric|2",
-				"Resounding Strike|Cleric||Zeal (PSA)|UA - Cleric|6",
-				"Divine Strike|Cleric||Zeal (PSA)|UA - Cleric|8",
-				"Blessed Strikes|Cleric||Zeal (PSA)|UA - Cleric|8|UAClassFeatureVariants",
-				"Blessed Strikes|Cleric||Zeal (PSA)|UA - Cleric|8|TCE",
-				"Blaze of Glory|Cleric||Zeal (PSA)|UA - Cleric|17"
+				"Zeal Domain (UA - Cleric)|Cleric||Zeal (UA - Cleric)|UA - Cleric|1",
+				"Channel Divinity: Consuming Fervor|Cleric||Zeal (UA - Cleric)|UA - Cleric|2",
+				"Resounding Strike|Cleric||Zeal (UA - Cleric)|UA - Cleric|6",
+				"Divine Strike|Cleric||Zeal (UA - Cleric)|UA - Cleric|8",
+				"Blessed Strikes|Cleric||Zeal (UA - Cleric)|UA - Cleric|8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric||Zeal (UA - Cleric)|UA - Cleric|8|TCE",
+				"Blaze of Glory|Cleric||Zeal (UA - Cleric)|UA - Cleric|17"
 			]
 		},
 		{
@@ -3906,13 +3906,13 @@
 			]
 		},
 		{
-			"name": "Ambition Domain (PSA)",
-			"source": "PSA",
+			"name": "Ambition Domain (UA - Cleric)",
+			"source": "UA - Cleric",
 			"page": 27,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Ambition (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Ambition (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 1,
 			"entries": [
 				"\"The worthy shall strive for greatness\u2014supremacy in life leads to supremacy in the afterlife.\"",
@@ -3954,18 +3954,18 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Warding Flare|Cleric||Ambition (PSA)|UA - Cleric|1"
+					"subclassFeature": "Warding Flare|Cleric||Ambition (UA - Cleric)|UA - Cleric|1"
 				}
 			]
 		},
 		{
 			"name": "Warding Flare",
-			"source": "PSA",
+			"source": "UA - Cleric",
 			"page": 27,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Ambition (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Ambition (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 1,
 			"header": 1,
 			"entries": [
@@ -3975,12 +3975,12 @@
 		},
 		{
 			"name": "Channel Divinity: Invoke Duplicity",
-			"source": "PSA",
+			"source": "UA - Cleric",
 			"page": 27,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Ambition (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Ambition (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 2,
 			"header": 2,
 			"consumes": {
@@ -3994,12 +3994,12 @@
 		},
 		{
 			"name": "Channel Divinity: Cloak of Shadows",
-			"source": "PSA",
+			"source": "UA - Cleric",
 			"page": 27,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Ambition (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Ambition (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 6,
 			"header": 2,
 			"consumes": {
@@ -4015,8 +4015,8 @@
 			"page": 30,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Ambition (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Ambition (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 8,
 			"isClassFeatureVariant": true,
 			"header": 2,
@@ -4031,8 +4031,8 @@
 			"page": 4,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Ambition (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Ambition (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 8,
 			"isClassFeatureVariant": true,
 			"header": 2,
@@ -4043,12 +4043,12 @@
 		},
 		{
 			"name": "Potent Spellcasting",
-			"source": "PSA",
+			"source": "UA - Cleric",
 			"page": 27,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Ambition (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Ambition (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 8,
 			"header": 2,
 			"entries": [
@@ -4057,12 +4057,12 @@
 		},
 		{
 			"name": "Improved Duplicity",
-			"source": "PSA",
+			"source": "UA - Cleric",
 			"page": 27,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Ambition (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Ambition (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 17,
 			"header": 2,
 			"entries": [
@@ -4070,13 +4070,13 @@
 			]
 		},
 		{
-			"name": "Knowledge Domain (PSA)",
-			"source": "PSA",
+			"name": "Knowledge Domain (UA - Cleric)",
+			"source": "UA - Cleric",
 			"page": 25,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Knowledge (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Knowledge (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 1,
 			"entries": [
 				"\"The worthy shall cultivate a nimble mind that can perceive the wonders beyond imagination that wait in the afterlife.\"",
@@ -4086,12 +4086,12 @@
 		},
 		{
 			"name": "Subclass Feature",
-			"source": "PSA",
+			"source": "UA - Cleric",
 			"page": 25,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Knowledge (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Knowledge (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 2,
 			"header": 2,
 			"entries": [
@@ -4100,12 +4100,12 @@
 		},
 		{
 			"name": "Subclass Feature",
-			"source": "PSA",
+			"source": "UA - Cleric",
 			"page": 25,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Knowledge (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Knowledge (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -4114,12 +4114,12 @@
 		},
 		{
 			"name": "Subclass Feature",
-			"source": "PSA",
+			"source": "UA - Cleric",
 			"page": 25,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Knowledge (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Knowledge (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 8,
 			"header": 2,
 			"entries": [
@@ -4128,12 +4128,12 @@
 		},
 		{
 			"name": "Subclass Feature",
-			"source": "PSA",
+			"source": "UA - Cleric",
 			"page": 25,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Knowledge (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Knowledge (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 17,
 			"header": 2,
 			"entries": [
@@ -4141,13 +4141,13 @@
 			]
 		},
 		{
-			"name": "Solidarity Domain (PSA)",
-			"source": "PSA",
+			"name": "Solidarity Domain (UA - Cleric)",
+			"source": "UA - Cleric",
 			"page": 24,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Solidarity (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Solidarity (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 1,
 			"entries": [
 				"\"The worthy must know and respect all others whom the God-Pharaoh deems worthy, for in the afterlife, all will be united in purpose and action.\"",
@@ -4189,22 +4189,22 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bonus Proficiency|Cleric||Solidarity (PSA)|UA - Cleric|1"
+					"subclassFeature": "Bonus Proficiency|Cleric||Solidarity (UA - Cleric)|UA - Cleric|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Solidarity's Action|Cleric||Solidarity (PSA)|UA - Cleric|1"
+					"subclassFeature": "Solidarity's Action|Cleric||Solidarity (UA - Cleric)|UA - Cleric|1"
 				}
 			]
 		},
 		{
 			"name": "Bonus Proficiency",
-			"source": "PSA",
+			"source": "UA - Cleric",
 			"page": 24,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Solidarity (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Solidarity (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 1,
 			"header": 1,
 			"entries": [
@@ -4213,12 +4213,12 @@
 		},
 		{
 			"name": "Solidarity's Action",
-			"source": "PSA",
+			"source": "UA - Cleric",
 			"page": 24,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Solidarity (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Solidarity (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 1,
 			"header": 1,
 			"entries": [
@@ -4227,12 +4227,12 @@
 		},
 		{
 			"name": "Channel Divinity: Preserve Life",
-			"source": "PSA",
+			"source": "UA - Cleric",
 			"page": 24,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Solidarity (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Solidarity (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 2,
 			"header": 2,
 			"consumes": {
@@ -4245,12 +4245,12 @@
 		},
 		{
 			"name": "Oketra's Blessing",
-			"source": "PSA",
+			"source": "UA - Cleric",
 			"page": 24,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Solidarity (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Solidarity (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -4263,8 +4263,8 @@
 			"page": 30,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Solidarity (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Solidarity (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 8,
 			"isClassFeatureVariant": true,
 			"header": 2,
@@ -4279,8 +4279,8 @@
 			"page": 4,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Solidarity (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Solidarity (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 8,
 			"isClassFeatureVariant": true,
 			"header": 2,
@@ -4291,12 +4291,12 @@
 		},
 		{
 			"name": "Divine Strike",
-			"source": "PSA",
+			"source": "UA - Cleric",
 			"page": 24,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Solidarity (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Solidarity (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 8,
 			"header": 2,
 			"entries": [
@@ -4305,12 +4305,12 @@
 		},
 		{
 			"name": "Supreme Healing",
-			"source": "PSA",
+			"source": "UA - Cleric",
 			"page": 24,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Solidarity (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Solidarity (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 17,
 			"header": 2,
 			"entries": [
@@ -4318,13 +4318,13 @@
 			]
 		},
 		{
-			"name": "Strength Domain (PSA)",
-			"source": "PSA",
+			"name": "Strength Domain (UA - Cleric)",
+			"source": "UA - Cleric",
 			"page": 26,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Strength (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Strength (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 1,
 			"entries": [
 				"\"The worthy shall hone a strong body that can withstand the boundless energies of the afterlife.\"",
@@ -4366,22 +4366,22 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Acolyte of Strength|Cleric||Strength (PSA)|UA - Cleric|1"
+					"subclassFeature": "Acolyte of Strength|Cleric||Strength (UA - Cleric)|UA - Cleric|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bonus Proficiency|Cleric||Strength (PSA)|UA - Cleric|1"
+					"subclassFeature": "Bonus Proficiency|Cleric||Strength (UA - Cleric)|UA - Cleric|1"
 				}
 			]
 		},
 		{
 			"name": "Acolyte of Strength",
-			"source": "PSA",
+			"source": "UA - Cleric",
 			"page": 26,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Strength (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Strength (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 1,
 			"header": 1,
 			"entries": [
@@ -4390,12 +4390,12 @@
 		},
 		{
 			"name": "Bonus Proficiency",
-			"source": "PSA",
+			"source": "UA - Cleric",
 			"page": 26,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Strength (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Strength (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 1,
 			"header": 1,
 			"entries": [
@@ -4404,12 +4404,12 @@
 		},
 		{
 			"name": "Channel Divinity: Feat of Strength",
-			"source": "PSA",
+			"source": "UA - Cleric",
 			"page": 26,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Strength (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Strength (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 2,
 			"header": 2,
 			"consumes": {
@@ -4421,12 +4421,12 @@
 		},
 		{
 			"name": "Rhonas's Blessing",
-			"source": "PSA",
+			"source": "UA - Cleric",
 			"page": 26,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Strength (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Strength (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -4439,8 +4439,8 @@
 			"page": 30,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Strength (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Strength (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 8,
 			"isClassFeatureVariant": true,
 			"header": 2,
@@ -4455,8 +4455,8 @@
 			"page": 4,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Strength (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Strength (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 8,
 			"isClassFeatureVariant": true,
 			"header": 2,
@@ -4467,12 +4467,12 @@
 		},
 		{
 			"name": "Divine Strike",
-			"source": "PSA",
+			"source": "UA - Cleric",
 			"page": 26,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Strength (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Strength (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 8,
 			"header": 2,
 			"entries": [
@@ -4481,12 +4481,12 @@
 		},
 		{
 			"name": "Avatar of Battle",
-			"source": "PSA",
+			"source": "UA - Cleric",
 			"page": 26,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Strength (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Strength (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 17,
 			"header": 2,
 			"entries": [
@@ -4494,13 +4494,13 @@
 			]
 		},
 		{
-			"name": "Zeal Domain (PSA)",
-			"source": "PSA",
+			"name": "Zeal Domain (UA - Cleric)",
+			"source": "UA - Cleric",
 			"page": 28,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Zeal (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Zeal (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 1,
 			"entries": [
 				"\"The worthy shall rush to the God-Pharaoh's side with relentless zeal, rising to overcome every obstacle in their way.\"",
@@ -4542,22 +4542,22 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bonus Proficiencies|Cleric||Zeal (PSA)|UA - Cleric|1"
+					"subclassFeature": "Bonus Proficiencies|Cleric||Zeal (UA - Cleric)|UA - Cleric|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Priest of Zeal|Cleric||Zeal (PSA)|UA - Cleric|1"
+					"subclassFeature": "Priest of Zeal|Cleric||Zeal (UA - Cleric)|UA - Cleric|1"
 				}
 			]
 		},
 		{
 			"name": "Bonus Proficiencies",
-			"source": "PSA",
+			"source": "UA - Cleric",
 			"page": 28,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Zeal (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Zeal (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 1,
 			"header": 1,
 			"entries": [
@@ -4566,12 +4566,12 @@
 		},
 		{
 			"name": "Priest of Zeal",
-			"source": "PSA",
+			"source": "UA - Cleric",
 			"page": 28,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Zeal (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Zeal (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 1,
 			"header": 1,
 			"entries": [
@@ -4581,12 +4581,12 @@
 		},
 		{
 			"name": "Channel Divinity: Consuming Fervor",
-			"source": "PSA",
+			"source": "UA - Cleric",
 			"page": 28,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Zeal (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Zeal (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 2,
 			"header": 2,
 			"consumes": {
@@ -4599,12 +4599,12 @@
 		},
 		{
 			"name": "Resounding Strike",
-			"source": "PSA",
+			"source": "UA - Cleric",
 			"page": 28,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Zeal (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Zeal (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -4617,8 +4617,8 @@
 			"page": 30,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Zeal (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Zeal (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 8,
 			"isClassFeatureVariant": true,
 			"header": 2,
@@ -4633,8 +4633,8 @@
 			"page": 4,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Zeal (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Zeal (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 8,
 			"isClassFeatureVariant": true,
 			"header": 2,
@@ -4645,12 +4645,12 @@
 		},
 		{
 			"name": "Divine Strike",
-			"source": "PSA",
+			"source": "UA - Cleric",
 			"page": 28,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Zeal (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Zeal (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 8,
 			"header": 2,
 			"entries": [
@@ -4659,12 +4659,12 @@
 		},
 		{
 			"name": "Blaze of Glory",
-			"source": "PSA",
+			"source": "UA - Cleric",
 			"page": 28,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Zeal (PSA)",
-			"subclassSource": "PSA",
+			"subclassShortName": "Zeal (UA - Cleric)",
+			"subclassSource": "UA - Cleric",
 			"level": 17,
 			"header": 2,
 			"entries": [
