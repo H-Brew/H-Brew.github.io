@@ -62,7 +62,7 @@ class PageFilter {
 	}
 
 	static _getSubclassFilterItem ({className, classSource, subclassShortName, subclassSource, subSubclassName, isVariantClass, definedInSource}) {
-		const group = SourceUtil.isSubclassReprinted(className, classSource, subclassShortName, subclassSource) || Parser.sourceJsonToFull(subclassSource).startsWith(UA_PREFIX) || Parser.sourceJsonToFull(subclassSource).startsWith(PS_PREFIX);
+		const group = SourceUtil.isSubclassReprinted(className, classSource, subclassShortName, subclassSource) || Parser.sourceJsonToFull(subclassSource).startsWith(UA_PREFIX) || Parser.sourceJsonToFull(subclassSource).startsWith(PS_PREFIX) || Parser.sourceJsonToFull(subclassSource).startsWith(HMB_PREFIX);
 
 		const classFilterItem = this._getClassFilterItem({
 			className: subclassShortName,
