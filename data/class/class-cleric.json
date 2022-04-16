@@ -6615,6 +6615,7 @@
       "name": "City Domain (UA)",
       "source": "UA - Cleric",
       "page": 1,
+      "Homebrew": true,
       "className": "Cleric",
       "classSource": "PHB",
       "subclassShortName": "City (UA)",
