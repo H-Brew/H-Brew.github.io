@@ -1764,7 +1764,7 @@
 		{
 			"name": "Love Domain (UA)",
 			"shortName": "Love (UA)",
-			"source": "UA2020SubclassesPt2",
+			"source": "UA - Cleric",
 			"className": "Cleric",
 			"classSource": "PHB",
 			"page": 2,
@@ -1796,19 +1796,19 @@
 				}
 			],
 			"subclassFeatures": [
-				"Love Domain (UA)|Cleric||Love (UA)|UA2020SubclassesPt2|1",
-				"Channel Divinity: Impulsive Infatuation|Cleric||Love (UA)|UA2020SubclassesPt2|2",
-				"Protective Bond|Cleric||Love (UA)|UA2020SubclassesPt2|6",
-				"Potent Spellcasting|Cleric||Love (UA)|UA2020SubclassesPt2|8",
-				"Blessed Strikes|Cleric||Love (UA)|UA2020SubclassesPt2|8|UAClassFeatureVariants",
-				"Blessed Strikes|Cleric||Love (UA)|UA2020SubclassesPt2|8|TCE",
-				"Enduring Unity|Cleric||Love (UA)|UA2020SubclassesPt2|17"
+				"Love Domain (UA)|Cleric||Love (UA)|UA - Cleric|1",
+				"Channel Divinity: Impulsive Infatuation|Cleric||Love (UA)|UA - Cleric|2",
+				"Protective Bond|Cleric||Love (UA)|UA - Cleric|6",
+				"Potent Spellcasting|Cleric||Love (UA)|UA - Cleric|8",
+				"Blessed Strikes|Cleric||Love (UA)|UA - Cleric|8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric||Love (UA)|UA - Cleric|8|TCE",
+				"Enduring Unity|Cleric||Love (UA)|UA - Cleric|17"
 			]
 		},
 		{
 			"name": "Unity Domain (UA)",
 			"shortName": "Unity (UA)",
-			"source": "UA2020SubclassesPt2",
+			"source": "UA - Cleric",
 			"className": "Cleric",
 			"classSource": "PHB",
 			"page": 2,
@@ -1840,13 +1840,13 @@
 				}
 			],
 			"subclassFeatures": [
-				"Unity Domain (UA)|Cleric||Unity (UA)|UA2020SubclassesPt2|1",
-				"Channel Divinity: Shared Burden|Cleric||Unity (UA)|UA2020SubclassesPt2|2",
-				"Protective Bond|Cleric||Unity (UA)|UA2020SubclassesPt2|6",
-				"Potent Spellcasting|Cleric||Unity (UA)|UA2020SubclassesPt2|8",
-				"Blessed Strikes|Cleric||Unity (UA)|UA2020SubclassesPt2|8|UAClassFeatureVariants",
-				"Blessed Strikes|Cleric||Unity (UA)|UA2020SubclassesPt2|8|TCE",
-				"Enduring Unity|Cleric||Unity (UA)|UA2020SubclassesPt2|17"
+				"Unity Domain (UA)|Cleric||Unity (UA)|UA - Cleric|1",
+				"Channel Divinity: Shared Burden|Cleric||Unity (UA)|UA - Cleric|2",
+				"Protective Bond|Cleric||Unity (UA)|UA - Cleric|6",
+				"Potent Spellcasting|Cleric||Unity (UA)|UA - Cleric|8",
+				"Blessed Strikes|Cleric||Unity (UA)|UA - Cleric|8|UAClassFeatureVariants",
+				"Blessed Strikes|Cleric||Unity (UA)|UA - Cleric|8|TCE",
+				"Enduring Unity|Cleric||Unity (UA)|UA - Cleric|17"
 			]
 		},
 		{
@@ -5560,12 +5560,12 @@
 		},
 		{
 			"name": "Love Domain (UA)",
-			"source": "UA2020SubclassesPt2",
+			"source": "UA - Cleric",
 			"page": 2,
 			"className": "Cleric",
 			"classSource": "PHB",
 			"subclassShortName": "Love (UA)",
-			"subclassSource": "UA2020SubclassesPt2",
+			"subclassSource": "UA - Cleric",
 			"level": 1,
 			"entries": [
 				"{@note Note: The Love domain was included in a leaked pre-release version of {@i Unearthed Arcana 2020 Subclasses, Part 2}, and superseded by the Unity domain for the final release.}",
@@ -5677,18 +5677,18 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Emboldening Bond|Cleric||Love (UA)|UA2020SubclassesPt2|1"
+					"subclassFeature": "Emboldening Bond|Cleric||Love (UA)|UA - Cleric|1"
 				}
 			]
 		},
 		{
 			"name": "Emboldening Bond",
-			"source": "UA2020SubclassesPt2",
+			"source": "UA - Cleric",
 			"page": 2,
 			"className": "Cleric",
 			"classSource": "PHB",
 			"subclassShortName": "Love (UA)",
-			"subclassSource": "UA2020SubclassesPt2",
+			"subclassSource": "UA - Cleric",
 			"level": 1,
 			"header": 1,
 			"entries": [
@@ -5699,12 +5699,12 @@
 		},
 		{
 			"name": "Channel Divinity: Impulsive Infatuation",
-			"source": "UA2020SubclassesPt2",
+			"source": "UA - Cleric",
 			"page": 2,
 			"className": "Cleric",
 			"classSource": "PHB",
 			"subclassShortName": "Love (UA)",
-			"subclassSource": "UA2020SubclassesPt2",
+			"subclassSource": "UA - Cleric",
 			"level": 2,
 			"header": 2,
 			"consumes": {
@@ -5718,12 +5718,12 @@
 		},
 		{
 			"name": "Protective Bond",
-			"source": "UA2020SubclassesPt2",
+			"source": "UA - Cleric",
 			"page": 2,
 			"className": "Cleric",
 			"classSource": "PHB",
 			"subclassShortName": "Love (UA)",
-			"subclassSource": "UA2020SubclassesPt2",
+			"subclassSource": "UA - Cleric",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -5738,7 +5738,7 @@
 			"className": "Cleric",
 			"classSource": "PHB",
 			"subclassShortName": "Love (UA)",
-			"subclassSource": "UA2020SubclassesPt2",
+			"subclassSource": "UA - Cleric",
 			"level": 8,
 			"isClassFeatureVariant": true,
 			"header": 2,
@@ -5754,7 +5754,7 @@
 			"className": "Cleric",
 			"classSource": "PHB",
 			"subclassShortName": "Love (UA)",
-			"subclassSource": "UA2020SubclassesPt2",
+			"subclassSource": "UA - Cleric",
 			"level": 8,
 			"isClassFeatureVariant": true,
 			"header": 2,
@@ -5765,12 +5765,12 @@
 		},
 		{
 			"name": "Potent Spellcasting",
-			"source": "UA2020SubclassesPt2",
+			"source": "UA - Cleric",
 			"page": 2,
 			"className": "Cleric",
 			"classSource": "PHB",
 			"subclassShortName": "Love (UA)",
-			"subclassSource": "UA2020SubclassesPt2",
+			"subclassSource": "UA - Cleric",
 			"level": 8,
 			"header": 2,
 			"entries": [
@@ -5780,12 +5780,12 @@
 		},
 		{
 			"name": "Enduring Unity",
-			"source": "UA2020SubclassesPt2",
+			"source": "UA - Cleric",
 			"page": 2,
 			"className": "Cleric",
 			"classSource": "PHB",
 			"subclassShortName": "Love (UA)",
-			"subclassSource": "UA2020SubclassesPt2",
+			"subclassSource": "UA - Cleric",
 			"level": 17,
 			"header": 2,
 			"entries": [
@@ -5804,12 +5804,12 @@
 		},
 		{
 			"name": "Unity Domain (UA)",
-			"source": "UA2020SubclassesPt2",
+			"source": "UA - Cleric",
 			"page": 2,
 			"className": "Cleric",
 			"classSource": "PHB",
 			"subclassShortName": "Unity (UA)",
-			"subclassSource": "UA2020SubclassesPt2",
+			"subclassSource": "UA - Cleric",
 			"level": 1,
 			"entries": [
 				"A sense of oneness shines at the heart of healthy communities, whether bound together by friendship, blood, faith, or some other uniting force. The gods of unity deepen such bonds and delight in their strength.",
@@ -5904,18 +5904,18 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Emboldening Bond|Cleric||Unity (UA)|UA2020SubclassesPt2|1"
+					"subclassFeature": "Emboldening Bond|Cleric||Unity (UA)|UA - Cleric|1"
 				}
 			]
 		},
 		{
 			"name": "Emboldening Bond",
-			"source": "UA2020SubclassesPt2",
+			"source": "UA - Cleric",
 			"page": 2,
 			"className": "Cleric",
 			"classSource": "PHB",
 			"subclassShortName": "Unity (UA)",
-			"subclassSource": "UA2020SubclassesPt2",
+			"subclassSource": "UA - Cleric",
 			"level": 1,
 			"header": 1,
 			"entries": [
@@ -5926,12 +5926,12 @@
 		},
 		{
 			"name": "Channel Divinity: Shared Burden",
-			"source": "UA2020SubclassesPt2",
+			"source": "UA - Cleric",
 			"page": 2,
 			"className": "Cleric",
 			"classSource": "PHB",
 			"subclassShortName": "Unity (UA)",
-			"subclassSource": "UA2020SubclassesPt2",
+			"subclassSource": "UA - Cleric",
 			"level": 2,
 			"header": 2,
 			"consumes": {
@@ -5945,12 +5945,12 @@
 		},
 		{
 			"name": "Protective Bond",
-			"source": "UA2020SubclassesPt2",
+			"source": "UA - Cleric",
 			"page": 2,
 			"className": "Cleric",
 			"classSource": "PHB",
 			"subclassShortName": "Unity (UA)",
-			"subclassSource": "UA2020SubclassesPt2",
+			"subclassSource": "UA - Cleric",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -5965,7 +5965,7 @@
 			"className": "Cleric",
 			"classSource": "PHB",
 			"subclassShortName": "Unity (UA)",
-			"subclassSource": "UA2020SubclassesPt2",
+			"subclassSource": "UA - Cleric",
 			"level": 8,
 			"isClassFeatureVariant": true,
 			"header": 2,
@@ -5981,7 +5981,7 @@
 			"className": "Cleric",
 			"classSource": "PHB",
 			"subclassShortName": "Unity (UA)",
-			"subclassSource": "UA2020SubclassesPt2",
+			"subclassSource": "UA - Cleric",
 			"level": 8,
 			"isClassFeatureVariant": true,
 			"header": 2,
@@ -5992,12 +5992,12 @@
 		},
 		{
 			"name": "Potent Spellcasting",
-			"source": "UA2020SubclassesPt2",
+			"source": "UA - Cleric",
 			"page": 2,
 			"className": "Cleric",
 			"classSource": "PHB",
 			"subclassShortName": "Unity (UA)",
-			"subclassSource": "UA2020SubclassesPt2",
+			"subclassSource": "UA - Cleric",
 			"level": 8,
 			"header": 2,
 			"entries": [
@@ -6007,12 +6007,12 @@
 		},
 		{
 			"name": "Enduring Unity",
-			"source": "UA2020SubclassesPt2",
+			"source": "UA - Cleric",
 			"page": 2,
 			"className": "Cleric",
 			"classSource": "PHB",
 			"subclassShortName": "Unity (UA)",
-			"subclassSource": "UA2020SubclassesPt2",
+			"subclassSource": "UA - Cleric",
 			"level": 17,
 			"header": 2,
 			"entries": [
