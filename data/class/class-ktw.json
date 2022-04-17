@@ -2,7 +2,7 @@
   "class": [
     {
       "name": "Warlord",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "hd": {
         "number": 1,
         "faces": 10
@@ -352,51 +352,51 @@
       ],
       "classFeatures": [
         {
-          "classFeature": "Warlord Presence|Warlord|UA HMB - Kibbles|1",
+          "classFeature": "Warlord Presence|Warlord|HMB - Kibbles|1",
           "gainSubclassFeature": true
         },
-        "Battlefield Presence|Warlord|UA HMB - Kibbles|1",
-        "Leadership Dice|Warlord|UA HMB - Kibbles|2",
-        "Warlord's Expertise|Warlord|UA HMB - Kibbles|3",
+        "Battlefield Presence|Warlord|HMB - Kibbles|1",
+        "Leadership Dice|Warlord|HMB - Kibbles|2",
+        "Warlord's Expertise|Warlord|HMB - Kibbles|3",
         {
-          "classFeature": "Warlord Presence feature|Warlord|UA HMB - Kibbles|3",
+          "classFeature": "Warlord Presence feature|Warlord|HMB - Kibbles|3",
           "gainSubclassFeature": true
         },
-        "Ability Score Improvement|Warlord|UA HMB - Kibbles|4",
-        "Extra Attack|Warlord|UA HMB - Kibbles|5",
-        "Prepare for Battle|Warlord|UA HMB - Kibbles|6",
+        "Ability Score Improvement|Warlord|HMB - Kibbles|4",
+        "Extra Attack|Warlord|HMB - Kibbles|5",
+        "Prepare for Battle|Warlord|HMB - Kibbles|6",
         {
-          "classFeature": "Warlord Presence feature|Warlord|UA HMB - Kibbles|7",
+          "classFeature": "Warlord Presence feature|Warlord|HMB - Kibbles|7",
           "gainSubclassFeature": true
         },
-        "Ability Score Improvement|Warlord|UA HMB - Kibbles|8",
-        "Press the Attack|Warlord|UA HMB - Kibbles|9",
-        "Ability Score Improvement|Warlord|UA HMB - Kibbles|10",
+        "Ability Score Improvement|Warlord|HMB - Kibbles|8",
+        "Press the Attack|Warlord|HMB - Kibbles|9",
+        "Ability Score Improvement|Warlord|HMB - Kibbles|10",
         {
-          "classFeature": "Warlord Presence feature|Warlord|UA HMB - Kibbles|11",
+          "classFeature": "Warlord Presence feature|Warlord|HMB - Kibbles|11",
           "gainSubclassFeature": true
         },
-        "Ability Score Improvement|Warlord|UA HMB - Kibbles|12",
-        "Warlord's Intuition|Warlord|UA HMB - Kibbles|13",
-        "Shift the Field|Warlord|UA HMB - Kibbles|14",
+        "Ability Score Improvement|Warlord|HMB - Kibbles|12",
+        "Warlord's Intuition|Warlord|HMB - Kibbles|13",
+        "Shift the Field|Warlord|HMB - Kibbles|14",
         {
-          "classFeature": "Warlord Presence feature|Warlord|UA HMB - Kibbles|15",
+          "classFeature": "Warlord Presence feature|Warlord|HMB - Kibbles|15",
           "gainSubclassFeature": true
         },
-        "Ability Score Improvement|Warlord|UA HMB - Kibbles|16",
-        "Unbreakable Will|Warlord|UA HMB - Kibbles|17",
+        "Ability Score Improvement|Warlord|HMB - Kibbles|16",
+        "Unbreakable Will|Warlord|HMB - Kibbles|17",
         {
-          "classFeature": "Warlord Presence feature|Warlord|UA HMB - Kibbles|18",
+          "classFeature": "Warlord Presence feature|Warlord|HMB - Kibbles|18",
           "gainSubclassFeature": true
         },
-        "Ability Score Improvement|Warlord|UA HMB - Kibbles|19",
-        "Tireless Leader|Warlord|UA HMB - Kibbles|20"
+        "Ability Score Improvement|Warlord|HMB - Kibbles|19",
+        "Tireless Leader|Warlord|HMB - Kibbles|20"
       ],
       "subclassTitle": "Warlord's Presence",
       "fluff": [
         {
           "name": "Warlord",
-          "source": "UA HMB - Kibbles",
+          "source": "HMB - Kibbles",
           "type": "section",
           "entries": [
             "Two vast armies stand across the field of death, fear gripping the heart of every soldier. From their ranks, the banner is carried forth - a shining beacon without fear. Before they even know it, their feet pound across the ground, their fear left behind as they follow their symbol of hope to victory.",
@@ -447,9 +447,9 @@
   "classFeature": [
     {
       "name": "Warlord Presence",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "level": 1,
       "entries": [
         "At 1st level, you pick the archetype of Warlord you embody, called a Presence. Your choice grants you features at 1st level, and again at 3rd, 7th, 11th, 15th, and 18th level."
@@ -457,9 +457,9 @@
     },
     {
       "name": "Battlefield Presence",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "level": 1,
       "entries": [
         "Starting at 1st level, when you take the {@action Attack} action, in place of making an attack, you can use your Battlefield Presence to grant a friendly creature that can see or hear you an additional attack the next time they take the {@action Attack} action during their turn.",
@@ -468,9 +468,9 @@
     },
     {
       "name": "Leadership Dice",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "level": 2,
       "entries": [
         "Starting at 2nd level, you have access to Leadership Dice. These represent your ability to focus your battlefield presence to powerful results. Your Warlord level determines the number and size of the dice, as shown on the Leadership Dice column of the Warlord table. You can spend these to fuel various features.",
@@ -503,9 +503,9 @@
     },
     {
       "name": "Warlord's Expertise",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "level": 3,
       "entries": [
         "Starting at 3rd level, you gain proficiency one of the {@skill Persuasion}, {@skill Intimidation}, {@skill Insight} or {@skill Investigation}. If you are already proficient in the skill you select, your proficiency bonus is doubled for any ability check you make that uses that skill."
@@ -513,9 +513,9 @@
     },
     {
       "name": "Warlord Presence feature",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "level": 3,
       "entries": [
         "At 3rd level, you gain a feature granted by your Warlord Presence."
@@ -523,9 +523,9 @@
     },
     {
       "name": "Ability Score Improvement",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "level": 4,
       "entries": [
         "When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
@@ -534,9 +534,9 @@
     },
     {
       "name": "Extra Attack",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "level": 5,
       "entries": [
         "Beginning at 5th level, you can attack twice, instead of once, whenever you take the {@action Attack} action on your turn.",
@@ -545,9 +545,9 @@
     },
     {
       "name": "Prepare for Battle",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "level": 6,
       "entries": [
         "Starting at 6th level, you can spend a minute preparing up to five allies for combat. You can expend a number of Leadership Dice up to your per turn limit, rolling them and causing your allies to gain temporary hit points equal to the number rolled. Allies that have benefited from this ability can expend a number of hit dice equal to the number of Leadership Dice you expended, using them as they would during a short rest. Any temporary hit points gained from this last until you complete a short or long rest."
@@ -555,9 +555,9 @@
     },
     {
       "name": "Warlord Presence feature",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "level": 7,
       "entries": [
         "At 7th level, you gain a feature granted by your Warlord Presence."
@@ -565,9 +565,9 @@
     },
     {
       "name": "Ability Score Improvement",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "level": 8,
       "entries": [
         "When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
@@ -576,9 +576,9 @@
     },
     {
       "name": "Press the Attack",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "level": 9,
       "entries": [
         "Starting at 9th level, your abilities are further empowered:",
@@ -607,9 +607,9 @@
     },
     {
       "name": "Ability Score Improvement",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "level": 10,
       "entries": [
         "When you reach 10th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
@@ -618,9 +618,9 @@
     },
     {
       "name": "Warlord Presence feature",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "level": 11,
       "entries": [
         "At 11th level, you gain a feature granted by your Warlord Presence."
@@ -628,9 +628,9 @@
     },
     {
       "name": "Ability Score Improvement",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "level": 12,
       "entries": [
         "When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
@@ -639,9 +639,9 @@
     },
     {
       "name": "Warlord's Intuition",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "level": 13,
       "entries": [
         "Starting at 13th level, before rolling an ability check you are proficient in, you can exercise this ability, choosing for the {@dice d20} to be equal to your Warlord level rather than rolling. Once you do this, you cannot do this until you complete a long rest."
@@ -649,9 +649,9 @@
     },
     {
       "name": "Shift the Field",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "level": 14,
       "entries": [
         "Starting at 14th level, you gain the ability to relocate friendly creatures. As an action, you can expend a Leadership Die to move up to 5 friendly creatures that can see or hear you up to half their movement without provoking attacks of opportunity."
@@ -659,9 +659,9 @@
     },
     {
       "name": "Warlord Presence feature",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "level": 15,
       "entries": [
         "At 15th level, you gain a feature granted by your Warlord Presence."
@@ -669,9 +669,9 @@
     },
     {
       "name": "Ability Score Improvement",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "level": 16,
       "entries": [
         "When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
@@ -680,9 +680,9 @@
     },
     {
       "name": "Unbreakable Will",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "level": 17,
       "entries": [
         "Starting at 17th level, the Warlord cannot be {@condition frightened} or {@condition charmed}, and gains immunity to these conditions."
@@ -690,9 +690,9 @@
     },
     {
       "name": "Warlord Presence feature",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "level": 18,
       "entries": [
         "At 18th level, you gain a feature granted by your Warlord Presence."
@@ -700,9 +700,9 @@
     },
     {
       "name": "Ability Score Improvement",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "level": 19,
       "entries": [
         "When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
@@ -711,9 +711,9 @@
     },
     {
       "name": "Tireless Leader",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "level": 20,
       "entries": [
         "Starting at 20th level, you can roll {@dice d4}s and use them instead of expending Leadership Dice for Rallying Mark, Urgent Orders, Helpful Word, or Prepare for Battle."
@@ -723,11 +723,11 @@
   "subclassFeature": [
     {
       "name": "Chieftain's Presence",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Chieftain",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 1,
       "entries": [
         "A chieftain is Warlord that rules by the sheer force of their personality, marked by their booming voice and fearless attitude, it is easy to believe that your band is infallible while your chieftain stands.",
@@ -735,11 +735,11 @@
         "A Warlord with the Presence of a Chieftain need not literally rule anything, but is an exemplar of someone that has or could walk that path through their force of personality and the boisterous inspiration they give those around them.",
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Chieftain's Proficiency|Warlord|UA HMB - Kibbles|Chieftain|UA HMB - Kibbles|1"
+          "subclassFeature": "Chieftain's Proficiency|Warlord|HMB - Kibbles|Chieftain|HMB - Kibbles|1"
         },
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Wolfpack Movement|Warlord|UA HMB - Kibbles|Chieftain|UA HMB - Kibbles|1"
+          "subclassFeature": "Wolfpack Movement|Warlord|HMB - Kibbles|Chieftain|HMB - Kibbles|1"
         }
       ]
     },
@@ -748,11 +748,11 @@
       "entries": [
         "Starting at 1st level when you take this Presence, you gain proficiency in shields, martial weapons, and the {@skill Intimidation} skill."
       ],
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Chieftain",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 1,
       "header": 1
     },
@@ -762,21 +762,21 @@
         "Starting at 1st level, the first time you move after you roll initiative, you can bring a number of willing creatures equal to your Charisma modifier (minimum 1) within 20 feet of you with you. These creatures move the same distance and direction that you move but cannot move farther than their speed would allow. Creature can stop this movement at any point along the path.",
         "Creatures cannot move more than their movement speed in following you."
       ],
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Chieftain",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 1,
       "header": 1
     },
     {
       "name": "Warcry",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Chieftain",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 3,
       "header": 2,
       "entries": [
@@ -786,11 +786,11 @@
     },
     {
       "name": "Savage Momentum",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Chieftain",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 3,
       "header": 2,
       "entries": [
@@ -799,11 +799,11 @@
     },
     {
       "name": "Reckless Assault",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Chieftain",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 7,
       "header": 2,
       "entries": [
@@ -812,11 +812,11 @@
     },
     {
       "name": "Wolfpack Tactics",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Chieftain",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 11,
       "header": 2,
       "entries": [
@@ -826,11 +826,11 @@
     },
     {
       "name": "Booming Shout",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Chieftain",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 15,
       "header": 2,
       "entries": [
@@ -840,11 +840,11 @@
     },
     {
       "name": "Bloody Victory",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Chieftain",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 18,
       "header": 2,
       "entries": [
@@ -854,11 +854,11 @@
     },
     {
       "name": "Commander's Presence",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Commander",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 1,
       "entries": [
         "A Commander on the field can be many things - a trusted sergeant, a weary veteran, or merely a man with an uncommon degree of common sense and a particularly keen eye for how to win a fight.",
@@ -866,15 +866,15 @@
         "A Commander can come from any background, but is usually someone that has acquired their Wisdom the hard way, having seen a bit of what life and battlefields have to offer.",
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Martial Proficiency|Warlord|UA HMB - Kibbles|Commander|UA HMB - Kibbles|1"
+          "subclassFeature": "Martial Proficiency|Warlord|HMB - Kibbles|Commander|HMB - Kibbles|1"
         },
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Form Up!|Warlord|UA HMB - Kibbles|Commander|UA HMB - Kibbles|1"
+          "subclassFeature": "Form Up!|Warlord|HMB - Kibbles|Commander|HMB - Kibbles|1"
         },
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Sequential Movement at the Same Time.|Warlord|UA HMB - Kibbles|Commander|UA HMB - Kibbles|1"
+          "subclassFeature": "Sequential Movement at the Same Time.|Warlord|HMB - Kibbles|Commander|HMB - Kibbles|1"
         }
       ]
     },
@@ -883,11 +883,11 @@
       "entries": [
         "Starting at 1st level when you take this Presence, you gain proficiency in heavy armor, shields, and martial weapons."
       ],
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Commander",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 1,
       "header": 1
     },
@@ -896,11 +896,11 @@
       "entries": [
         "Starting at 1st level, when you roll initiative and are not surprised, any number of friendly creatures within 30 feet of you can move up to a number of feet equal to five times your Wisdom modifier (minimum 5 feet)."
       ],
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Commander",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 1,
       "header": 1
     },
@@ -911,21 +911,21 @@
         "D&D is typically a turn based game, and thus people do not typically move at the same time; an ability that allows multiple creatures to move at the same time opens the door to questions about order. This ability represents the Commander's Presence causing their companions to spring into a well oiled routine, and it is recommended that you let the players move in their desired order during this movement.",
         "It should also be noted that this movement is determined by the player moving. A Warlord grants his allies the ability to move, he does not necessarily move them."
       ],
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Commander",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 1,
       "header": 1
     },
     {
       "name": "Keen Pointer",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Commander",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 3,
       "header": 2,
       "entries": [
@@ -935,11 +935,11 @@
     },
     {
       "name": "On Your Feet",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Commander",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 7,
       "header": 2,
       "entries": [
@@ -949,11 +949,11 @@
     },
     {
       "name": "Martial Advantage",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Commander",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 11,
       "header": 2,
       "entries": [
@@ -962,11 +962,11 @@
     },
     {
       "name": "Bulwark",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Commander",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 15,
       "header": 2,
       "entries": [
@@ -975,11 +975,11 @@
     },
     {
       "name": "No One Left Behind",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Commander",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 18,
       "header": 2,
       "entries": [
@@ -988,11 +988,11 @@
     },
     {
       "name": "Noble's Presence",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Noble",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 1,
       "entries": [
         "A Warlord with a Noble Presence is not inherently one that was born a Noble, though many are. A Noble Presence Warlord is one that serves to drive their retainers and companions onto greater heights through sheer charisma, a shining beacon of what they are fighting for standing beside them.",
@@ -1000,15 +1000,15 @@
         "An adventurer on this path is not inherently of noble background, though many often are. A noble reared on the laws of the land is usually lawful, but extraordinary circumstances may have brought about a rebellious streak in one that now seeks to overthrow unfit rulers (or rulers that aren't them, anyway).",
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Destined Leader|Warlord|UA HMB - Kibbles|Noble|UA HMB - Kibbles|1"
+          "subclassFeature": "Destined Leader|Warlord|HMB - Kibbles|Noble|HMB - Kibbles|1"
         },
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Call to Arms|Warlord|UA HMB - Kibbles|Noble|UA HMB - Kibbles|1"
+          "subclassFeature": "Call to Arms|Warlord|HMB - Kibbles|Noble|HMB - Kibbles|1"
         },
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Inspiring Leader|Warlord|UA HMB - Kibbles|Noble|UA HMB - Kibbles|1"
+          "subclassFeature": "Inspiring Leader|Warlord|HMB - Kibbles|Noble|HMB - Kibbles|1"
         }
       ]
     },
@@ -1017,11 +1017,11 @@
       "entries": [
         "Starting at 1st level when you take this Presence you gain proficiency with the {@item rapier|phb}, the {@item longsword|phb}, and the {@skill Persuasion} skill. Additionally, you gain an additional Leadership Die at 3rd level, 9th level, and 15th level."
       ],
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Noble",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 1,
       "header": 1
     },
@@ -1030,11 +1030,11 @@
       "entries": [
         "Starting at 1st level, when you roll initiative, you can call out to friendly creatures within 60 feet of you, providing them with a surge of inspiration. They can add your Charisma modifier to their first attack roll made before the end of their turn."
       ],
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Noble",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 1,
       "header": 1
     },
@@ -1043,21 +1043,21 @@
       "entries": [
         "Additionally at 1st level, a creature with a CR of less than half your Warlord level (or with fewer class levels than you have Warlord levels if the creature does not have a CR) can choose to use your proficiency bonus + your Charisma modifier for their attack roll modifier on any Attack granted by Battlefield Presence."
       ],
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Noble",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 1,
       "header": 1
     },
     {
       "name": "Retainers & Followers",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Noble",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 1,
       "type": "inset",
       "entries": [
@@ -1067,11 +1067,11 @@
     },
     {
       "name": "Divine Right",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Noble",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 3,
       "header": 2,
       "entries": [
@@ -1082,11 +1082,11 @@
     },
     {
       "name": "Charismatic Leadership",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Noble",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 3,
       "header": 2,
       "entries": [
@@ -1095,11 +1095,11 @@
     },
     {
       "name": "Words of Conviction",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Noble",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 7,
       "header": 2,
       "entries": [
@@ -1108,11 +1108,11 @@
     },
     {
       "name": "Imperative Order",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Noble",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 7,
       "header": 2,
       "entries": [
@@ -1121,11 +1121,11 @@
     },
     {
       "name": "Inspired Zeal",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Noble",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 11,
       "header": 2,
       "entries": [
@@ -1134,11 +1134,11 @@
     },
     {
       "name": "Untouchable Presence",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Noble",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 15,
       "header": 2,
       "entries": [
@@ -1148,11 +1148,11 @@
     },
     {
       "name": "Grand Decree",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Noble",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 18,
       "header": 2,
       "entries": [
@@ -1162,11 +1162,11 @@
     },
     {
       "name": "Packleader's Presence",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Packleader",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 1,
       "entries": [
         "While Warlords may specialize in the control of battles, a Packleader is a Warlord that aims to win a fight before it becomes a battle. Through scouting, preparing, and stacking the odds, they don't fight fair, they fight to win, and seek to only fight when they've already won.",
@@ -1174,11 +1174,11 @@
         "While good and evil rarely play directly into a Packleader's perspective (they can be either or Neutral just as easily), they tend be Chaotic, viewing the so called \"rules of engagement\" and other traditions of civilization to be convenient weaknesses they can exploit rather than any sort of guideline they might actually follow.",
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Tools of the Wild|Warlord|UA HMB - Kibbles|Packleader|UA HMB - Kibbles|1"
+          "subclassFeature": "Tools of the Wild|Warlord|HMB - Kibbles|Packleader|HMB - Kibbles|1"
         },
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Concealed Approach|Warlord|UA HMB - Kibbles|Packleader|UA HMB - Kibbles|1"
+          "subclassFeature": "Concealed Approach|Warlord|HMB - Kibbles|Packleader|HMB - Kibbles|1"
         }
       ]
     },
@@ -1187,11 +1187,11 @@
       "entries": [
         "Starting at 1st level when you take this Presence, you gain proficiency in martial weapons, {@skill Survival}, and your choice of {@item Herbalism Kit|phb} or {@item Poisoner's Kit|phb}."
       ],
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Packleader",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 1,
       "header": 1
     },
@@ -1201,21 +1201,21 @@
         "Starting at 1st level, if you have at least a minute to prepare, you can add your Wisdom modifier to a Dexterity ({@skill Stealth}) check for you and up five friendly creatures.",
         "You and friendly creatures within 30 feet of you that roll for initiative while hidden can add your Wisdom modifier to the initiative result."
       ],
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Packleader",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 1,
       "header": 1
     },
     {
       "name": "Nature's Gift",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Packleader",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 3,
       "header": 2,
       "entries": [
@@ -1226,11 +1226,11 @@
     },
     {
       "name": "A Pack Leader's Pack",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Packleader",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 3,
       "type": "inset",
       "entries": [
@@ -1239,11 +1239,11 @@
     },
     {
       "name": "Shroud of Nature",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Packleader",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 7,
       "header": 2,
       "entries": [
@@ -1252,11 +1252,11 @@
     },
     {
       "name": "Trackless Trails",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Packleader",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 7,
       "header": 2,
       "entries": [
@@ -1265,11 +1265,11 @@
     },
     {
       "name": "Fleeting Strikers",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Packleader",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 11,
       "header": 2,
       "entries": [
@@ -1279,11 +1279,11 @@
     },
     {
       "name": "Ghosts of the Wild",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Packleader",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 15,
       "header": 2,
       "entries": [
@@ -1293,11 +1293,11 @@
     },
     {
       "name": "Warlord of the Wilds",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Packleader",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 18,
       "header": 2,
       "entries": [
@@ -1308,11 +1308,11 @@
     },
     {
       "name": "Paragon's Presence",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Paragon",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 1,
       "entries": [
         "Legends tell of warriors that fight at the front of a legion, of the valor they display and the inspiration it gives their comrades. A Paragon before their army is a dauntless foe, and an army behind their Paragon is an unstoppable legion.",
@@ -1320,11 +1320,11 @@
         "As they tend to be those that inspire an organized force, more often than not they will be lawful, but what that personal code of laws entails can vary quite widely.",
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Martial Proficiency|Warlord|UA HMB - Kibbles|Paragon|UA HMB - Kibbles|1"
+          "subclassFeature": "Martial Proficiency|Warlord|HMB - Kibbles|Paragon|HMB - Kibbles|1"
         },
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Lead the Charge|Warlord|UA HMB - Kibbles|Paragon|UA HMB - Kibbles|1"
+          "subclassFeature": "Lead the Charge|Warlord|HMB - Kibbles|Paragon|HMB - Kibbles|1"
         }
       ]
     },
@@ -1333,11 +1333,11 @@
       "entries": [
         "Starting at 1st level when you take this Presence, you gain proficiency in heavy armor, shields, and martial weapons."
       ],
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Paragon",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 1,
       "header": 1
     },
@@ -1346,21 +1346,21 @@
       "entries": [
         "Starting at 1st level, you can give yourself a bonus to your initiative rolls equal to your Charisma modifier. Additionally, when you roll initiative you gain temporary hit points equal to your your proficiency bonus + Charisma modifier."
       ],
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Paragon",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 1,
       "header": 1
     },
     {
       "name": "Fighting Style",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Paragon",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 3,
       "header": 2,
       "entries": [
@@ -1417,11 +1417,11 @@
     },
     {
       "name": "Heroic Strike",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Paragon",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 3,
       "header": 2,
       "entries": [
@@ -1431,11 +1431,11 @@
     },
     {
       "name": "Stand Defiant",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Paragon",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 7,
       "header": 2,
       "entries": [
@@ -1445,11 +1445,11 @@
     },
     {
       "name": "Inspired Warrior",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Paragon",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 11,
       "header": 2,
       "entries": [
@@ -1459,11 +1459,11 @@
     },
     {
       "name": "The Prowess of the Inspired",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Paragon",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 11,
       "type": "inset",
       "entries": [
@@ -1473,11 +1473,11 @@
     },
     {
       "name": "Dauntless Resolve",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Paragon",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 15,
       "header": 2,
       "entries": [
@@ -1486,11 +1486,11 @@
     },
     {
       "name": "Invincible Legion",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Paragon",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 18,
       "header": 2,
       "entries": [
@@ -1500,11 +1500,11 @@
     },
     {
       "name": "Invincible Deathwarded Legions?",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Paragon",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 18,
       "type": "inset",
       "entries": [
@@ -1513,11 +1513,11 @@
     },
     {
       "name": "Tactician's Presence",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Tactician",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 1,
       "entries": [
         "A Tactician may very well tell you they would just as soon not be close enough to the battle to be considered a combatant, preferring to win their fights before it ever gets to that stage, but one would be a fool to underestimate how dangerous they are once on the battlefield.",
@@ -1525,11 +1525,11 @@
         "What tends to mark a Tactician is a keen mind and a willingness to plan ahead... in great detail. Adventurers with a tactician among them are near impossible to pin down, as they will always find a way to turn the tables.",
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Tactician's Cunning|Warlord|UA HMB - Kibbles|Tactician|UA HMB - Kibbles|1"
+          "subclassFeature": "Tactician's Cunning|Warlord|HMB - Kibbles|Tactician|HMB - Kibbles|1"
         },
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Battle Plans|Warlord|UA HMB - Kibbles|Tactician|UA HMB - Kibbles|1"
+          "subclassFeature": "Battle Plans|Warlord|HMB - Kibbles|Tactician|HMB - Kibbles|1"
         }
       ]
     },
@@ -1538,11 +1538,11 @@
       "entries": [
         "When you take this Presence at 1st level, you gain proficiency in the {@skill History} and {@skill Investigation} skills. Additionally, if you can take a minute or more making a skill check, you can treat a {@dice d20} roll of 4 or lower as a 5."
       ],
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Tactician",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 1,
       "header": 1
     },
@@ -1551,21 +1551,21 @@
       "entries": [
         "Starting at 1st level, you can give yourself a bonus to your initiative rolls equal to your Intelligence modifier. Additionally, you can exchange your total on this roll with a willing friendly creature within 60 feet."
       ],
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Tactician",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 1,
       "header": 1
     },
     {
       "name": "Tactical Insight",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Tactician",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 3,
       "header": 2,
       "entries": [
@@ -1623,11 +1623,11 @@
     },
     {
       "name": "Planning Movement... or not.",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Tactician",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 3,
       "type": "inset",
       "entries": [
@@ -1636,11 +1636,11 @@
     },
     {
       "name": "Tactical Flexibility",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Tactician",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 3,
       "header": 2,
       "entries": [
@@ -1649,11 +1649,11 @@
     },
     {
       "name": "Inscrutable Mind",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Tactician",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 7,
       "header": 2,
       "entries": [
@@ -1663,11 +1663,11 @@
     },
     {
       "name": "Control the Field",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Tactician",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 7,
       "header": 2,
       "entries": [
@@ -1712,11 +1712,11 @@
     },
     {
       "name": "Tactical Strike",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Tactician",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 11,
       "header": 2,
       "entries": [
@@ -1725,11 +1725,11 @@
     },
     {
       "name": "Advanced Orders",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Tactician",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 15,
       "header": 2,
       "entries": [
@@ -1738,11 +1738,11 @@
     },
     {
       "name": "Unstoppable Schemes",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Tactician",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 18,
       "header": 2,
       "entries": [
@@ -1751,11 +1751,11 @@
     },
     {
       "name": "Multilayered Tactics",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Tactician",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 18,
       "header": 2,
       "entries": [
@@ -1764,22 +1764,22 @@
     },
     {
       "name": "Spellweaver's Presence",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Spellweaver",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 1,
       "entries": [
         "A Spellweaver is a magically adapt individual who holds great mechanical knowledge of magic and its tactical applications, but frequently lacks - or at least doesn't focus on - the raw power arcane power that a Wizard or Sorcerer might. A deft touch to manipulate magic, pulling and warping the spells of others, shrouding their allies with abjuration and illusion, their touch is subtle and effective.",
         "A careless observe may take their efforts as less, but a wise one realizes the danger of their manipulations can far outweigh a flashy fireball when it comes to shifting the tides of war.",
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Arcane Proficiency|Warlord|UA HMB - Kibbles|Spellweaver|UA HMB - Kibbles|1"
+          "subclassFeature": "Arcane Proficiency|Warlord|HMB - Kibbles|Spellweaver|HMB - Kibbles|1"
         },
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Enchanter's Shroud|Warlord|UA HMB - Kibbles|Spellweaver|UA HMB - Kibbles|1"
+          "subclassFeature": "Enchanter's Shroud|Warlord|HMB - Kibbles|Spellweaver|HMB - Kibbles|1"
         }
       ]
     },
@@ -1814,11 +1814,11 @@
           ]
         }
       ],
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Spellweaver",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 1,
       "header": 1
     },
@@ -1827,21 +1827,21 @@
       "entries": [
         "Additionally at 1st level, when you roll initiative you wrap an allied creature in an arcane enchantment, making the target creature {@condition invisible} for a number of rounds equal to your Intelligence modifier, or until the target creature attacks, makes a damage roll, or forces someone to make a saving throw."
       ],
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Spellweaver",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 1,
       "header": 1
     },
     {
       "name": "Spell Manipulation",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Spellweaver",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 3,
       "header": 2,
       "entries": [
@@ -1910,11 +1910,11 @@
     },
     {
       "name": "Shield and Shrouding",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Spellweaver",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 3,
       "header": 2,
       "entries": [
@@ -1923,11 +1923,11 @@
     },
     {
       "name": "Contested Magic",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Spellweaver",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 7,
       "header": 2,
       "entries": [
@@ -1936,11 +1936,11 @@
     },
     {
       "name": "Mirror Ally",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Spellweaver",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 11,
       "header": 2,
       "entries": [
@@ -1950,11 +1950,11 @@
     },
     {
       "name": "Independent Arcana",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Spellweaver",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 15,
       "header": 2,
       "entries": [
@@ -1964,11 +1964,11 @@
     },
     {
       "name": "Mirror Army",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Spellweaver",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 18,
       "header": 2,
       "entries": [
@@ -1978,17 +1978,17 @@
     },
     {
       "name": "Gifted's Presence",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Gifted",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 1,
       "entries": [
         "A Gifted is a unique Warlord who's presence stems from their 'gift' of Psionic powers. Like any Psion, the root of their power may vary, and it can come in several different expressions, but in all cases they leverage the unique gifts to wield an mysterious and effective presence that aids their allies immeasurable.",
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "The Gift|Warlord|UA HMB - Kibbles|Gifted|UA HMB - Kibbles|1"
+          "subclassFeature": "The Gift|Warlord|HMB - Kibbles|Gifted|HMB - Kibbles|1"
         }
       ]
     },
@@ -2033,21 +2033,21 @@
           ]
         }
       ],
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Gifted",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 1,
       "header": 1
     },
     {
       "name": "Psionic Discipline",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Gifted",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 3,
       "header": 2,
       "entries": [
@@ -2073,11 +2073,11 @@
     },
     {
       "name": "Psionic Battlefield Presence",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Gifted",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 7,
       "header": 2,
       "entries": [
@@ -2086,11 +2086,11 @@
     },
     {
       "name": "Gifted Leader",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Gifted",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 11,
       "header": 2,
       "entries": [
@@ -2100,11 +2100,11 @@
     },
     {
       "name": "Battle Mind",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Gifted",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 15,
       "header": 2,
       "entries": [
@@ -2150,11 +2150,11 @@
     },
     {
       "name": "Perfect Convergence",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassShortName": "Gifted",
-      "subclassSource": "UA HMB - Kibbles",
+      "subclassSource": "HMB - Kibbles",
       "level": 18,
       "header": 2,
       "entries": [
@@ -2167,122 +2167,122 @@
     {
       "name": "Chieftain's Presence",
       "shortName": "Chieftain",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "subclassFeatures": [
-        "Chieftain's Presence|Warlord|UA HMB - Kibbles|Chieftain|UA HMB - Kibbles|1",
-        "Warcry|Warlord|UA HMB - Kibbles|Chieftain|UA HMB - Kibbles|3",
-        "Savage Momentum|Warlord|UA HMB - Kibbles|Chieftain|UA HMB - Kibbles|3",
-        "Reckless Assault|Warlord|UA HMB - Kibbles|Chieftain|UA HMB - Kibbles|7",
-        "Wolfpack Tactics|Warlord|UA HMB - Kibbles|Chieftain|UA HMB - Kibbles|11",
-        "Booming Shout|Warlord|UA HMB - Kibbles|Chieftain|UA HMB - Kibbles|15",
-        "Bloody Victory|Warlord|UA HMB - Kibbles|Chieftain|UA HMB - Kibbles|18"
+        "Chieftain's Presence|Warlord|HMB - Kibbles|Chieftain|HMB - Kibbles|1",
+        "Warcry|Warlord|HMB - Kibbles|Chieftain|HMB - Kibbles|3",
+        "Savage Momentum|Warlord|HMB - Kibbles|Chieftain|HMB - Kibbles|3",
+        "Reckless Assault|Warlord|HMB - Kibbles|Chieftain|HMB - Kibbles|7",
+        "Wolfpack Tactics|Warlord|HMB - Kibbles|Chieftain|HMB - Kibbles|11",
+        "Booming Shout|Warlord|HMB - Kibbles|Chieftain|HMB - Kibbles|15",
+        "Bloody Victory|Warlord|HMB - Kibbles|Chieftain|HMB - Kibbles|18"
       ],
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles"
+      "classSource": "HMB - Kibbles"
     },
     {
       "name": "Commander's Presence",
       "shortName": "Commander",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "subclassFeatures": [
-        "Commander's Presence|Warlord|UA HMB - Kibbles|Commander|UA HMB - Kibbles|1",
-        "Keen Pointer|Warlord|UA HMB - Kibbles|Commander|UA HMB - Kibbles|3",
-        "On Your Feet|Warlord|UA HMB - Kibbles|Commander|UA HMB - Kibbles|7",
-        "Martial Advantage|Warlord|UA HMB - Kibbles|Commander|UA HMB - Kibbles|11",
-        "Bulwark|Warlord|UA HMB - Kibbles|Commander|UA HMB - Kibbles|15",
-        "No One Left Behind|Warlord|UA HMB - Kibbles|Commander|UA HMB - Kibbles|18"
+        "Commander's Presence|Warlord|HMB - Kibbles|Commander|HMB - Kibbles|1",
+        "Keen Pointer|Warlord|HMB - Kibbles|Commander|HMB - Kibbles|3",
+        "On Your Feet|Warlord|HMB - Kibbles|Commander|HMB - Kibbles|7",
+        "Martial Advantage|Warlord|HMB - Kibbles|Commander|HMB - Kibbles|11",
+        "Bulwark|Warlord|HMB - Kibbles|Commander|HMB - Kibbles|15",
+        "No One Left Behind|Warlord|HMB - Kibbles|Commander|HMB - Kibbles|18"
       ],
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles"
+      "classSource": "HMB - Kibbles"
     },
     {
       "name": "Noble's Presence",
       "shortName": "Noble",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "subclassFeatures": [
-        "Noble's Presence|Warlord|UA HMB - Kibbles|Noble|UA HMB - Kibbles|1",
-        "Retainers & Followers|Warlord|UA HMB - Kibbles|Noble|UA HMB - Kibbles|1",
-        "Divine Right|Warlord|UA HMB - Kibbles|Noble|UA HMB - Kibbles|3",
-        "Charismatic Leadership|Warlord|UA HMB - Kibbles|Noble|UA HMB - Kibbles|3",
-        "Words of Conviction|Warlord|UA HMB - Kibbles|Noble|UA HMB - Kibbles|7",
-        "Imperative Order|Warlord|UA HMB - Kibbles|Noble|UA HMB - Kibbles|7",
-        "Inspired Zeal|Warlord|UA HMB - Kibbles|Noble|UA HMB - Kibbles|11",
-        "Untouchable Presence|Warlord|UA HMB - Kibbles|Noble|UA HMB - Kibbles|15",
-        "Grand Decree|Warlord|UA HMB - Kibbles|Noble|UA HMB - Kibbles|18"
+        "Noble's Presence|Warlord|HMB - Kibbles|Noble|HMB - Kibbles|1",
+        "Retainers & Followers|Warlord|HMB - Kibbles|Noble|HMB - Kibbles|1",
+        "Divine Right|Warlord|HMB - Kibbles|Noble|HMB - Kibbles|3",
+        "Charismatic Leadership|Warlord|HMB - Kibbles|Noble|HMB - Kibbles|3",
+        "Words of Conviction|Warlord|HMB - Kibbles|Noble|HMB - Kibbles|7",
+        "Imperative Order|Warlord|HMB - Kibbles|Noble|HMB - Kibbles|7",
+        "Inspired Zeal|Warlord|HMB - Kibbles|Noble|HMB - Kibbles|11",
+        "Untouchable Presence|Warlord|HMB - Kibbles|Noble|HMB - Kibbles|15",
+        "Grand Decree|Warlord|HMB - Kibbles|Noble|HMB - Kibbles|18"
       ],
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles"
+      "classSource": "HMB - Kibbles"
     },
     {
       "name": "Packleader's Presence",
       "shortName": "Packleader",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "subclassFeatures": [
-        "Packleader's Presence|Warlord|UA HMB - Kibbles|Packleader|UA HMB - Kibbles|1",
-        "Nature's Gift|Warlord|UA HMB - Kibbles|Packleader|UA HMB - Kibbles|3",
-        "A Pack Leader's Pack|Warlord|UA HMB - Kibbles|Packleader|UA HMB - Kibbles|3",
-        "Shroud of Nature|Warlord|UA HMB - Kibbles|Packleader|UA HMB - Kibbles|7",
-        "Trackless Trails|Warlord|UA HMB - Kibbles|Packleader|UA HMB - Kibbles|7",
-        "Fleeting Strikers|Warlord|UA HMB - Kibbles|Packleader|UA HMB - Kibbles|11",
-        "Ghosts of the Wild|Warlord|UA HMB - Kibbles|Packleader|UA HMB - Kibbles|15",
-        "Warlord of the Wilds|Warlord|UA HMB - Kibbles|Packleader|UA HMB - Kibbles|18"
+        "Packleader's Presence|Warlord|HMB - Kibbles|Packleader|HMB - Kibbles|1",
+        "Nature's Gift|Warlord|HMB - Kibbles|Packleader|HMB - Kibbles|3",
+        "A Pack Leader's Pack|Warlord|HMB - Kibbles|Packleader|HMB - Kibbles|3",
+        "Shroud of Nature|Warlord|HMB - Kibbles|Packleader|HMB - Kibbles|7",
+        "Trackless Trails|Warlord|HMB - Kibbles|Packleader|HMB - Kibbles|7",
+        "Fleeting Strikers|Warlord|HMB - Kibbles|Packleader|HMB - Kibbles|11",
+        "Ghosts of the Wild|Warlord|HMB - Kibbles|Packleader|HMB - Kibbles|15",
+        "Warlord of the Wilds|Warlord|HMB - Kibbles|Packleader|HMB - Kibbles|18"
       ],
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles"
+      "classSource": "HMB - Kibbles"
     },
     {
       "name": "Paragon's Presence",
       "shortName": "Paragon",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "subclassFeatures": [
-        "Paragon's Presence|Warlord|UA HMB - Kibbles|Paragon|UA HMB - Kibbles|1",
-        "Fighting Style|Warlord|UA HMB - Kibbles|Paragon|UA HMB - Kibbles|3",
-        "Heroic Strike|Warlord|UA HMB - Kibbles|Paragon|UA HMB - Kibbles|3",
-        "Stand Defiant|Warlord|UA HMB - Kibbles|Paragon|UA HMB - Kibbles|7",
-        "Inspired Warrior|Warlord|UA HMB - Kibbles|Paragon|UA HMB - Kibbles|11",
-        "The Prowess of the Inspired|Warlord|UA HMB - Kibbles|Paragon|UA HMB - Kibbles|11",
-        "Dauntless Resolve|Warlord|UA HMB - Kibbles|Paragon|UA HMB - Kibbles|15",
-        "Invincible Legion|Warlord|UA HMB - Kibbles|Paragon|UA HMB - Kibbles|18",
-        "Invincible Deathwarded Legions?|Warlord|UA HMB - Kibbles|Paragon|UA HMB - Kibbles|18"
+        "Paragon's Presence|Warlord|HMB - Kibbles|Paragon|HMB - Kibbles|1",
+        "Fighting Style|Warlord|HMB - Kibbles|Paragon|HMB - Kibbles|3",
+        "Heroic Strike|Warlord|HMB - Kibbles|Paragon|HMB - Kibbles|3",
+        "Stand Defiant|Warlord|HMB - Kibbles|Paragon|HMB - Kibbles|7",
+        "Inspired Warrior|Warlord|HMB - Kibbles|Paragon|HMB - Kibbles|11",
+        "The Prowess of the Inspired|Warlord|HMB - Kibbles|Paragon|HMB - Kibbles|11",
+        "Dauntless Resolve|Warlord|HMB - Kibbles|Paragon|HMB - Kibbles|15",
+        "Invincible Legion|Warlord|HMB - Kibbles|Paragon|HMB - Kibbles|18",
+        "Invincible Deathwarded Legions?|Warlord|HMB - Kibbles|Paragon|HMB - Kibbles|18"
       ],
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles"
+      "classSource": "HMB - Kibbles"
     },
     {
       "name": "Tactician's Presence",
       "shortName": "Tactician",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "subclassFeatures": [
-        "Tactician's Presence|Warlord|UA HMB - Kibbles|Tactician|UA HMB - Kibbles|1",
-        "Tactical Insight|Warlord|UA HMB - Kibbles|Tactician|UA HMB - Kibbles|3",
-        "Planning Movement... or not.|Warlord|UA HMB - Kibbles|Tactician|UA HMB - Kibbles|3",
-        "Tactical Flexibility|Warlord|UA HMB - Kibbles|Tactician|UA HMB - Kibbles|3",
-        "Inscrutable Mind|Warlord|UA HMB - Kibbles|Tactician|UA HMB - Kibbles|7",
-        "Control the Field|Warlord|UA HMB - Kibbles|Tactician|UA HMB - Kibbles|7",
-        "Tactical Strike|Warlord|UA HMB - Kibbles|Tactician|UA HMB - Kibbles|11",
-        "Advanced Orders|Warlord|UA HMB - Kibbles|Tactician|UA HMB - Kibbles|15",
-        "Unstoppable Schemes|Warlord|UA HMB - Kibbles|Tactician|UA HMB - Kibbles|18",
-        "Multilayered Tactics|Warlord|UA HMB - Kibbles|Tactician|UA HMB - Kibbles|18"
+        "Tactician's Presence|Warlord|HMB - Kibbles|Tactician|HMB - Kibbles|1",
+        "Tactical Insight|Warlord|HMB - Kibbles|Tactician|HMB - Kibbles|3",
+        "Planning Movement... or not.|Warlord|HMB - Kibbles|Tactician|HMB - Kibbles|3",
+        "Tactical Flexibility|Warlord|HMB - Kibbles|Tactician|HMB - Kibbles|3",
+        "Inscrutable Mind|Warlord|HMB - Kibbles|Tactician|HMB - Kibbles|7",
+        "Control the Field|Warlord|HMB - Kibbles|Tactician|HMB - Kibbles|7",
+        "Tactical Strike|Warlord|HMB - Kibbles|Tactician|HMB - Kibbles|11",
+        "Advanced Orders|Warlord|HMB - Kibbles|Tactician|HMB - Kibbles|15",
+        "Unstoppable Schemes|Warlord|HMB - Kibbles|Tactician|HMB - Kibbles|18",
+        "Multilayered Tactics|Warlord|HMB - Kibbles|Tactician|HMB - Kibbles|18"
       ],
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles"
+      "classSource": "HMB - Kibbles"
     },
     {
       "name": "Spellweaver's Presence",
       "shortName": "Spellweaver",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "subclassFeatures": [
-        "Spellweaver's Presence|Warlord|UA HMB - Kibbles|Spellweaver|UA HMB - Kibbles|1",
-        "Spell Manipulation|Warlord|UA HMB - Kibbles|Spellweaver|UA HMB - Kibbles|3",
-        "Shield and Shrouding|Warlord|UA HMB - Kibbles|Spellweaver|UA HMB - Kibbles|3",
-        "Contested Magic|Warlord|UA HMB - Kibbles|Spellweaver|UA HMB - Kibbles|7",
-        "Mirror Ally|Warlord|UA HMB - Kibbles|Spellweaver|UA HMB - Kibbles|11",
-        "Independent Arcana|Warlord|UA HMB - Kibbles|Spellweaver|UA HMB - Kibbles|15",
-        "Mirror Army|Warlord|UA HMB - Kibbles|Spellweaver|UA HMB - Kibbles|18"
+        "Spellweaver's Presence|Warlord|HMB - Kibbles|Spellweaver|HMB - Kibbles|1",
+        "Spell Manipulation|Warlord|HMB - Kibbles|Spellweaver|HMB - Kibbles|3",
+        "Shield and Shrouding|Warlord|HMB - Kibbles|Spellweaver|HMB - Kibbles|3",
+        "Contested Magic|Warlord|HMB - Kibbles|Spellweaver|HMB - Kibbles|7",
+        "Mirror Ally|Warlord|HMB - Kibbles|Spellweaver|HMB - Kibbles|11",
+        "Independent Arcana|Warlord|HMB - Kibbles|Spellweaver|HMB - Kibbles|15",
+        "Mirror Army|Warlord|HMB - Kibbles|Spellweaver|HMB - Kibbles|18"
       ],
       "spellcastingAbility": "int",
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles",
+      "classSource": "HMB - Kibbles",
       "subclassSpells": [
         "aundair's silent sanctum|exploringeberron",
         "Blade Ward",
@@ -2331,17 +2331,17 @@
     {
       "name": "Gifted's Presence",
       "shortName": "Gifted",
-      "source": "UA HMB - Kibbles",
+      "source": "HMB - Kibbles",
       "subclassFeatures": [
-        "Gifted's Presence|Warlord|UA HMB - Kibbles|Gifted|UA HMB - Kibbles|1",
-        "Psionic Discipline|Warlord|UA HMB - Kibbles|Gifted|UA HMB - Kibbles|3",
-        "Psionic Battlefield Presence|Warlord|UA HMB - Kibbles|Gifted|UA HMB - Kibbles|7",
-        "Gifted Leader|Warlord|UA HMB - Kibbles|Gifted|UA HMB - Kibbles|11",
-        "Battle Mind|Warlord|UA HMB - Kibbles|Gifted|UA HMB - Kibbles|15",
-        "Perfect Convergence|Warlord|UA HMB - Kibbles|Gifted|UA HMB - Kibbles|18"
+        "Gifted's Presence|Warlord|HMB - Kibbles|Gifted|HMB - Kibbles|1",
+        "Psionic Discipline|Warlord|HMB - Kibbles|Gifted|HMB - Kibbles|3",
+        "Psionic Battlefield Presence|Warlord|HMB - Kibbles|Gifted|HMB - Kibbles|7",
+        "Gifted Leader|Warlord|HMB - Kibbles|Gifted|HMB - Kibbles|11",
+        "Battle Mind|Warlord|HMB - Kibbles|Gifted|HMB - Kibbles|15",
+        "Perfect Convergence|Warlord|HMB - Kibbles|Gifted|HMB - Kibbles|18"
       ],
       "className": "Warlord",
-      "classSource": "UA HMB - Kibbles"
+      "classSource": "HMB - Kibbles"
     }
   ]
 }
