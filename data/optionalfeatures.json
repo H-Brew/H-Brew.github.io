@@ -1,9 +1,8 @@
 {
 	"optionalfeature": [
 		{
-			"name": "Absorption2",
-			"source": "UAClericDruidWizard",
-			"page": 5,
+			"name": "Aberration",
+			"source": "HMB",
 			"featureType": [
 				"OR"
 			],
