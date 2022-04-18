@@ -1,17 +1,6 @@
 {
 	"optionalfeature": [
 		{
-			"name": "Aberration",
-			"source": "HMB",
-			"page": 20,
-			"featureType": [
-				"MM"
-			],
-			"entries": [
-				"Lasting Mutation:",
-			]
-		},
-		{
 			"name": "Absorption",
 			"source": "UAClericDruidWizard",
 			"page": 5,
