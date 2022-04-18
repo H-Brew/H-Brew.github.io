@@ -2574,7 +2574,7 @@
         "Third Eye. You can see invisible creatures and objects within\r\n10 feet of you that are within line of sight.",
         "Regeneration. At the start of each of your turns, you regain hit\npoints equal to your Intelligence modifier if you have no more\nthan half of your hit points left. You don't gain this benefit if you\nhave 0 hit points.",
         "Magic Resistance. You have advantage on saving throws\nagainst spells and other effects.",
-        "{@filter optionalfeatures|feature type=MetaM}"
+        "{@filter testidk|optionalfeatures|feature type=MetaM}"
       ]
     }
   ]
