@@ -6073,40 +6073,6 @@
 			"entries": [
 				"You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight."
 			]
-		},
-		{
-			"name": "Aberation",
-			"source": "HMB",
-			"page": 20,
-			"featureType": [
-				"MetaM"
-			],
-			"prerequisite": [
-				{
-					"level": {
-						"level": 1,
-						"class": {
-							"name": "Artificer"
-						}
-					}
-				}
-			],
-			"entries": [
-				"Lasting Mutation:",
-				{
-					"type": "list",
-					"items": [
-						"test lasting",
-					]
-				},
-				"Temp Mutation:",
-				{
-					"type": "list",
-					"items": [
-						"test temping",
-					]
-				}
-			]
 		}
 	]
 }
