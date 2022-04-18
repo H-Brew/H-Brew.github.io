@@ -7,7 +7,7 @@
 				"MetaM"
 			],
 			"entries": [
-				"When you cast a spell that deals damage to the named target, you gain {@dice 3d6} temporary hit points. The number of temporary hit points you gain increases by {@dice 1d6} when you reach 10th level ({@dice 4d6}) and 14th level ({@dice 5d6}) in this class."
+				"You can speak telepathically to any creature within 30 feet of you. The creature understands you only if the two of you share a language. You can speak telepathically in this way to one creature at a time."
 			]
 		},
 		{
