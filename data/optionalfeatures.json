@@ -11,6 +11,17 @@
 			]
 		},
 		{
+			"name": "Absorption",
+			"source": "UAClericDruidWizard",
+			"page": 5,
+			"featureType": [
+				"OR"
+			],
+			"entries": [
+				"When you cast a spell that deals damage to the named target, you gain {@dice 3d6} temporary hit points. The number of temporary hit points you gain increases by {@dice 1d6} when you reach 10th level ({@dice 4d6}) and 14th level ({@dice 5d6}) in this class."
+			]
+		},
+		{
 			"name": "Agonizing Blast",
 			"source": "PHB",
 			"page": 110,
