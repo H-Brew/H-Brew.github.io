@@ -5759,7 +5759,7 @@
       "level": 10,
       "entries": [
         "Starting at 10th level, you may now use an improvised item as a shield. This improvised shield gives +1AC.",
-        "You also now have the innate ability to break down your environment into improvised artisan's tool sets. To make one of these, you must break down appropriate materials worth half the cost of the artisan's tool set you are trying to make."
+        "You also now have the innate ability to break down your environment into improvised {@item Artisan's Tools} sets. To make one of these, you must break down appropriate materials worth half the cost of the artisan's tool set you are trying to make."
       ]
     },
     {
