@@ -5491,7 +5491,7 @@
       "subclassSource": "HMB",
       "level": 1,
       "entries": [
-        "Your innate maig comes...",
+        "Your innate magic comes from a dark part of your ancestral past.  You have a direct familiar connection to a vampire, and its power has shown itself most in you.  It is not a curse that you have, but the blood in your veins that connects you to them.\nHaving this origin is a secret that is often kept secret at all costs as many folk will point at those with vampiric blood in them and cry evil.",
         {
           "type": "refSubclassFeature",
           "subclassFeature": "Vampiric Ancestry|Sorcerer||Vampiric|HMB|1"
