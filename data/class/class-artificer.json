@@ -788,6 +788,46 @@
         "Arcane Jolt|Artificer|TCE|Battle Smith|TCE|9",
         "Improved Defender|Artificer|TCE|Battle Smith|TCE|15"
       ]
+    },
+    {
+      "name": "Bio-Chemist",
+      "shortName": "Bio-Chemist",
+      "source": "HMB",
+      "className": "Artificer",
+      "classSource": "TCE",
+      "page": 18,
+      "additionalSpells": [
+        {
+          "prepared": {
+            "3": [
+              "expeditious retreat",
+              "featherfall"
+            ],
+            "5": [
+              "alter self",
+              "Enhance ability"
+            ],
+            "9": [
+              "fly",
+              "haste"
+            ],
+            "13": [
+              "giant insect",
+              "polymorph"
+            ],
+            "17": [
+              "reincarnate",
+              "skill empowerment"
+            ]
+          }
+        }
+      ],
+      "subclassFeatures": [
+        "Bio-Chemist|Artificer|TCE|Bio-Chemist|HMB|3",
+        "Adaptive Element|Artificer|TCE|Bio-Chemist|HMB|5",
+        "Resistive Metamorphosis|Artificer|TCE|Bio-Chemist|HMB|9",
+        "Master of Mutation|Artificer|TCE|Bio-Chemist|HMB|15"
+      ]
     }
   ],
   "classFeature": [
@@ -2385,6 +2425,155 @@
             "Whenever your steel defender uses its Deflect Attack, the attacker takes force damage equal to {@damage 1d4} + your Intelligence modifier."
           ]
         }
+      ]
+    },
+    {
+      "name": "Bio-Chemist",
+      "source": "HMB",
+      "page": 18,
+      "className": "Artificer",
+      "classSource": "TCE",
+      "subclassShortName": "Bio-Chemist",
+      "subclassSource": "HMB",
+      "level": 3,
+      "entries": [
+        "A Bio-Chemist is an artificer that has delved into the study of\nliving creatures, with the goal of modifying their own body to create a more perfect being. Most other artificers look upon bio-alchemists with disgust, as their experiments tend to transform\n\nthem into grotesque, monstrous creatures.",
+        {
+          "type": "refSubclassFeature",
+          "subclassFeature": "Tool Proficiency|Artificer|TCE|Bio-Chemist|HMB|3"
+        },
+        {
+          "type": "refSubclassFeature",
+          "subclassFeature": "Bio-Chemist Spells|Artificer|TCE|Bio-Chemist|HMB|3"
+        },
+        {
+          "type": "refSubclassFeature",
+          "subclassFeature": "Metamorphosis|Artificer|TCE|Bio-Chemist|HMB|3"
+        }
+      ]
+    },
+    {
+      "name": "Tool Proficiency",
+      "source": "HMB",
+      "page": 18,
+      "className": "Artificer",
+      "classSource": "TCE",
+      "subclassShortName": "Bio-Chemist",
+      "subclassSource": "HMB",
+      "level": 3,
+      "header": 1,
+      "entries": [
+        "When you adopt this specialization at 3rd level, you gain proficiency with {@item alchemist's supplies|PHB}. If you already have this proficiency, you gain proficiency with one other type of {@item artisan's tools|PHB} of your choice."
+      ]
+    },
+    {
+      "name": "Bio-Chemist Spells",
+      "source": "HMB",
+      "page": 18,
+      "className": "Artificer",
+      "classSource": "TCE",
+      "subclassShortName": "Bio-Chemist",
+      "subclassSource": "HMB",
+      "level": 3,
+      "header": 1,
+      "entries": [
+        "Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Bio-Chemist Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.",
+        {
+          "type": "table",
+          "caption": "Bio-Chemist Spells",
+          "colLabels": [
+            "Artificer Level",
+            "Spell"
+          ],
+          "colStyles": [
+            "col-2 text-center",
+            "col-10"
+          ],
+          "rows": [
+            [
+              "3rd",
+              "{@spell expeditious retreat}, {@spell featherfall}"
+            ],
+            [
+              "5th",
+              "{@spell alter self}, {@spell enhance ability}"
+            ],
+            [
+              "9th",
+              "{@spell fly}, {@spell haste}"
+            ],
+            [
+              "13th",
+              "{@spell giant insect}, {@spell polymorph}"
+            ],
+            [
+              "17th",
+              "{@spell reincarnate}, {@spell skill empowerment}"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Metamorphosis",
+      "source": "HMB",
+      "page": 18,
+      "className": "Artificer",
+      "classSource": "TCE",
+      "subclassShortName": "Bio-Chemist",
+      "subclassSource": "HMB",
+      "level": 3,
+      "header": 1,
+      "entries": [
+        "At 3rd level, your research into bio-alchemy has allowed you to\nmodify your own biology. As a bonus action, you can induce a\nmetamorphosis, choosing an option from the Metamorphoses\ntable on the next page that you have the appropriate components\nfor. When you do so, you gain the benefits listed in the\nTemporary Mutations column of the Metamorphoses table, which\nlast for 10 minutes or until you use this feature again. At the same\ntime, you can choose to gain the benefits listed in the Lasting\nMutations column, which last until you gain a different lasting\nmutation from this feature.",
+        "Once you use this feature, you can’t use it again until you\nfinish a long rest or expend a spell slot of 1st level or higher. If\nyou expend a spell slot of 2nd level or higher, the duration of the\ntemporary mutations increases by 10 minutes for each slot level\nabove 1st.",
+        "When you choose this subclass, you also choose two\nmetamorphoses from the Metamorphoses table to be your\nsignature metamorphoses. When you induce these\nmetamorphoses, you can ignore their components. Otherwise, you\nmust have the necessary components. The components are always\nthe genetic material of a creature that is of the creature type stated\nin the Type column of the Metamorphoses table. The material is\nconsumed by the process, and an individual creature can be used\nonly once per 24 hours. The material must be personally extracted\nby you from a living creature or within 10 minutes of the\ncreature’s death.",
+        "When you finish a short or long rest, you can also swap out\nyour lasting mutation for a different one, without spending a use\nof this feature. When you do so, you need to have the necessary\ncomponents, but these components are not consumed.",
+        "When you gain a level in this class, you can swap your\nsignature metamorphosis for a different one."
+      ]
+    },
+    {
+      "name": "Adaptive Element",
+      "source": "HMB",
+      "className": "Artificer",
+      "classSource": "TCE",
+      "subclassShortName": "Bio-Chemist",
+      "subclassSource": "HMB",
+      "level": 5,
+      "header": 2,
+      "entries": [
+        "Starting at 5th level, whenever you deal damage you can choose\r\nto deal an additional 1d8 acid, cold, fire, lightning, or poison\r\ndamage (your choice) to one of the creatures damaged. Once you\r\ndo so, you can’t do so again until the start of your next turn."
+      ]
+    },
+    {
+      "name": "Resistive Metamorphosis",
+      "source": "HMB",
+      "className": "Artificer",
+      "classSource": "TCE",
+      "subclassShortName": "Bio-Chemist",
+      "subclassSource": "HMB",
+      "level": 9,
+      "header": 2,
+      "entries": [
+        "Starting at 9th level, you receive all the following additional\nbenefits while you are under the effect of the temporary mutations\ngranted by your Metamorphosis feature:",
+        "The damage dealt by your Adaptive Element feature increases\\\nby 1d8.",
+        "When you enter your Metamorphosis, choose acid, cold, fire,\nlightning, or poison. You gain resistance to the chosen damage\ntype for the duration."
+      ]
+    },
+    {
+      "name": "Master of Mutation",
+      "source": "HMB",
+      "className": "Artificer",
+      "classSource": "TCE",
+      "subclassShortName": "Bio-Chemist",
+      "subclassSource": "HMB",
+      "level": 9,
+      "header": 2,
+      "entries": [
+        "Starting at 15th level, you can have two lasting mutations active\r\nat once. When you gain a lasting mutation and already have two,\r\nyou choose which one to replace. Also, you gain one of the\r\nfollowing special mutations, which you can swap for a different\r\none whenever you finish a short or long rest.",
+        "Third Eye. You can see invisible creatures and objects within\r\n10 feet of you that are within line of sight.",
+        "Regeneration. At the start of each of your turns, you regain hit\npoints equal to your Intelligence modifier if you have no more\nthan half of your hit points left. You don't gain this benefit if you\nhave 0 hit points.",
+        "Magic Resistance. You have advantage on saving throws\nagainst spells and other effects."
       ]
     }
   ]
