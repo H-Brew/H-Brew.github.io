@@ -2525,7 +2525,7 @@
       "level": 3,
       "header": 1,
       "entries": [
-        "At 3rd level, your research into bio-alchemy has allowed you to\nmodify your own biology. As a bonus action, you can induce a\nmetamorphosis, choosing an option from the Metamorphoses\ntable on the next page that you have the appropriate components\nfor. When you do so, you gain the benefits listed in the\nTemporary Mutations column of the Metamorphoses table, which\nlast for 10 minutes or until you use this feature again. At the same\ntime, you can choose to gain the benefits listed in the Lasting\nMutations column, which last until you gain a different lasting\nmutation from this feature.",
+        "At 3rd level, your research into bio-alchemy has allowed you to\nmodify your own biology. As a bonus action, you can induce a\nmetamorphosis, choosing an option from the {@filter Metamorphosis Table|optionalfeatures|feature type=MetaM} that you have the appropriate components\nfor. When you do so, you gain the benefits listed in the\nTemporary Mutations column of the Metamorphoses table, which\nlast for 10 minutes or until you use this feature again. At the same\ntime, you can choose to gain the benefits listed in the Lasting\nMutations column, which last until you gain a different lasting\nmutation from this feature.",
         "Once you use this feature, you can’t use it again until you\nfinish a long rest or expend a spell slot of 1st level or higher. If\nyou expend a spell slot of 2nd level or higher, the duration of the\ntemporary mutations increases by 10 minutes for each slot level\nabove 1st.",
         "When you choose this subclass, you also choose two\nmetamorphoses from the Metamorphoses table to be your\nsignature metamorphoses. When you induce these\nmetamorphoses, you can ignore their components. Otherwise, you\nmust have the necessary components. The components are always\nthe genetic material of a creature that is of the creature type stated\nin the Type column of the Metamorphoses table. The material is\nconsumed by the process, and an individual creature can be used\nonly once per 24 hours. The material must be personally extracted\nby you from a living creature or within 10 minutes of the\ncreature’s death.",
         "When you finish a short or long rest, you can also swap out\nyour lasting mutation for a different one, without spending a use\nof this feature. When you do so, you need to have the necessary\ncomponents, but these components are not consumed.",
@@ -2573,8 +2573,7 @@
         "Starting at 15th level, you can have two lasting mutations active\r\nat once. When you gain a lasting mutation and already have two,\r\nyou choose which one to replace. Also, you gain one of the\r\nfollowing special mutations, which you can swap for a different\r\none whenever you finish a short or long rest.",
         "Third Eye. You can see invisible creatures and objects within\r\n10 feet of you that are within line of sight.",
         "Regeneration. At the start of each of your turns, you regain hit\npoints equal to your Intelligence modifier if you have no more\nthan half of your hit points left. You don't gain this benefit if you\nhave 0 hit points.",
-        "Magic Resistance. You have advantage on saving throws\nagainst spells and other effects.",
-        "{@filter testidk|optionalfeatures|feature type=MetaM}"
+        "Magic Resistance. You have advantage on saving throws\nagainst spells and other effects."
       ]
     }
   ]
