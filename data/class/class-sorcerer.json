@@ -5491,7 +5491,9 @@
       "subclassSource": "HMB",
       "level": 1,
       "entries": [
-        "Your innate magic comes from a dark part of your ancestral past.  You have a direct familiar connection to a vampire, and its power has shown itself most in you.  It is not a curse that you have, but the blood in your veins that connects you to them.\nHaving this origin is a secret that is often kept secret at all costs as many folk will point at those with vampiric blood in them and cry evil.",
+        "Your innate magic comes from a dark part of your ancestral past.  You have a direct familiar connection to a vampire, and its power has shown itself most in you.  It is not a curse that you have, but the blood in your veins that connects you to them.",
+        "Having this origin is a secret that is often kept secret at all costs as many folk will point at those with vampiric blood in them and cry evil.  Indeed many who trace their lineage to such creatures turn to evil in order to survive in a world that despises them.  This is their choice, however, and you can choose to become what you want.",
+        "The power of your bloodline may mark you as evil, but it does not control you.",
         {
           "type": "refSubclassFeature",
           "subclassFeature": "Vampiric Ancestry|Sorcerer||Vampiric|HMB|1"
@@ -5513,8 +5515,10 @@
       "level": 1,
       "header": 1,
       "entries": [
-        "From 1st level, when you choose...",
-        "You know the..."
+        "From 1st level, when you choose this subclass, your Vampiric ancestry grants you the benefits that are shown below",
+        "You know the {@spell primal savagery} cantrip, and it deals necrotic instead of acid damage.  It counts as a sorcerer cantrip to you and does not count against the number of cantrips you know.",
+        "You can cause a creature to re-roll a successful saving throw made against being charmed by sorcerer spells you cast.  You can't do this to the same creature again for seven days.",
+        "You don't need to sleep in order to gain the benefits of a long rest.  Instead you can spend four hours doing simple non-strenuous tasks such as reading books, writing a letter, or painting a picture."
       ]
     },
     {
@@ -5528,7 +5532,9 @@
       "level": 1,
       "header": 1,
       "entries": [
-        "At 1st level, your bloodline gives..."
+        "At 1st level, your bloodline gives you incredible regenerative power.  You have a pool of regeneration represented by a number of d6's equal to your sorcerer level.",
+        "As a bonus action, you can spend a number of those dice equal to your charisma modifier or less (Minimum 1).  You regain hit points equal to the total amount rolled.  You regain all expended dice when you finish a long rest.",
+        "If you are in direct sunlight, roll d4s instead of d6s."
       ]
     },
     {
@@ -5542,7 +5548,8 @@
       "level": 6,
       "header": 1,
       "entries": [
-        "Starting at 6th  level..."
+        "Starting at 6th  level, when reduced to 0 hit points you are not rendered unconscious but instead you (along with all the items you are wearing) transform into a cloud of mist.  While in mist form you are immune to all damage, can take no actions other than to fly with a speed of 30 feet, and must make death saving throws as normal.  You can be healed while in mist form.  At the end of your next turn, your body reforms and you become unconscious if you still have 0 hitpoints.",
+        "Once this happens, it can't happen aganin until you finish a long rest."
       ]
     },
     {
@@ -5556,7 +5563,7 @@
       "level": 14,
       "header": 1,
       "entries": [
-        "Starting at 14th  level..."
+        "Starting at 14th  level, you gain the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.  You can gain a climbing speed equal to your walking speed."
       ]
     },
     {
@@ -5570,7 +5577,8 @@
       "level": 18,
       "header": 1,
       "entries": [
-        "Starting at 18th  level..."
+        "Starting at 18th  level, you age very slowly.  For every five years that pass, you age only one year.",
+        "Also, you can use your ancestral regeneration on your turn while you are unconscious or in mist form.  If you do this, your turn ends afterwards and you roll d4 instead of d6s for the healing."
       ]
     }
   ]
