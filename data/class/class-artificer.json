@@ -2567,7 +2567,7 @@
       "classSource": "TCE",
       "subclassShortName": "Bio-Chemist",
       "subclassSource": "HMB",
-      "level": 9,
+      "level": 15,
       "header": 2,
       "entries": [
         "Starting at 15th level, you can have two lasting mutations active\r\nat once. When you gain a lasting mutation and already have two,\r\nyou choose which one to replace. Also, you gain one of the\r\nfollowing special mutations, which you can swap for a different\r\none whenever you finish a short or long rest.",
