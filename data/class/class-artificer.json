@@ -2573,7 +2573,8 @@
         "Starting at 15th level, you can have two lasting mutations active\r\nat once. When you gain a lasting mutation and already have two,\r\nyou choose which one to replace. Also, you gain one of the\r\nfollowing special mutations, which you can swap for a different\r\none whenever you finish a short or long rest.",
         "Third Eye. You can see invisible creatures and objects within\r\n10 feet of you that are within line of sight.",
         "Regeneration. At the start of each of your turns, you regain hit\npoints equal to your Intelligence modifier if you have no more\nthan half of your hit points left. You don't gain this benefit if you\nhave 0 hit points.",
-        "Magic Resistance. You have advantage on saving throws\nagainst spells and other effects."
+        "Magic Resistance. You have advantage on saving throws\nagainst spells and other effects.",
+        "{@filter optionalfeatures|feature type=MetaM}"
       ]
     }
   ]
