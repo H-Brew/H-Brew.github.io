@@ -4199,7 +4199,7 @@
     },
     {
       "name": "Bonus Proficiency",
-      "source": "PSA",
+      "source": "HMB",
       "page": 24,
       "className": "Cleric",
       "classSource": "PHB",
@@ -4213,7 +4213,7 @@
     },
     {
       "name": "Solidarity's Action",
-      "source": "PSA",
+      "source": "HMB",
       "page": 24,
       "className": "Cleric",
       "classSource": "PHB",
@@ -4227,7 +4227,7 @@
     },
     {
       "name": "Channel Divinity: Preserve Life",
-      "source": "PSA",
+      "source": "HMB",
       "page": 24,
       "className": "Cleric",
       "classSource": "PHB",
@@ -4245,7 +4245,7 @@
     },
     {
       "name": "Oketra's Blessing",
-      "source": "PSA",
+      "source": "HMB",
       "page": 24,
       "className": "Cleric",
       "classSource": "PHB",
@@ -4291,7 +4291,7 @@
     },
     {
       "name": "Divine Strike",
-      "source": "PSA",
+      "source": "HMB",
       "page": 24,
       "className": "Cleric",
       "classSource": "PHB",
@@ -4305,7 +4305,7 @@
     },
     {
       "name": "Supreme Healing",
-      "source": "PSA",
+      "source": "HMB",
       "page": 24,
       "className": "Cleric",
       "classSource": "PHB",
@@ -4319,7 +4319,7 @@
     },
     {
       "name": "Strength Domain (PSA)",
-      "source": "PSA",
+      "source": "HMB",
       "page": 26,
       "className": "Cleric",
       "classSource": "PHB",
@@ -4376,7 +4376,7 @@
     },
     {
       "name": "Acolyte of Strength",
-      "source": "PSA",
+      "source": "HMB",
       "page": 26,
       "className": "Cleric",
       "classSource": "PHB",
@@ -4390,7 +4390,7 @@
     },
     {
       "name": "Bonus Proficiency",
-      "source": "PSA",
+      "source": "HMB",
       "page": 26,
       "className": "Cleric",
       "classSource": "PHB",
@@ -4404,7 +4404,7 @@
     },
     {
       "name": "Channel Divinity: Feat of Strength",
-      "source": "PSA",
+      "source": "HMB",
       "page": 26,
       "className": "Cleric",
       "classSource": "PHB",
@@ -4421,7 +4421,7 @@
     },
     {
       "name": "Rhonas's Blessing",
-      "source": "PSA",
+      "source": "HMB",
       "page": 26,
       "className": "Cleric",
       "classSource": "PHB",
@@ -4467,7 +4467,7 @@
     },
     {
       "name": "Divine Strike",
-      "source": "PSA",
+      "source": "HMB",
       "page": 26,
       "className": "Cleric",
       "classSource": "PHB",
@@ -4481,7 +4481,7 @@
     },
     {
       "name": "Avatar of Battle",
-      "source": "PSA",
+      "source": "HMB",
       "page": 26,
       "className": "Cleric",
       "classSource": "PHB",
@@ -4495,7 +4495,7 @@
     },
     {
       "name": "Zeal Domain (PSA)",
-      "source": "PSA",
+      "source": "HMB",
       "page": 28,
       "className": "Cleric",
       "classSource": "PHB",
@@ -4552,7 +4552,7 @@
     },
     {
       "name": "Bonus Proficiencies",
-      "source": "PSA",
+      "source": "HMB",
       "page": 28,
       "className": "Cleric",
       "classSource": "PHB",
@@ -4566,7 +4566,7 @@
     },
     {
       "name": "Priest of Zeal",
-      "source": "PSA",
+      "source": "HMB",
       "page": 28,
       "className": "Cleric",
       "classSource": "PHB",
@@ -4581,7 +4581,7 @@
     },
     {
       "name": "Channel Divinity: Consuming Fervor",
-      "source": "PSA",
+      "source": "HMB",
       "page": 28,
       "className": "Cleric",
       "classSource": "PHB",
@@ -4599,7 +4599,7 @@
     },
     {
       "name": "Resounding Strike",
-      "source": "PSA",
+      "source": "HMB",
       "page": 28,
       "className": "Cleric",
       "classSource": "PHB",
@@ -4645,7 +4645,7 @@
     },
     {
       "name": "Divine Strike",
-      "source": "PSA",
+      "source": "HMB",
       "page": 28,
       "className": "Cleric",
       "classSource": "PHB",
@@ -4659,7 +4659,7 @@
     },
     {
       "name": "Blaze of Glory",
-      "source": "PSA",
+      "source": "HMB",
       "page": 28,
       "className": "Cleric",
       "classSource": "PHB",
