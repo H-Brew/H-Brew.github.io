@@ -4366,11 +4366,11 @@
         },
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Acolyte of Strength|Cleric||Strength (PSA)|PSA|1"
+          "subclassFeature": "Acolyte of Strength|Cleric||Strength (PSA)|HMB|1"
         },
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Bonus Proficiency|Cleric||Strength (PSA)|PSA|1"
+          "subclassFeature": "Bonus Proficiency|Cleric||Strength (PSA)|HMB|1"
         }
       ]
     },
