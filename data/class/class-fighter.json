@@ -961,16 +961,16 @@
     {
       "name": "Sharpshooter (UA)",
       "shortName": "Sharpshooter (UA)",
-      "source": "UAFighter",
+      "source": "HMB",
       "className": "Fighter",
       "classSource": "PHB",
       "page": 3,
       "subclassFeatures": [
-        "Sharpshooter|Fighter||Sharpshooter (UA)|UAFighter|3",
-        "Careful Eyes|Fighter||Sharpshooter (UA)|UAFighter|7",
-        "Close-Quarters Shooting|Fighter||Sharpshooter (UA)|UAFighter|10",
-        "Rapid Strike|Fighter||Sharpshooter (UA)|UAFighter|15",
-        "Snap Shot|Fighter||Sharpshooter (UA)|UAFighter|18"
+        "Sharpshooter|Fighter||Sharpshooter (UA)|HMB|3",
+        "Careful Eyes|Fighter||Sharpshooter (UA)|HMB|7",
+        "Close-Quarters Shooting|Fighter||Sharpshooter (UA)|HMB|10",
+        "Rapid Strike|Fighter||Sharpshooter (UA)|HMB|15",
+        "Snap Shot|Fighter||Sharpshooter (UA)|HMB|18"
       ]
     },
     {
@@ -3733,29 +3733,29 @@
     },
     {
       "name": "Sharpshooter",
-      "source": "UAFighter",
+      "source": "HMB",
       "page": 3,
       "className": "Fighter",
       "classSource": "PHB",
       "subclassShortName": "Sharpshooter (UA)",
-      "subclassSource": "UAFighter",
+      "subclassSource": "HMB",
       "level": 3,
       "entries": [
         "The Sharpshooter is a master of ranged combat. An excellent sniper and eagle-eyed scout, this fighter is a perilous foe who can defeat an entire war band so long as they are kept at range.",
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Steady Aim|Fighter||Sharpshooter (UA)|UAFighter|3"
+          "subclassFeature": "Steady Aim|Fighter||Sharpshooter (UA)|HMB|3"
         }
       ]
     },
     {
       "name": "Steady Aim",
-      "source": "UAFighter",
+      "source": "HMB",
       "page": 3,
       "className": "Fighter",
       "classSource": "PHB",
       "subclassShortName": "Sharpshooter (UA)",
-      "subclassSource": "UAFighter",
+      "subclassSource": "HMB",
       "level": 3,
       "header": 1,
       "entries": [
@@ -3772,12 +3772,12 @@
     },
     {
       "name": "Careful Eyes",
-      "source": "UAFighter",
+      "source": "HMB",
       "page": 3,
       "className": "Fighter",
       "classSource": "PHB",
       "subclassShortName": "Sharpshooter (UA)",
-      "subclassSource": "UAFighter",
+      "subclassSource": "HMB",
       "level": 7,
       "header": 2,
       "entries": [
@@ -3787,12 +3787,12 @@
     },
     {
       "name": "Close-Quarters Shooting",
-      "source": "UAFighter",
+      "source": "HMB",
       "page": 3,
       "className": "Fighter",
       "classSource": "PHB",
       "subclassShortName": "Sharpshooter (UA)",
-      "subclassSource": "UAFighter",
+      "subclassSource": "HMB",
       "level": 10,
       "header": 2,
       "entries": [
@@ -3802,12 +3802,12 @@
     },
     {
       "name": "Rapid Strike",
-      "source": "UAFighter",
+      "source": "HMB",
       "page": 3,
       "className": "Fighter",
       "classSource": "PHB",
       "subclassShortName": "Sharpshooter (UA)",
-      "subclassSource": "UAFighter",
+      "subclassSource": "HMB",
       "level": 15,
       "header": 2,
       "entries": [
@@ -3816,12 +3816,12 @@
     },
     {
       "name": "Snap Shot",
-      "source": "UAFighter",
+      "source": "HMB",
       "page": 3,
       "className": "Fighter",
       "classSource": "PHB",
       "subclassShortName": "Sharpshooter (UA)",
-      "subclassSource": "UAFighter",
+      "subclassSource": "HMB",
       "level": 18,
       "header": 2,
       "entries": [
