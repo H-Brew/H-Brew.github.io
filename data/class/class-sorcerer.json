@@ -1078,43 +1078,43 @@
     {
       "name": "Phoenix Sorcery (UA)",
       "shortName": "Phoenix (UA)",
-      "source": "UASorcerer",
+      "source": "HMB",
       "className": "Sorcerer",
       "classSource": "PHB",
       "page": 1,
       "subclassFeatures": [
-        "Phoenix Sorcery (UA)|Sorcerer||Phoenix (UA)|UASorcerer|1",
-        "Phoenix Spark|Sorcerer||Phoenix (UA)|UASorcerer|6",
-        "Nourishing Fire|Sorcerer||Phoenix (UA)|UASorcerer|14",
-        "Form of the Phoenix|Sorcerer||Phoenix (UA)|UASorcerer|18"
+        "Phoenix Sorcery (UA)|Sorcerer||Phoenix (UA)|HMB|1",
+        "Phoenix Spark|Sorcerer||Phoenix (UA)|HMB|6",
+        "Nourishing Fire|Sorcerer||Phoenix (UA)|HMB|14",
+        "Form of the Phoenix|Sorcerer||Phoenix (UA)|HMB|18"
       ]
     },
     {
       "name": "Sea Sorcery (UA)",
       "shortName": "Sea (UA)",
-      "source": "UASorcerer",
+      "source": "HMB",
       "className": "Sorcerer",
       "classSource": "PHB",
       "page": 2,
       "subclassFeatures": [
-        "Sea Sorcery (UA)|Sorcerer||Sea (UA)|UASorcerer|1",
-        "Watery Defense|Sorcerer||Sea (UA)|UASorcerer|6",
-        "Shifting Form|Sorcerer||Sea (UA)|UASorcerer|14",
-        "Water Soul|Sorcerer||Sea (UA)|UASorcerer|18"
+        "Sea Sorcery (UA)|Sorcerer||Sea (UA)|HMB|1",
+        "Watery Defense|Sorcerer||Sea (UA)|HMB|6",
+        "Shifting Form|Sorcerer||Sea (UA)|HMB|14",
+        "Water Soul|Sorcerer||Sea (UA)|HMB|18"
       ]
     },
     {
       "name": "Stone Sorcery (UA)",
       "shortName": "Stone (UA)",
-      "source": "UASorcerer",
+      "source": "HMB",
       "className": "Sorcerer",
       "classSource": "PHB",
       "page": 3,
       "subclassFeatures": [
-        "Stone Sorcery (UA)|Sorcerer||Stone (UA)|UASorcerer|1",
-        "Stone Aegis|Sorcerer||Stone (UA)|UASorcerer|6",
-        "Stone's Edge|Sorcerer||Stone (UA)|UASorcerer|14",
-        "Earth Master's Aegis|Sorcerer||Stone (UA)|UASorcerer|18"
+        "Stone Sorcery (UA)|Sorcerer||Stone (UA)|HMB|1",
+        "Stone Aegis|Sorcerer||Stone (UA)|HMB|6",
+        "Stone's Edge|Sorcerer||Stone (UA)|HMB|14",
+        "Earth Master's Aegis|Sorcerer||Stone (UA)|HMB|18"
       ]
     },
     {
@@ -1249,15 +1249,15 @@
     {
       "name": "Giant Soul (UA)",
       "shortName": "Giant Soul (UA)",
-      "source": "UAGiantSoulSorcerer",
+      "source": "HMB",
       "className": "Sorcerer",
       "classSource": "PHB",
       "page": 1,
       "subclassFeatures": [
-        "Giant Soul (UA)|Sorcerer||Giant Soul (UA)|UAGiantSoulSorcerer|1",
-        "Soul of Lost Ostoria|Sorcerer||Giant Soul (UA)|UAGiantSoulSorcerer|6",
-        "Rage of Fallen Ostoria|Sorcerer||Giant Soul (UA)|UAGiantSoulSorcerer|14",
-        "Blessing of the All Father|Sorcerer||Giant Soul (UA)|UAGiantSoulSorcerer|18"
+        "Giant Soul (UA)|Sorcerer||Giant Soul (UA)|HMB|1",
+        "Soul of Lost Ostoria|Sorcerer||Giant Soul (UA)|HMB|6",
+        "Rage of Fallen Ostoria|Sorcerer||Giant Soul (UA)|HMB|14",
+        "Blessing of the All Father|Sorcerer||Giant Soul (UA)|HMB|18"
       ]
     },
     {
@@ -1477,7 +1477,7 @@
     {
       "name": "Lunar Magic (UA)",
       "shortName": "Lunar Magic (UA)",
-      "source": "UA2022HeroesOfKrynn",
+      "source": "HMB",
       "className": "Sorcerer",
       "classSource": "PHB",
       "page": 2,
@@ -1544,11 +1544,11 @@
         }
       ],
       "subclassFeatures": [
-        "Lunar Magic|Sorcerer||Lunar Magic (UA)|UA2022HeroesOfKrynn|1",
-        "Lunar Boons|Sorcerer||Lunar Magic (UA)|UA2022HeroesOfKrynn|6",
-        "Waxing and Waning|Sorcerer||Lunar Magic (UA)|UA2022HeroesOfKrynn|6",
-        "Lunar Empowerment|Sorcerer||Lunar Magic (UA)|UA2022HeroesOfKrynn|14",
-        "Lunar Phenomenon|Sorcerer||Lunar Magic (UA)|UA2022HeroesOfKrynn|18"
+        "Lunar Magic|Sorcerer||Lunar Magic (UA)|HMB|1",
+        "Lunar Boons|Sorcerer||Lunar Magic (UA)|HMB|6",
+        "Waxing and Waning|Sorcerer||Lunar Magic (UA)|HMB|6",
+        "Lunar Empowerment|Sorcerer||Lunar Magic (UA)|HMB|14",
+        "Lunar Phenomenon|Sorcerer||Lunar Magic (UA)|HMB|18"
       ]
     },
     {
@@ -3456,12 +3456,12 @@
     },
     {
       "name": "Lunar Magic",
-      "source": "UA2022HeroesOfKrynn",
+      "source": "HMB",
       "page": 2,
       "className": "Sorcerer",
       "classSource": "PHB",
       "subclassShortName": "Lunar Magic (UA)",
-      "subclassSource": "UA2022HeroesOfKrynn",
+      "subclassSource": "HMB",
       "level": 1,
       "entries": [
         "On many worlds, the moon is a revered celestial body with magical properties. On Krynn, the gods of magic are associated with the world's three moons. On the world of Toril, the god Selûne uses the light of the moon to battle darkness. On Eberron, scholars of the Draconic Prophecy decipher ancient secrets from the waxing and waning of that world's twelve moons.",
@@ -3565,12 +3565,12 @@
     },
     {
       "name": "Lunar Boons",
-      "source": "UA2022HeroesOfKrynn",
+      "source": "HMB",
       "page": 3,
       "className": "Sorcerer",
       "classSource": "PHB",
       "subclassShortName": "Lunar Magic (UA)",
-      "subclassSource": "UA2022HeroesOfKrynn",
+      "subclassSource": "HMB",
       "level": 6,
       "header": 2,
       "entries": [
@@ -3608,12 +3608,12 @@
     },
     {
       "name": "Waxing and Waning",
-      "source": "UA2022HeroesOfKrynn",
+      "source": "HMB",
       "page": 3,
       "className": "Sorcerer",
       "classSource": "PHB",
       "subclassShortName": "Lunar Magic (UA)",
-      "subclassSource": "UA2022HeroesOfKrynn",
+      "subclassSource": "HMB",
       "level": 6,
       "header": 2,
       "entries": [
@@ -3623,12 +3623,12 @@
     },
     {
       "name": "Lunar Empowerment",
-      "source": "UA2022HeroesOfKrynn",
+      "source": "HMB",
       "page": 3,
       "className": "Sorcerer",
       "classSource": "PHB",
       "subclassShortName": "Lunar Magic (UA)",
-      "subclassSource": "UA2022HeroesOfKrynn",
+      "subclassSource": "HMB",
       "level": 14,
       "header": 2,
       "entries": [
@@ -3659,12 +3659,12 @@
     },
     {
       "name": "Lunar Phenomenon",
-      "source": "UA2022HeroesOfKrynn",
+      "source": "HMB",
       "page": 3,
       "className": "Sorcerer",
       "classSource": "PHB",
       "subclassShortName": "Lunar Magic (UA)",
-      "subclassSource": "UA2022HeroesOfKrynn",
+      "subclassSource": "HMB",
       "level": 18,
       "header": 2,
       "entries": [
@@ -3702,33 +3702,33 @@
     },
     {
       "name": "Giant Soul (UA)",
-      "source": "UAGiantSoulSorcerer",
+      "source": "HMB",
       "page": 1,
       "className": "Sorcerer",
       "classSource": "PHB",
       "subclassShortName": "Giant Soul (UA)",
-      "subclassSource": "UAGiantSoulSorcerer",
+      "subclassSource": "HMB",
       "level": 1,
       "entries": [
         "The giants once dwelled in a fabled realm known as Ostoria, a paradise for their folk that reflected their mastery of the mortal realm. In time, Ostoria fell, and the giants were scattered and broken. During that mythic era, the giants granted a few chosen individuals among the small folk a shard of their great power. These favored people were caught in the same tragedy that sundered Ostoria. Since that time, they have spread across the many worlds of the multiverse. Now and again, one of their descendants manifests the gifts imparted by the giants, granting them sorcerous magic that allows them to command the elements and gain the might of a giant.",
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Jotun Resilience|Sorcerer||Giant Soul (UA)|UAGiantSoulSorcerer|1"
+          "subclassFeature": "Jotun Resilience|Sorcerer||Giant Soul (UA)|HMB|1"
         },
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Mark of the Ordning|Sorcerer||Giant Soul (UA)|UAGiantSoulSorcerer|1"
+          "subclassFeature": "Mark of the Ordning|Sorcerer||Giant Soul (UA)|HMB|1"
         }
       ]
     },
     {
       "name": "Jotun Resilience",
-      "source": "UAGiantSoulSorcerer",
+      "source": "HMB",
       "page": 1,
       "className": "Sorcerer",
       "classSource": "PHB",
       "subclassShortName": "Giant Soul (UA)",
-      "subclassSource": "UAGiantSoulSorcerer",
+      "subclassSource": "HMB",
       "level": 1,
       "header": 1,
       "entries": [
@@ -3737,12 +3737,12 @@
     },
     {
       "name": "Mark of the Ordning",
-      "source": "UAGiantSoulSorcerer",
+      "source": "HMB",
       "page": 1,
       "className": "Sorcerer",
       "classSource": "PHB",
       "subclassShortName": "Giant Soul (UA)",
-      "subclassSource": "UAGiantSoulSorcerer",
+      "subclassSource": "HMB",
       "level": 1,
       "header": 1,
       "entries": [
@@ -3796,12 +3796,12 @@
     },
     {
       "name": "Soul of Lost Ostoria",
-      "source": "UAGiantSoulSorcerer",
+      "source": "HMB",
       "page": 1,
       "className": "Sorcerer",
       "classSource": "PHB",
       "subclassShortName": "Giant Soul (UA)",
-      "subclassSource": "UAGiantSoulSorcerer",
+      "subclassSource": "HMB",
       "level": 6,
       "header": 2,
       "entries": [
@@ -3852,12 +3852,12 @@
     },
     {
       "name": "Rage of Fallen Ostoria",
-      "source": "UAGiantSoulSorcerer",
+      "source": "HMB",
       "page": 1,
       "className": "Sorcerer",
       "classSource": "PHB",
       "subclassShortName": "Giant Soul (UA)",
-      "subclassSource": "UAGiantSoulSorcerer",
+      "subclassSource": "HMB",
       "level": 14,
       "header": 2,
       "entries": [
@@ -3878,12 +3878,12 @@
     },
     {
       "name": "Blessing of the All Father",
-      "source": "UAGiantSoulSorcerer",
+      "source": "HMB",
       "page": 1,
       "className": "Sorcerer",
       "classSource": "PHB",
       "subclassShortName": "Giant Soul (UA)",
-      "subclassSource": "UAGiantSoulSorcerer",
+      "subclassSource": "HMB",
       "level": 18,
       "header": 2,
       "entries": [
@@ -4335,12 +4335,12 @@
     },
     {
       "name": "Phoenix Sorcery (UA)",
-      "source": "UASorcerer",
+      "source": "HMB",
       "page": 1,
       "className": "Sorcerer",
       "classSource": "PHB",
       "subclassShortName": "Phoenix (UA)",
-      "subclassSource": "UASorcerer",
+      "subclassSource": "HMB",
       "level": 1,
       "entries": [
         "Your power draws from the immortal flame that fuels the legendary phoenix. You or your ancestors perhaps rendered a phoenix a great service, or you were born in its presence. Whatever the cause, a shard of the phoenix's power dwells within you.",
@@ -4387,22 +4387,22 @@
         },
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Ignite|Sorcerer||Phoenix (UA)|UASorcerer|1"
+          "subclassFeature": "Ignite|Sorcerer||Phoenix (UA)|HMB|1"
         },
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Mantle of Flame|Sorcerer||Phoenix (UA)|UASorcerer|1"
+          "subclassFeature": "Mantle of Flame|Sorcerer||Phoenix (UA)|HMB|1"
         }
       ]
     },
     {
       "name": "Ignite",
-      "source": "UASorcerer",
+      "source": "HMB",
       "page": 1,
       "className": "Sorcerer",
       "classSource": "PHB",
       "subclassShortName": "Phoenix (UA)",
-      "subclassSource": "UASorcerer",
+      "subclassSource": "HMB",
       "level": 1,
       "header": 1,
       "entries": [
@@ -4411,12 +4411,12 @@
     },
     {
       "name": "Mantle of Flame",
-      "source": "UASorcerer",
+      "source": "HMB",
       "page": 1,
       "className": "Sorcerer",
       "classSource": "PHB",
       "subclassShortName": "Phoenix (UA)",
-      "subclassSource": "UASorcerer",
+      "subclassSource": "HMB",
       "level": 1,
       "header": 1,
       "entries": [
@@ -4435,12 +4435,12 @@
     },
     {
       "name": "Phoenix Spark",
-      "source": "UASorcerer",
+      "source": "HMB",
       "page": 1,
       "className": "Sorcerer",
       "classSource": "PHB",
       "subclassShortName": "Phoenix (UA)",
-      "subclassSource": "UASorcerer",
+      "subclassSource": "HMB",
       "level": 6,
       "header": 2,
       "entries": [
@@ -4452,12 +4452,12 @@
     },
     {
       "name": "Nourishing Fire",
-      "source": "UASorcerer",
+      "source": "HMB",
       "page": 1,
       "className": "Sorcerer",
       "classSource": "PHB",
       "subclassShortName": "Phoenix (UA)",
-      "subclassSource": "UASorcerer",
+      "subclassSource": "HMB",
       "level": 14,
       "header": 2,
       "entries": [
@@ -4466,12 +4466,12 @@
     },
     {
       "name": "Form of the Phoenix",
-      "source": "UASorcerer",
+      "source": "HMB",
       "page": 1,
       "className": "Sorcerer",
       "classSource": "PHB",
       "subclassShortName": "Phoenix (UA)",
-      "subclassSource": "UASorcerer",
+      "subclassSource": "HMB",
       "level": 18,
       "header": 2,
       "entries": [
@@ -4488,34 +4488,34 @@
     },
     {
       "name": "Sea Sorcery (UA)",
-      "source": "UASorcerer",
+      "source": "HMB",
       "page": 2,
       "className": "Sorcerer",
       "classSource": "PHB",
       "subclassShortName": "Sea (UA)",
-      "subclassSource": "UASorcerer",
+      "subclassSource": "HMB",
       "level": 1,
       "entries": [
         "The power of water is the strength of flexibility, resilience, and a relentless nature. Water parts to allow a ship to sail over it or a diver to plunge into it, but their passing leaves no mark. Water flowing down a mountain reaches the sea. It might bend and turn across valleys and down hillsides, but it slowly and steadily returns to the waves. Those whose souls are touched by the power of elemental water command a similar power.",
         "Your heritage ties to powerful creatures of the sea, such as nereids, the lords of the merfolk, and elemental powers. Like a river, you feel the call of the ocean. The call is ever present in your heart, and you are never completely at peace until you are near the sea.",
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Soul of the Sea|Sorcerer||Sea (UA)|UASorcerer|1"
+          "subclassFeature": "Soul of the Sea|Sorcerer||Sea (UA)|HMB|1"
         },
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Curse of the Sea|Sorcerer||Sea (UA)|UASorcerer|1"
+          "subclassFeature": "Curse of the Sea|Sorcerer||Sea (UA)|HMB|1"
         }
       ]
     },
     {
       "name": "Curse of the Sea",
-      "source": "UASorcerer",
+      "source": "HMB",
       "page": 2,
       "className": "Sorcerer",
       "classSource": "PHB",
       "subclassShortName": "Sea (UA)",
-      "subclassSource": "UASorcerer",
+      "subclassSource": "HMB",
       "level": 1,
       "header": 1,
       "entries": [
@@ -4552,12 +4552,12 @@
     },
     {
       "name": "Soul of the Sea",
-      "source": "UASorcerer",
+      "source": "HMB",
       "page": 2,
       "className": "Sorcerer",
       "classSource": "PHB",
       "subclassShortName": "Sea (UA)",
-      "subclassSource": "UASorcerer",
+      "subclassSource": "HMB",
       "level": 1,
       "header": 1,
       "entries": [
@@ -4566,12 +4566,12 @@
     },
     {
       "name": "Watery Defense",
-      "source": "UASorcerer",
+      "source": "HMB",
       "page": 2,
       "className": "Sorcerer",
       "classSource": "PHB",
       "subclassShortName": "Sea (UA)",
-      "subclassSource": "UASorcerer",
+      "subclassSource": "HMB",
       "level": 6,
       "header": 2,
       "entries": [
@@ -4581,12 +4581,12 @@
     },
     {
       "name": "Shifting Form",
-      "source": "UASorcerer",
+      "source": "HMB",
       "page": 2,
       "className": "Sorcerer",
       "classSource": "PHB",
       "subclassShortName": "Sea (UA)",
-      "subclassSource": "UASorcerer",
+      "subclassSource": "HMB",
       "level": 14,
       "header": 2,
       "entries": [
@@ -4597,12 +4597,12 @@
     },
     {
       "name": "Water Soul",
-      "source": "UASorcerer",
+      "source": "HMB",
       "page": 2,
       "className": "Sorcerer",
       "classSource": "PHB",
       "subclassShortName": "Sea (UA)",
-      "subclassSource": "UASorcerer",
+      "subclassSource": "HMB",
       "level": 18,
       "header": 2,
       "entries": [
@@ -4619,38 +4619,38 @@
     },
     {
       "name": "Stone Sorcery (UA)",
-      "source": "UASorcerer",
+      "source": "HMB",
       "page": 3,
       "className": "Sorcerer",
       "classSource": "PHB",
       "subclassShortName": "Stone (UA)",
-      "subclassSource": "UASorcerer",
+      "subclassSource": "HMB",
       "level": 1,
       "entries": [
         "Your magic springs from a mystical link between your soul and the magic of elemental earth. You might trace a distant ancestor to the Plane of Earth, or your family might have earned a mighty boon in return for a service to the dao lords. Whatever your past, the magic of elemental earth is yours to command.",
         "Your link to earth magic grants you extraordinary resilience, and stone sorcerers have a natural affinity for combat. A steel blade feels like a natural extension of your body, and sorcerers with this origin have a knack for wielding both shields and weapons. In combat your place is amid the fray. You rely on your elemental nature to shield you from harm and your magic and metal weapons to overwhelm your foes.",
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Bonus Proficiencies|Sorcerer||Stone (UA)|UASorcerer|1"
+          "subclassFeature": "Bonus Proficiencies|Sorcerer||Stone (UA)|HMB|1"
         },
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Stone: Metal Magic|Sorcerer||Stone (UA)|UASorcerer|1"
+          "subclassFeature": "Stone: Metal Magic|Sorcerer||Stone (UA)|HMB|1"
         },
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Stone's Durability|Sorcerer||Stone (UA)|UASorcerer|1"
+          "subclassFeature": "Stone's Durability|Sorcerer||Stone (UA)|HMB|1"
         }
       ]
     },
     {
       "name": "Bonus Proficiencies",
-      "source": "UASorcerer",
+      "source": "HMB",
       "page": 3,
       "className": "Sorcerer",
       "classSource": "PHB",
       "subclassShortName": "Stone (UA)",
-      "subclassSource": "UASorcerer",
+      "subclassSource": "HMB",
       "level": 1,
       "header": 1,
       "entries": [
@@ -4659,12 +4659,12 @@
     },
     {
       "name": "Stone's Durability",
-      "source": "UASorcerer",
+      "source": "HMB",
       "page": 3,
       "className": "Sorcerer",
       "classSource": "PHB",
       "subclassShortName": "Stone (UA)",
-      "subclassSource": "UASorcerer",
+      "subclassSource": "HMB",
       "level": 1,
       "header": 1,
       "entries": [
@@ -4674,12 +4674,12 @@
     },
     {
       "name": "Stone: Metal Magic",
-      "source": "UASorcerer",
+      "source": "HMB",
       "page": 3,
       "className": "Sorcerer",
       "classSource": "PHB",
       "subclassShortName": "Stone (UA)",
-      "subclassSource": "UASorcerer",
+      "subclassSource": "HMB",
       "level": 1,
       "header": 1,
       "entries": [
@@ -4718,12 +4718,12 @@
     },
     {
       "name": "Stone Aegis",
-      "source": "UASorcerer",
+      "source": "HMB",
       "page": 3,
       "className": "Sorcerer",
       "classSource": "PHB",
       "subclassShortName": "Stone (UA)",
-      "subclassSource": "UASorcerer",
+      "subclassSource": "HMB",
       "level": 6,
       "header": 2,
       "entries": [
@@ -4734,12 +4734,12 @@
     },
     {
       "name": "Stone's Edge",
-      "source": "UASorcerer",
+      "source": "HMB",
       "page": 3,
       "className": "Sorcerer",
       "classSource": "PHB",
       "subclassShortName": "Stone (UA)",
-      "subclassSource": "UASorcerer",
+      "subclassSource": "HMB",
       "level": 14,
       "header": 2,
       "entries": [
@@ -4748,12 +4748,12 @@
     },
     {
       "name": "Earth Master's Aegis",
-      "source": "UASorcerer",
+      "source": "HMB",
       "page": 3,
       "className": "Sorcerer",
       "classSource": "PHB",
       "subclassShortName": "Stone (UA)",
-      "subclassSource": "UASorcerer",
+      "subclassSource": "HMB",
       "level": 18,
       "header": 2,
       "entries": [
