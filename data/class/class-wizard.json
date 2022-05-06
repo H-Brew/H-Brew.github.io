@@ -3164,27 +3164,27 @@
 							"entries": [
 								{
 									"type": "refOptionalfeature",
-									"optionalfeature": "Absorption|HMB"
+									"optionalfeature": "Absorption|UAClericDruidWizard"
 								},
 								{
 									"type": "refOptionalfeature",
-									"optionalfeature": "Devastation|HMB"
+									"optionalfeature": "Devastation|UAClericDruidWizard"
 								},
 								{
 									"type": "refOptionalfeature",
-									"optionalfeature": "Dissolution|HMB"
+									"optionalfeature": "Dissolution|UAClericDruidWizard"
 								},
 								{
 									"type": "refOptionalfeature",
-									"optionalfeature": "Nullification|HMB"
+									"optionalfeature": "Nullification|UAClericDruidWizard"
 								},
 								{
 									"type": "refOptionalfeature",
-									"optionalfeature": "Puppetry|HMB"
+									"optionalfeature": "Puppetry|UAClericDruidWizard"
 								},
 								{
 									"type": "refOptionalfeature",
-									"optionalfeature": "Sympathy|HMB"
+									"optionalfeature": "Sympathy|UAClericDruidWizard"
 								}
 							]
 						}
