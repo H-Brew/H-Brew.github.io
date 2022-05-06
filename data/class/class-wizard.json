@@ -925,15 +925,15 @@
 		{
 			"name": "Lore Mastery (UA)",
 			"shortName": "Lore Mastery (UA)",
-			"source": "UAWarlockAndWizard",
+			"source": "HMB",
 			"className": "Wizard",
 			"classSource": "PHB",
 			"page": 5,
 			"subclassFeatures": [
-				"Lore Mastery|Wizard||Lore Mastery (UA)|UAWarlockAndWizard|2",
-				"Alchemical Casting|Wizard||Lore Mastery (UA)|UAWarlockAndWizard|6",
-				"Prodigious Memory|Wizard||Lore Mastery (UA)|UAWarlockAndWizard|10",
-				"Master of Magic|Wizard||Lore Mastery (UA)|UAWarlockAndWizard|14"
+				"Lore Mastery|Wizard||Lore Mastery (UA)|HMB|2",
+				"Alchemical Casting|Wizard||Lore Mastery (UA)|HMB|6",
+				"Prodigious Memory|Wizard||Lore Mastery (UA)|HMB|10",
+				"Master of Magic|Wizard||Lore Mastery (UA)|HMB|14"
 			]
 		},
 		{
@@ -996,30 +996,30 @@
 		{
 			"name": "Onomancy (UA)",
 			"shortName": "Onomancy (UA)",
-			"source": "UAClericDruidWizard",
+			"source": "HMB",
 			"className": "Wizard",
 			"classSource": "PHB",
 			"page": 4,
 			"subclassFeatures": [
-				"Onomancy|Wizard||Onomancy (UA)|UAClericDruidWizard|2",
-				"Resonant Utterance|Wizard||Onomancy (UA)|UAClericDruidWizard|6",
-				"Inexorable Pronouncement|Wizard||Onomancy (UA)|UAClericDruidWizard|10",
-				"Relentless Naming|Wizard||Onomancy (UA)|UAClericDruidWizard|14"
+				"Onomancy|Wizard||Onomancy (UA)|HMB|2",
+				"Resonant Utterance|Wizard||Onomancy (UA)|HMB|6",
+				"Inexorable Pronouncement|Wizard||Onomancy (UA)|HMB|10",
+				"Relentless Naming|Wizard||Onomancy (UA)|HMB|14"
 			]
 		},
 		{
 			"name": "Psionics (UA)",
 			"shortName": "Psionics (UA)",
-			"source": "UAFighterRogueWizard",
+			"source": "HMB",
 			"className": "Wizard",
 			"classSource": "PHB",
 			"page": 3,
 			"subclassFeatures": [
-				"Psionics|Wizard||Psionics (UA)|UAFighterRogueWizard|2",
-				"Thought Form|Wizard||Psionics (UA)|UAFighterRogueWizard|6",
-				"Mental Discipline|Wizard||Psionics (UA)|UAFighterRogueWizard|10",
-				"Empowered Psionics|Wizard||Psionics (UA)|UAFighterRogueWizard|10",
-				"Thought Travel|Wizard||Psionics (UA)|UAFighterRogueWizard|14"
+				"Psionics|Wizard||Psionics (UA)|HMB|2",
+				"Thought Form|Wizard||Psionics (UA)|HMB|6",
+				"Mental Discipline|Wizard||Psionics (UA)|HMB|10",
+				"Empowered Psionics|Wizard||Psionics (UA)|HMB|10",
+				"Thought Travel|Wizard||Psionics (UA)|HMB|14"
 			]
 		},
 		{
@@ -3033,42 +3033,42 @@
 		},
 		{
 			"name": "Onomancy",
-			"source": "UAClericDruidWizard",
+			"source": "HMB",
 			"page": 4,
 			"className": "Wizard",
 			"classSource": "PHB",
 			"subclassShortName": "Onomancy (UA)",
-			"subclassSource": "UAClericDruidWizard",
+			"subclassSource": "HMB",
 			"level": 2,
 			"entries": [
 				"Practitioners of magic well know the power of names, but wizards who follow the tradition of Onomancy use their magic to manipulate the words that encompass existence. Onomancers expand their study into language itself, searching for threads of magical significance that weave through names. Something that is named stands out in the multiverse, distinct from the tapestry of creation all around it.",
 				"That distinction creates power that onomancers seek to tap. By speaking a target's true name, the wizard's spells slip between the cracks of the target's defenses, conforming to its essential nature through the power of its name. To protect themselves, wizards who follow this tradition often hide their true names, typically by adopting monikers and pseudonyms.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "True Names|Wizard||Onomancy (UA)|UAClericDruidWizard|2"
+					"subclassFeature": "True Names|Wizard||Onomancy (UA)|HMB|2"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bonus Proficiencies|Wizard||Onomancy (UA)|UAClericDruidWizard|2"
+					"subclassFeature": "Bonus Proficiencies|Wizard||Onomancy (UA)|HMB|2"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Extract Name|Wizard||Onomancy (UA)|UAClericDruidWizard|2"
+					"subclassFeature": "Extract Name|Wizard||Onomancy (UA)|HMB|2"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Fateful Naming|Wizard||Onomancy (UA)|UAClericDruidWizard|2"
+					"subclassFeature": "Fateful Naming|Wizard||Onomancy (UA)|HMB|2"
 				}
 			]
 		},
 		{
 			"name": "Bonus Proficiencies",
-			"source": "UAClericDruidWizard",
+			"source": "HMB",
 			"page": 4,
 			"className": "Wizard",
 			"classSource": "PHB",
 			"subclassShortName": "Onomancy (UA)",
-			"subclassSource": "UAClericDruidWizard",
+			"subclassSource": "HMB",
 			"level": 2,
 			"header": 1,
 			"entries": [
@@ -3078,12 +3078,12 @@
 		},
 		{
 			"name": "Extract Name",
-			"source": "UAClericDruidWizard",
+			"source": "HMB",
 			"page": 4,
 			"className": "Wizard",
 			"classSource": "PHB",
 			"subclassShortName": "Onomancy (UA)",
-			"subclassSource": "UAClericDruidWizard",
+			"subclassSource": "HMB",
 			"level": 2,
 			"header": 1,
 			"entries": [
@@ -3094,12 +3094,12 @@
 		},
 		{
 			"name": "Fateful Naming",
-			"source": "UAClericDruidWizard",
+			"source": "HMB",
 			"page": 4,
 			"className": "Wizard",
 			"classSource": "PHB",
 			"subclassShortName": "Onomancy (UA)",
-			"subclassSource": "UAClericDruidWizard",
+			"subclassSource": "HMB",
 			"level": 2,
 			"header": 1,
 			"entries": [
@@ -3110,12 +3110,12 @@
 		},
 		{
 			"name": "True Names",
-			"source": "UAClericDruidWizard",
+			"source": "HMB",
 			"page": 4,
 			"className": "Wizard",
 			"classSource": "PHB",
 			"subclassShortName": "Onomancy (UA)",
-			"subclassSource": "UAClericDruidWizard",
+			"subclassSource": "HMB",
 			"level": 2,
 			"header": 1,
 			"type": "inset",
@@ -3127,12 +3127,12 @@
 		},
 		{
 			"name": "Resonant Utterance",
-			"source": "UAClericDruidWizard",
+			"source": "HMB",
 			"page": 4,
 			"className": "Wizard",
 			"classSource": "PHB",
 			"subclassShortName": "Onomancy (UA)",
-			"subclassSource": "UAClericDruidWizard",
+			"subclassSource": "HMB",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -3164,27 +3164,27 @@
 							"entries": [
 								{
 									"type": "refOptionalfeature",
-									"optionalfeature": "Absorption|UAClericDruidWizard"
+									"optionalfeature": "Absorption|HMB"
 								},
 								{
 									"type": "refOptionalfeature",
-									"optionalfeature": "Devastation|UAClericDruidWizard"
+									"optionalfeature": "Devastation|HMB"
 								},
 								{
 									"type": "refOptionalfeature",
-									"optionalfeature": "Dissolution|UAClericDruidWizard"
+									"optionalfeature": "Dissolution|HMB"
 								},
 								{
 									"type": "refOptionalfeature",
-									"optionalfeature": "Nullification|UAClericDruidWizard"
+									"optionalfeature": "Nullification|HMB"
 								},
 								{
 									"type": "refOptionalfeature",
-									"optionalfeature": "Puppetry|UAClericDruidWizard"
+									"optionalfeature": "Puppetry|HMB"
 								},
 								{
 									"type": "refOptionalfeature",
-									"optionalfeature": "Sympathy|UAClericDruidWizard"
+									"optionalfeature": "Sympathy|HMB"
 								}
 							]
 						}
@@ -3194,12 +3194,12 @@
 		},
 		{
 			"name": "Inexorable Pronouncement",
-			"source": "UAClericDruidWizard",
+			"source": "HMB",
 			"page": 4,
 			"className": "Wizard",
 			"classSource": "PHB",
 			"subclassShortName": "Onomancy (UA)",
-			"subclassSource": "UAClericDruidWizard",
+			"subclassSource": "HMB",
 			"level": 10,
 			"header": 2,
 			"entries": [
@@ -3209,12 +3209,12 @@
 		},
 		{
 			"name": "Relentless Naming",
-			"source": "UAClericDruidWizard",
+			"source": "HMB",
 			"page": 4,
 			"className": "Wizard",
 			"classSource": "PHB",
 			"subclassShortName": "Onomancy (UA)",
-			"subclassSource": "UAClericDruidWizard",
+			"subclassSource": "HMB",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -3584,12 +3584,12 @@
 		},
 		{
 			"name": "Psionics",
-			"source": "UAFighterRogueWizard",
+			"source": "HMB",
 			"page": 3,
 			"className": "Wizard",
 			"classSource": "PHB",
 			"subclassShortName": "Psionics (UA)",
-			"subclassSource": "UAFighterRogueWizard",
+			"subclassSource": "HMB",
 			"level": 2,
 			"entries": [
 				"Wizards study magical power in all its forms, including the magic of psionics. Those wizards who follow the tradition of Psionics hone the magical potential of their own minds. Sometimes called psionicists or mentalists, these wizards interact with the multiverse through the lens of their psionic aptitude and awareness.",
@@ -3597,30 +3597,30 @@
 				"As a member of the Psionics tradition, you might have awoken your psionic potential through the strain of your esoteric studies, or perhaps you joined a scholarly order dedicated to unlocking the magic of the mind.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Psionic Focus|Wizard||Psionics (UA)|UAFighterRogueWizard|2"
+					"subclassFeature": "Psionic Focus|Wizard||Psionics (UA)|HMB|2"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Psionic Devotion|Wizard||Psionics (UA)|UAFighterRogueWizard|2"
+					"subclassFeature": "Psionic Devotion|Wizard||Psionics (UA)|HMB|2"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Your Psionic Focus|Wizard||Psionics (UA)|UAFighterRogueWizard|2"
+					"subclassFeature": "Your Psionic Focus|Wizard||Psionics (UA)|HMB|2"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Psionic Spells|Wizard||Psionics (UA)|UAFighterRogueWizard|2"
+					"subclassFeature": "Psionic Spells|Wizard||Psionics (UA)|HMB|2"
 				}
 			]
 		},
 		{
 			"name": "Psionic Devotion",
-			"source": "UAFighterRogueWizard",
+			"source": "HMB",
 			"page": 3,
 			"className": "Wizard",
 			"classSource": "PHB",
 			"subclassShortName": "Psionics (UA)",
-			"subclassSource": "UAFighterRogueWizard",
+			"subclassSource": "HMB",
 			"level": 2,
 			"header": 1,
 			"entries": [
@@ -3651,12 +3651,12 @@
 		},
 		{
 			"name": "Psionic Focus",
-			"source": "UAFighterRogueWizard",
+			"source": "HMB",
 			"page": 3,
 			"className": "Wizard",
 			"classSource": "PHB",
 			"subclassShortName": "Psionics (UA)",
-			"subclassSource": "UAFighterRogueWizard",
+			"subclassSource": "HMB",
 			"level": 2,
 			"header": 1,
 			"entries": [
@@ -3675,12 +3675,12 @@
 		},
 		{
 			"name": "Psionic Spells",
-			"source": "UAFighterRogueWizard",
+			"source": "HMB",
 			"page": 3,
 			"className": "Wizard",
 			"classSource": "PHB",
 			"subclassShortName": "Psionics (UA)",
-			"subclassSource": "UAFighterRogueWizard",
+			"subclassSource": "HMB",
 			"level": 2,
 			"header": 1,
 			"type": "inset",
@@ -3701,12 +3701,12 @@
 		},
 		{
 			"name": "Your Psionic Focus",
-			"source": "UAFighterRogueWizard",
+			"source": "HMB",
 			"page": 3,
 			"className": "Wizard",
 			"classSource": "PHB",
 			"subclassShortName": "Psionics (UA)",
-			"subclassSource": "UAFighterRogueWizard",
+			"subclassSource": "HMB",
 			"level": 2,
 			"header": 1,
 			"type": "inset",
@@ -3719,12 +3719,12 @@
 		},
 		{
 			"name": "Thought Form",
-			"source": "UAFighterRogueWizard",
+			"source": "HMB",
 			"page": 3,
 			"className": "Wizard",
 			"classSource": "PHB",
 			"subclassShortName": "Psionics (UA)",
-			"subclassSource": "UAFighterRogueWizard",
+			"subclassSource": "HMB",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -3752,12 +3752,12 @@
 		},
 		{
 			"name": "Empowered Psionics",
-			"source": "UAFighterRogueWizard",
+			"source": "HMB",
 			"page": 3,
 			"className": "Wizard",
 			"classSource": "PHB",
 			"subclassShortName": "Psionics (UA)",
-			"subclassSource": "UAFighterRogueWizard",
+			"subclassSource": "HMB",
 			"level": 10,
 			"header": 2,
 			"entries": [
@@ -3767,12 +3767,12 @@
 		},
 		{
 			"name": "Mental Discipline",
-			"source": "UAFighterRogueWizard",
+			"source": "HMB",
 			"page": 3,
 			"className": "Wizard",
 			"classSource": "PHB",
 			"subclassShortName": "Psionics (UA)",
-			"subclassSource": "UAFighterRogueWizard",
+			"subclassSource": "HMB",
 			"level": 10,
 			"header": 2,
 			"entries": [
@@ -3783,12 +3783,12 @@
 		},
 		{
 			"name": "Thought Travel",
-			"source": "UAFighterRogueWizard",
+			"source": "HMB",
 			"page": 3,
 			"className": "Wizard",
 			"classSource": "PHB",
 			"subclassShortName": "Psionics (UA)",
-			"subclassSource": "UAFighterRogueWizard",
+			"subclassSource": "HMB",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -4339,38 +4339,38 @@
 		},
 		{
 			"name": "Lore Mastery",
-			"source": "UAWarlockAndWizard",
+			"source": "HMB",
 			"page": 5,
 			"className": "Wizard",
 			"classSource": "PHB",
 			"subclassShortName": "Lore Mastery (UA)",
-			"subclassSource": "UAWarlockAndWizard",
+			"subclassSource": "HMB",
 			"level": 2,
 			"entries": [
 				"Lore Mastery is an arcane tradition fixated on understanding the underlying mechanics of magic. It is the most academic of all arcane traditions. The promise of uncovering new knowledge or proving (or discrediting) a theory of magic is usually required to rouse its practitioners from their laboratories, academies, and archives to pursue a life of adventure.",
 				"Known as savants, followers of this tradition are a bookish lot who see beauty and mystery in the application of magic. The results of a spell are less interesting to them than the process that creates it. Some savants take a haughty attitude toward those who follow a tradition focused on a single school of magic, seeing them as provincial and lacking the sophistication needed to master true magic. Other savants are generous teachers, countering ignorance and deception with deep knowledge and good humor.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Lore Master|Wizard||Lore Mastery (UA)|UAWarlockAndWizard|2"
+					"subclassFeature": "Lore Master|Wizard||Lore Mastery (UA)|HMB|2"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Spell Secrets|Wizard||Lore Mastery (UA)|UAWarlockAndWizard|2"
+					"subclassFeature": "Spell Secrets|Wizard||Lore Mastery (UA)|HMB|2"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Altering Spells|Wizard||Lore Mastery (UA)|UAWarlockAndWizard|2"
+					"subclassFeature": "Altering Spells|Wizard||Lore Mastery (UA)|HMB|2"
 				}
 			]
 		},
 		{
 			"name": "Altering Spells",
-			"source": "UAWarlockAndWizard",
+			"source": "HMB",
 			"page": 5,
 			"className": "Wizard",
 			"classSource": "PHB",
 			"subclassShortName": "Lore Mastery (UA)",
-			"subclassSource": "UAWarlockAndWizard",
+			"subclassSource": "HMB",
 			"level": 2,
 			"header": 1,
 			"entries": [
@@ -4379,12 +4379,12 @@
 		},
 		{
 			"name": "Lore Master",
-			"source": "UAWarlockAndWizard",
+			"source": "HMB",
 			"page": 5,
 			"className": "Wizard",
 			"classSource": "PHB",
 			"subclassShortName": "Lore Mastery (UA)",
-			"subclassSource": "UAWarlockAndWizard",
+			"subclassSource": "HMB",
 			"level": 2,
 			"header": 1,
 			"entries": [
@@ -4394,12 +4394,12 @@
 		},
 		{
 			"name": "Spell Secrets",
-			"source": "UAWarlockAndWizard",
+			"source": "HMB",
 			"page": 5,
 			"className": "Wizard",
 			"classSource": "PHB",
 			"subclassShortName": "Lore Mastery (UA)",
-			"subclassSource": "UAWarlockAndWizard",
+			"subclassSource": "HMB",
 			"level": 2,
 			"header": 1,
 			"entries": [
@@ -4410,12 +4410,12 @@
 		},
 		{
 			"name": "Alchemical Casting",
-			"source": "UAWarlockAndWizard",
+			"source": "HMB",
 			"page": 5,
 			"className": "Wizard",
 			"classSource": "PHB",
 			"subclassShortName": "Lore Mastery (UA)",
-			"subclassSource": "UAWarlockAndWizard",
+			"subclassSource": "HMB",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -4427,12 +4427,12 @@
 		},
 		{
 			"name": "Prodigious Memory",
-			"source": "UAWarlockAndWizard",
+			"source": "HMB",
 			"page": 5,
 			"className": "Wizard",
 			"classSource": "PHB",
 			"subclassShortName": "Lore Mastery (UA)",
-			"subclassSource": "UAWarlockAndWizard",
+			"subclassSource": "HMB",
 			"level": 10,
 			"header": 2,
 			"entries": [
@@ -4441,12 +4441,12 @@
 		},
 		{
 			"name": "Master of Magic",
-			"source": "UAWarlockAndWizard",
+			"source": "HMB",
 			"page": 5,
 			"className": "Wizard",
 			"classSource": "PHB",
 			"subclassShortName": "Lore Mastery (UA)",
-			"subclassSource": "UAWarlockAndWizard",
+			"subclassSource": "HMB",
 			"level": 14,
 			"header": 2,
 			"entries": [
