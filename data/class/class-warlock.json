@@ -1799,10 +1799,6 @@
             },
             {
               "type": "refOptionalfeature",
-              "optionalfeature": "Pact of the Star Chain|HMB"
-            },
-            {
-              "type": "refOptionalfeature",
               "optionalfeature": "Pact of the Talisman|UAClassFeatureVariants"
             },
             {
