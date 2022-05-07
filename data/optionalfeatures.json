@@ -1,6 +1,89 @@
 {
   "optionalfeature": [
     {
+			"name": "Enhancement Discipline",
+			"entries": [
+				"Enhancement is the ability to interact with a creature's nature and abilities with your psionic power.",
+				{
+					"type": "section",
+					"entries": [
+						{
+							"type": "entries",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "Enhancing Skill",
+									"entries": [
+										"You can focus your psionics to enhance your abilities. Whenever you make a skill check using Strength or Dexterity, you can add 1d4 to the result."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Enhancing Surge",
+									"entries": [
+										"{@italic Psionic Power}",
+										"{@bold Casting Time:} 1 action<br />{@bold Range:} 60 feet<br />{@bold Components:} S<br />{@bold Duration:} 1 round",
+										"You empower the body of a target creature you can see with your Psionics. The target gains 1d6 temporary hit points and the next time the target deals damage, it deals 1d6 additional damage to one application of that damage roll. Any remaining effects of this spell end at the start of your next turn.",
+										"You can spend psi points up to your per use limit to add the following modifiers to Enhancing Surge (you can add multiple modifiers). The points must be spent when choosing the target of the power.",
+										"{@bold Savage} {@italic (1+ psi point)} : The target's next weapon attack deals an additional +1d6 damage for each psi point spent.",
+										"{@bold Fortifying} {@italic (1+ psi point)} : The target gains an additional +1d6 temporary hit points for each point spent.",
+										"{@bold Swift} {@italic (2 psi points)} : The target gains an additional action. That action can be used only to take the Dash, Disengage, Hide, or Use an Object action.",
+										"{@bold Resilient} {@italic (3 psi points)} : The target gains resistance to all damage until the start of your next turn."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Alternate Effects",
+									"entries": [
+										"Additionally, when you learn the Enhancement psionic discipline, you can use your Psionics feature to cast the following spells as per the rules defined in the feature:",
+										{
+											"type": "table",
+											"colStyles": [
+												"col-2 text-center",
+												"col-10 text-center"
+											],
+											"colLabels": [
+												"Point Cost",
+												"Alternate Effects"
+											],
+											"rows": [
+												[
+													"1",
+													"{@spell heroism}, {@spell longstrider}, {@spell unlocked potential|HMB}"
+												],
+												[
+													"2",
+													"{@spell alter self}, {@spell darkvision}, {@spell enlarge/reduce}, {@spell lesser restoration}"
+												],
+												[
+													"3",
+													"{@spell catnap|xge}, {@spell haste}, {@spell life transference|xge}, {@spell water breathing}"
+												],
+												[
+													"4",
+													"{@spell freedom of movement}, {@spell stoneskin}"
+												],
+												[
+													"5",
+													"{@spell greater restoration}, {@spell skill empowerment|xge}"
+												]
+											]
+										},
+										"If a spell can be cast at a higher level, you can spend an additional psi point to cast it at that higher level."
+									]
+								}
+							]
+						}
+					]
+				}
+			],
+			"source": "HMB",
+			"page": 7,
+			"featureType": [
+				"PsiD"
+			]
+		},
+    {
       "name": "Aberration",
       "source": "HMB",
       "featureType": [
