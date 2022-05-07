@@ -953,15 +953,15 @@
     },
     {
       "name": "College of Satire (UA)",
-      "shortName": "Satire",
+      "shortName": "Satire (UA)",
       "source": "HMB",
       "className": "Bard",
       "classSource": "PHB",
       "page": 2,
       "subclassFeatures": [
-        "College of Satire|Bard||Satire|HMB|3",
-        "Fool's Insight|Bard||Satire|HMB|6",
-        "Fool's Luck|Bard||Satire|HMB|14"
+        "College of Satire|Bard||Satire (UA)|HMB|3",
+        "Fool's Insight|Bard||Satire (UA)|HMB|6",
+        "Fool's Luck|Bard||Satire (UA)|HMB|14"
       ]
     },
     {
@@ -2633,7 +2633,7 @@
       "page": 2,
       "className": "Bard",
       "classSource": "PHB",
-      "subclassShortName": "Satire",
+      "subclassShortName": "Satire (UA)",
       "subclassSource": "HMB",
       "level": 3,
       "entries": [
@@ -2644,11 +2644,11 @@
         "Jesters adventure to safeguard the common folk and to undermine the plans of the rich, powerful, and arrogant. Their magic bolsters allies' spirits while casting doubt into foes' minds. Among bards, jesters are unmatched acrobats, and their ability to tumble, dodge, leap, and climb makes them slippery opponents in battle.",
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Bonus Proficiencies|Bard||Satire|HMB|3"
+          "subclassFeature": "Bonus Proficiencies|Bard||Satire (UA)|HMB|3"
         },
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Tumbling Fool|Bard||Satire|HMB|3"
+          "subclassFeature": "Tumbling Fool|Bard||Satire (UA)|HMB|3"
         }
       ]
     },
@@ -2658,7 +2658,7 @@
       "page": 2,
       "className": "Bard",
       "classSource": "PHB",
-      "subclassShortName": "Satire",
+      "subclassShortName": "Satire (UA)",
       "subclassSource": "HMB",
       "level": 3,
       "header": 1,
@@ -2672,7 +2672,7 @@
       "page": 2,
       "className": "Bard",
       "classSource": "PHB",
-      "subclassShortName": "Satire",
+      "subclassShortName": "Satire (UA)",
       "subclassSource": "HMB",
       "level": 3,
       "header": 1,
@@ -2694,7 +2694,7 @@
       "page": 2,
       "className": "Bard",
       "classSource": "PHB",
-      "subclassShortName": "Satire",
+      "subclassShortName": "Satire (UA)",
       "subclassSource": "HMB",
       "level": 6,
       "header": 2,
@@ -2709,7 +2709,7 @@
       "page": 2,
       "className": "Bard",
       "classSource": "PHB",
-      "subclassShortName": "Satire",
+      "subclassShortName": "Satire (UA)",
       "subclassSource": "HMB",
       "level": 14,
       "header": 2,
