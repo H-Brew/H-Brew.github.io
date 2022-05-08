@@ -3511,7 +3511,7 @@
       "subclassSource": "HMB",
       "level": 10,
       "entries": [
-        "Many places in the multiverse abound with beauty, intense emotion, and rampant magic; the Feywild, the Upper Planes, and other realms of supernatural power radiate with such forces and can profoundly influence people. As folk of deep feeling, barbarians are especially susceptible to these wild influences, with some barbarians being transformed by the magic. These magic-suffused barbarians walk the Path of Wild Magic. Elf, tiefling, aasimar, and genasi barbarians often seek this path, eager to manifest the otherworldly magic of their ancestors."
+        "From 10th level, you can use your supernatural strength to fight off anything that stands in your way.  When you would fail a saving throw while in a rage, you may use your reaction to repeat the throw using your strength save modifier, potentially turning the failure into a success.  Once you use this feature, you can't do so again until your current rage ends."
       ]
     },
     {
@@ -3523,7 +3523,7 @@
       "subclassSource": "HMB",
       "level": 14,
       "entries": [
-        "Many places in the multiverse abound with beauty, intense emotion, and rampant magic; the Feywild, the Upper Planes, and other realms of supernatural power radiate with such forces and can profoundly influence people. As folk of deep feeling, barbarians are especially susceptible to these wild influences, with some barbarians being transformed by the magic. These magic-suffused barbarians walk the Path of Wild Magic. Elf, tiefling, aasimar, and genasi barbarians often seek this path, eager to manifest the otherworldly magic of their ancestors.",
+        "Starting from 14th level, before you would make a death saving throw, you may instead choose to trigger option 99-100 of the Unstable Rage table.  If you do, you regain 1 Hit Point, roll half of your remaining Hit Dice and gain Temporary HP equal to the total, and stand up if you are prone.  You cannot use this feature while you are already under the effects of 99-100 on the Unstable Rage table.",
         {
           "type": "refSubclassFeature",
           "subclassFeature": "Repressed Intelect|Barbarian||Abomination|HMB|14"
@@ -3539,7 +3539,7 @@
       "subclassSource": "HMB",
       "level": 14,
       "entries": [
-        "Many places in the multiverse abound with beauty, intense emotion, and rampant magic; the Feywild, the Upper Planes, and other realms of supernatural power radiate with such forces and can profoundly influence people. As folk of deep feeling, barbarians are especially susceptible to these wild influences, with some barbarians being transformed by the magic. These magic-suffused barbarians walk the Path of Wild Magic. Elf, tiefling, aasimar, and genasi barbarians often seek this path, eager to manifest the otherworldly magic of their ancestors."
+        "Also from 14th level, your Intelligence Maximum is increased to 24."
       ]
     }
   ]
