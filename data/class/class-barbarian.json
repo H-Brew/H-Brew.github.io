@@ -830,7 +830,7 @@
       "classSource": "PHB",
       "page": 25,
       "subclassFeatures": [
-        "Path of Abomination|Barbarian||Abomination|HMB|3",
+        "Path of the Abomination|Barbarian||Abomination|HMB|3",
         "Brokered Assistance|Barbarian||Abomination|HMB|6",
         "Unstoppable|Barbarian||Abomination|HMB|10",
         "Complete Control|Barbarian||Abomination|HMB|14"
@@ -3209,7 +3209,7 @@
       "subclassSource": "HMB",
       "level": 3,
       "entries": [
-        "Many places in the multiverse abound with beauty, intense emotion, and rampant magic; the Feywild, the Upper Planes, and other realms of supernatural power radiate with such forces and can profoundly influence people. As folk of deep feeling, barbarians are especially susceptible to these wild influences, with some barbarians being transformed by the magic. These magic-suffused barbarians walk the Path of Wild Magic. Elf, tiefling, aasimar, and genasi barbarians often seek this path, eager to manifest the otherworldly magic of their ancestors.",
+        "Whether through experimentation, intervention or\nancestry, the primal rage within you has become so  profound it has manifest into a dark and menacing entity. Lurking in the corner of your consciousness, the Abomination surfaces during moments of extreme stress, taking control of your mind and twisting your body into a monstrous form. For most, the Abomination is a thing to be feared, a thing that is not suppressed, controlled, or destroyed, will one day take permanent hold and wreak unspeakable havoc on the world.",
         {
           "type": "refSubclassFeature",
           "subclassFeature": "Bonus Proficiencies|Barbarian||Abomination|HMB|3"
@@ -3236,8 +3236,8 @@
       "header": 1,
       "entries": [
         "{@i 3rd-level Path of Abomination feature}",
-        "As an action, you can open your awareness to the presence of concentrated magic. Until the end of your next turn, you know the location of any spell or magic item within 60 feet of you that isn't behind total cover. When you sense a spell, you learn which school of magic it belongs to.",
-        "You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+        "When you select this path at 3rd level, you gain proficiency in one Intelligence skill of your choice. ",
+        "You also gain proficiency with one type of artisan's tools of your choice."
       ]
     },
     {
@@ -3252,8 +3252,8 @@
       "header": 1,
       "entries": [
         "{@i 3rd-level Path of Abomination feature}",
-        "As an action, you can open your awareness to the presence of concentrated magic. Until the end of your next turn, you know the location of any spell or magic item within 60 feet of you that isn't behind total cover. When you sense a spell, you learn which school of magic it belongs to.",
-        "You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+        "Starting from 3rd level, whenever you enter a rage, your body warps and your mind festers as the malevolent force within takes control the Abomination. You may determine the Abomination's appearance.",
+        "When you enter a rage, if your Intelligence score is higher than your Strength score, swap the two scores until your rage ends."
       ]
     },
     {
@@ -3268,8 +3268,8 @@
       "header": 1,
       "entries": [
         "{@i 3rd-level Path of Abomination feature}",
-        "As an action, you can open your awareness to the presence of concentrated magic. Until the end of your next turn, you know the location of any spell or magic item within 60 feet of you that isn't behind total cover. When you sense a spell, you learn which school of magic it belongs to.",
-        "You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.",
+        "Finally at 3rd level, the Abomination's fury grows as it is threatened. Immediately after you take damage while in a rage.rolla d20, If you rolla 1. roll on the Unstable Rage table. You apply the listed effect until your rage ends (unless otherwise specified) and cannot willingly end your rage until after your next turn.",
+        "Each time you roll a d20 for this feature and don't then roll on the Unstable Rage table, increase the number you need to roll by one. The number resets after you roll on the Unstable Rage table.",
         {
           "type": "table",
           "caption": "Wild Magic",
@@ -3284,35 +3284,43 @@
           "rows": [
             [
               "1",
-              "Shadowy tendrils lash around you. Each creature of your choice that you can see within 30 feet of you must succeed on a Constitution saving throw or take {@damage 1d12} necrotic damage. You also gain {@dice 1d12} temporary hit points."
+              "Your rage lasts until you roll a 1 on a d20."
             ],
             [
-              "2",
-              "You teleport up to 30 feet to an unoccupied space you can see. Until your rage ends, you can use this effect again on each of your turns as a bonus action."
+              "1",
+              "At the start of your next turn, you must use your action to attack a creature within 5 feet of you, if possible."
             ],
             [
-              "3",
-              "An intangible spirit, which looks like a {@creature flumph} or a {@creature pixie} (your choice), appears within 5 feet of one creature of your choice that you can see within 30 feet of you. At the end of the current turn, the spirit explodes, and each creature within 5 feet of it must succeed on a Dexterity saving throw or take {@damage 1d6} force damage. Until your rage ends, you can use this effect again, summoning another spirit, on each of your turns as a bonus action."
+              "1",
+              "You grow one size larger."
             ],
             [
-              "4",
-              "Magic infuses one weapon of your choice that you are holding. Until your rage ends, the weapon's damage type changes to force, and it gains the light and thrown properties, with a normal range of 20 feet and a long range of 60 feet. If the weapon leaves your hand, the weapon reappears in your hand at the end of the current turn."
+              "1",
+              "Roll all of your current Hit Dice and gain Temporary HP equal to the total"
             ],
             [
-              "5",
-              "Whenever a creature hits you with an attack roll before your rage ends, that creature takes {@damage 1d6} force damage, as magic lashes out in retribution."
+              "1",
+              "Each time you deal damage, you and the target take an additional d6 bludgeoning damage."
             ],
             [
-              "6",
-              "Until your rage ends, you are surrounded by multi colored, protective lights; you gain a +1 bonus to AC, and while within 10 feet of you, your allies gain the same bonus."
+              "1",
+              "Roll 4d10. All creatures within 15-feet of you take force damage equal to the total."
             ],
             [
-              "7",
-              "Flowers and vines temporarily grow around you. Until your rage ends, the ground within 15 feet of you is difficult terrain for your enemies."
+              "1",
+              "You expend all of your movement and move towards the creature you can see with the most HP. If you have a reaction, it is used."
             ],
             [
-              "8",
-              "A bolt of light shoots from your chest. Another creature of your choice that you can see within 30 feet of you must succeed on a Constitution saving throw or take {@damage 1d6} radiant damage and be {@condition blinded} until the start of your next turn. Until your rage ends, you can use this effect again on each of your turns as a bonus action."
+              "1",
+              "All of your weapons have the thrown property with a range of 15/30."
+            ],
+            [
+              "1",
+              "Immediately make an attack against each creature within your melee range. "
+            ],
+            [
+              "1",
+              "Your unarmed strikes deal 1d12 bludgeoning damage. "
             ]
           ],
           "data": {
@@ -3330,7 +3338,8 @@
       "subclassSource": "HMB",
       "level": 6,
       "entries": [
-        "Many places in the multiverse abound with beauty, intense emotion, and rampant magic; the Feywild, the Upper Planes, and other realms of supernatural power radiate with such forces and can profoundly influence people. As folk of deep feeling, barbarians are especially susceptible to these wild influences, with some barbarians being transformed by the magic. These magic-suffused barbarians walk the Path of Wild Magic. Elf, tiefling, aasimar, and genasi barbarians often seek this path, eager to manifest the otherworldly magic of their ancestors."
+        "At 6th level, you gain proficiency in Intelligence saving throws. In addition, you and your Abomination have learnt to work together towards shared goals. While not in a rage, you may give yourself advantage on any Strength check or Saving throw. While in a rage, you may give yourself advantage on any Intelligence check or saving throw.",
+        "You may use this feature a number of times cqual to your proficiency bonus, and you regain all expended uses of it when you finish a long rest."
       ]
     },
     {
