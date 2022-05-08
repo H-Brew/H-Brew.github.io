@@ -3268,7 +3268,7 @@
       "header": 1,
       "entries": [
         "{@i 3rd-level Path of Abomination feature}",
-        "Finally at 3rd level, the Abomination's fury grows as it is threatened. Immediately after you take damage while in a rage.rolla d20, If you rolla 1. roll on the Unstable Rage table. You apply the listed effect until your rage ends (unless otherwise specified) and cannot willingly end your rage until after your next turn.",
+        "Finally at 3rd level, the Abomination's fury grows as it is threatened. Immediately after you take damage while in a rage roll a d20; If you roll a 1, roll on the Unstable Rage table. You apply the listed effect until your rage ends (unless otherwise specified) and cannot willingly end your rage until after your next turn.",
         "Each time you roll a d20 for this feature and don't then roll on the Unstable Rage table, increase the number you need to roll by one. The number resets after you roll on the Unstable Rage table.",
         {
           "type": "table",
