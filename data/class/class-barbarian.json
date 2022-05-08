@@ -3272,7 +3272,7 @@
         "Each time you roll a d20 for this feature and don't then roll on the Unstable Rage table, increase the number you need to roll by one. The number resets after you roll on the Unstable Rage table.",
         {
           "type": "table",
-          "caption": "Wild Magic",
+          "caption": "Unstable Rage",
           "colLabels": [
             "d100",
             "Effect"
@@ -3283,44 +3283,204 @@
           ],
           "rows": [
             [
-              "1",
+              "01-02",
               "Your rage lasts until you roll a 1 on a d20."
             ],
             [
-              "1",
+              "03-04",
               "At the start of your next turn, you must use your action to attack a creature within 5 feet of you, if possible."
             ],
             [
-              "1",
+              "05-06",
               "You grow one size larger."
             ],
             [
-              "1",
+              "07-08",
               "Roll all of your current Hit Dice and gain Temporary HP equal to the total"
             ],
             [
-              "1",
+              "09-10",
               "Each time you deal damage, you and the target take an additional d6 bludgeoning damage."
             ],
             [
-              "1",
+              "11-12",
               "Roll 4d10. All creatures within 15-feet of you take force damage equal to the total."
             ],
             [
-              "1",
+              "13-14",
               "You expend all of your movement and move towards the creature you can see with the most HP. If you have a reaction, it is used."
             ],
             [
-              "1",
+              "15-16",
               "All of your weapons have the thrown property with a range of 15/30."
             ],
             [
-              "1",
+              "17-18",
               "Immediately make an attack against each creature within your melee range. "
             ],
             [
-              "1",
+              "19-20",
               "Your unarmed strikes deal 1d12 bludgeoning damage. "
+            ],
+            [
+              "21-22",
+              "You use your Relentless Attack feature each turn."
+            ],
+            [
+              "23-24",
+              "When your rage ends, the Abomination maintains control of your mind for 1d4 hours."
+            ],
+            [
+              "25-26",
+              "Subtract your proficiency bonus from your AC, and add it to your damage rolls."
+            ],
+            [
+              "27-28",
+              "Raise your Strength, Dexterity and Constitution scores to their maximum value. You have disadvantage on all saving throws."
+            ],
+            [
+              "29-30",
+              "The Abomination is pushed to the back of your mind, as a new, more powerful manifestation takes over."
+            ],
+            [
+              "31-32",
+              "Whenever a creature within 5 feet of you makes an attack, it takes 1d4 Psychic damage."
+            ],
+            [
+              "33-34",
+              "For your next saving throw, you are considered to have rolled a 20. "
+            ],
+            [
+              "35-36",
+              "You see a spiritual stag. Add 1d4 to all of your attack rolls."
+            ],
+            [
+              "37-38",
+              "You and all creatures within 5 feet add their Charisma modifier to their damage rolls."
+            ],
+            [
+              "39-40",
+              "Each time you take damage, you teleport to an unoccupied space within 5-feet of the source."
+            ],
+            [
+              "41-42",
+              "You become wreathed by flames. You gain the benefits of the {@spell Fire Shield} spell."
+            ],
+            [
+              "43-44",
+              "Each time you deal damage to a creature, they are knocked back 10 feet."
+            ],
+            [
+              "45-46",
+              "Each of your melee attacks may target an additional creature. "
+            ],
+            [
+              "47-48",
+              "On your next turn, you are considered to be under the effects of the {@spell Confusion} spell."
+            ],
+            [
+              "49-50",
+              "You severe yourself from the Abomination and appear in a space within 5-feet. You each have your own body and mind. The Abomination is always in a rage and you cannot enter a rage. You share initiative counts and HP. If you would drop to o HP, your bodies come back together in your space, and you have 1 Hit Point."
+            ],
+            [
+              "51-52",
+              "You may Dash as a bonus action."
+            ],
+            [
+              "53-54",
+              "You make attacks with disadvantage, but your damage is doubled on a hit."
+            ],
+            [
+              "55-56",
+              "The DM rolls a d1oo. Your rage lasts for that many hours and can't be broken. When it ends, you gain a level of exhaustion."
+            ],
+            [
+              "57-58",
+              "Your melee attacks target all creatures within 5-feet of you."
+            ],
+            [
+              "59-60",
+              "All creatures within 30-feet of you must succeed on a DC15 Wisdom save or be Frightened of you until the end of the round."
+            ],
+            [
+              "61-62",
+              "At the start of each of your turns, make a DC10 Charisma saving throw. If you fail, you may only take the Help action that turn."
+            ],
+            [
+              "63-64",
+              "You can throw a Grappled creature up to 3x your Strength score as an action."
+            ],
+            [
+              "65-66",
+              "Each time you take damage, decrease your Intelligence score by 1 and increase your Strength score by 1. Your rage ends if your Intelligence reaches 5 or less."
+            ],
+            [
+              "67-68",
+              "Your maximum Jump range is tripled."
+            ],
+            [
+              "69-70",
+              "Your Movement speed increases by 10."
+            ],
+            [
+              "71-72",
+              "All friendly creatures within 5-feet of you roll saving throws with advantage."
+            ],
+            [
+              "73-74",
+              "You can only communicate in monosyllabic yelling."
+            ],
+            [
+              "75-76",
+              "All of your attacks deal Force damage, instead of their normal type."
+            ],
+            [
+              "77-78",
+              "Your attacks deal an additional do damage to the last creature to damage you."
+            ],
+            [
+              "79-80",
+              "On a hostile creature's turn, they may use their action to force you to make a single attack."
+            ],
+            [
+              "81-82",
+              "When you reduce a creature to 0 Hit Points, you retain all additional damage. The next time you deal damage, add that damage to the total."
+            ],
+            [
+              "83-84",
+              "When you damage a friendly creature, you regain Hit Points equal to half the damage dealt."
+            ],
+            [
+              "85-86",
+              "All creatures within 15 feet must make a DC15 Dexterity saving throw. If they fail, they are knocked Prone."
+            ],
+            [
+              "87-88",
+              "You gain advantage on all Strength and Dexterity checks."
+            ],
+            [
+              "89-90",
+              "You, and all creatures within 10-feet of you suffer the effects of the Bane spell."
+            ],
+            [
+              "91-92",
+              "You ignore the effects of difficult terrain"
+            ],
+            [
+              "93-94",
+              "All creatures within 30-feet (including you) must succeed on a DC15 Constitution saving throw or take damage equal to your Strength score."
+            ],
+            [
+              "95-96",
+              "You may use your Reaction to reduce an attack roll made against you to a 10."
+            ],
+            [
+              "97-98",
+              "When you succed on a Shove action, you may make one attack as a bonus action. "
+            ],
+            [
+              "99-100",
+              "When your rage ends, you do not revert to your normal form. The Abomination retains control of your mind and body. You may only end this condition by the Wish spell, if you roll this number on the table again, or if the Abomination is convinced to allow you return."
             ]
           ],
           "data": {
